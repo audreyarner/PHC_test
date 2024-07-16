@@ -1,0 +1,340 @@
+Sample	Gender	Age	Occupation	NumberPreg	MilkDrink	Environment	Lifestyle	SegmentedNeutrophils	Eosinophils	Basophils	Monocytes	Lymphocytes	TotalCells	MonocytesPercent	SegmentedNeutrophilsPercent	LymphocytesPercent	EosinophilsPercent	BasophilsPercent	PC1	Count
+Barcode_1052	M	42	Fisherman	NA	Rarely	Traditional	RuralNotPastoral	64	2	0	4	30	100	0.04	0.64	0.3	0.02	0	-0.185325373070605	21617037
+Barcode_1073	F	40	Transporting fish	8	Rarely	Traditional	RuralNotPastoral	47	2	0	0	51	100	0	0.47	0.51	0.02	0	0.0822916754622211	25599737
+Barcode_1115	F	53	N/A	5	1-2 times per week	Traditional	RuralNotPastoral	50	8	0	2	40	100	0.02	0.5	0.4	0.08	0	-0.0144567577062197	2834555
+Barcode_1118	F	23	Selling fish	1	Everyday	Traditional	RuralNotPastoral	54	6	2	4	34	100	0.04	0.54	0.34	0.06	0.02	-0.0847482550081179	21977776
+Barcode_1126	F	30	Casual worker	3	1-2 times per week	Traditional	RuralNotPastoral	54	8	0	6	32	100	0.06	0.54	0.32	0.08	0	-0.0982997115391435	38900531
+Barcode_1156	F	25	House wife	3	1-2 times per week	Traditional	RuralNotPastoral	50	0	2	0	48	100	0	0.5	0.48	0	0.02	0.0397851862537155	2554875
+Barcode_1160	M	25	Lab technologist	NA	More than 2 times per week	Urban	Urban	66	8	2	2	22	100	0.02	0.66	0.22	0.08	0.02	-0.254300837424264	21520653
+Barcode_1162	M	21	Cleaner	NA	Everyday	Urban	Urban	28	6	4	4	58	100	0.04	0.28	0.58	0.06	0.04	0.269139355842752	23652440
+Barcode_1165	M	39	Pastoralist	NA	Everyday	Traditional	Pastoralist	29	4	2	10	55	100	0.1	0.29	0.55	0.04	0.02	0.241281343567284	5083351
+Barcode_1167	M	20	Driver	NA	Everyday	Urban	Urban	43	10	2	4	41	100	0.04	0.43	0.41	0.1	0.02	0.0436259104263724	33521333
+Barcode_1175	M	24	Student	NA	Everyday	Urban	Urban	48	4	2	8	38	100	0.08	0.48	0.38	0.04	0.02	-0.0136630248007111	12079447
+Barcode_1176	F	43	Cleaner	5	Rarely	Urban	Urban	47	7	0	3	43	100	0.03	0.47	0.43	0.07	0	0.0279101270326452	27210304
+Barcode_1178	M	25	Businessman	NA	Everyday	Urban	Urban	22	6	4	8	60	100	0.08	0.22	0.6	0.06	0.04	0.326661090240523	14127771
+Barcode_1180	M	29	Pastoralist	NA	Rarely	Urban	Urban	69	3	0	6	22	100	0.06	0.69	0.22	0.03	0	-0.276438004361093	16115066
+Barcode_1184	F	40	Pastoralist	2	1-2 times per week	Urban	Urban	37	2	2	6	53	100	0.06	0.37	0.53	0.02	0.02	0.169050167333012	19087570
+Barcode_1186	M	38	Vet	NA	Everyday	Urban	Urban	56	6	2	6	30	100	0.06	0.56	0.3	0.06	0.02	-0.12666973192458	9643814
+Barcode_1187	M	45	Pastoralist	NA	1-2 times per week	Traditional	RuralNotPastoral	55	4	0	2	39	100	0.02	0.55	0.39	0.04	0	-0.0580121102022937	2578103
+Barcode_1189	M	21	Businessman	NA	Everyday	Urban	Urban	38	6	0	4	52	100	0.04	0.38	0.52	0.06	0	0.155095824709926	20757620
+Barcode_1190	F	39	Pastoralist	4	Everyday	Traditional	Pastoralist	54	2	0	2	42	100	0.02	0.54	0.42	0.02	0	-0.0303121455695878	4388178
+Barcode_1192	M	43	Cleaner	NA	1-2 times per week	Urban	Urban	56	4	0	2	38	100	0.02	0.56	0.38	0.04	0	-0.0721485790253631	7850732
+Barcode_1201	M	41	Cleaner	NA	Rarely	Urban	Urban	56	6	1	2	35	100	0.02	0.56	0.35	0.06	0.01	-0.0925423641094666	22558716
+Barcode_1205	M	49	Pastoralist	NA	Everyday	Traditional	Pastoralist	36	4	0	8	52	100	0.08	0.36	0.52	0.04	0	0.169635179625056	38795620
+Barcode_1206	M	36	Pastoralist	NA	Everyday	Traditional	Pastoralist	59	1	0	3	37	100	0.03	0.59	0.37	0.01	0	-0.101037011415278	1445588
+Barcode_1209	M	26	Pastoralist	NA	Everyday	Traditional	Pastoralist	42	5	0	7	46	100	0.07	0.42	0.46	0.05	0	0.0848588884169825	7856575
+Barcode_1210	F	46	Pastoralist	8	Everyday	Traditional	Pastoralist	58	6	0	8	28	100	0.08	0.58	0.28	0.06	0	-0.154930630292108	6818809
+Barcode_1213	F	45	Cleaner	7	1-2 times per week	Urban	Urban	49	0	0	2	49	100	0.02	0.49	0.49	0	0	0.0539336943553958	3508429
+Barcode_1216	M	25	Pastoralist	NA	Everyday	Urban	Urban	47	3	3	4	43	100	0.04	0.47	0.43	0.03	0.03	0.0277219811933557	5680445
+Barcode_1219	M	53	Pastoralist	NA	Everyday	Traditional	Pastoralist	39	6	2	8	45	100	0.08	0.39	0.45	0.06	0.02	0.100001698797277	7795131
+Barcode_1226	M	25	House wife	1	Everyday	Urban	Urban	64	4	0	4	28	100	0.04	0.64	0.28	0.04	0	-0.198888868880241	1090943
+Barcode_1228	F	42	Teacher	6	Rarely	Urban	Urban	52	4	3	3	28	90	0.0333333333333333	0.577777777777778	0.311111111111111	0.0444444444444444	0.0333333333333333	-0.132160846430289	12017895
+Barcode_1232	F	26	Voluteer	1	1-2 times per week	Urban	Urban	57	2	0	1	40	100	0.01	0.57	0.4	0.02	0	-0.0658972824036343	4801733
+Barcode_1233	M	26	Security	NA	More than 2 times per week	Urban	Urban	50	8	4	6	32	100	0.06	0.5	0.32	0.08	0.04	-0.0690749933447339	12579329
+Barcode_1235	F	30	Teacher	3	Rarely	Urban	Urban	58	4	2	8	28	100	0.08	0.58	0.28	0.04	0.02	-0.155027713031405	6825257
+Barcode_1238	M	21	Mechanic	NA	More than 2 times per week	Urban	Urban	55	0	1	0	44	100	0	0.55	0.44	0	0.01	-0.0240668685871645	20410256
+Barcode_1245	M	48	Pastoralist	NA	Everyday	Traditional	Pastoralist	62	4	0	4	30	100	0.04	0.62	0.3	0.04	0	-0.170615931234103	1856891
+Barcode_1246	F	52	Selling firewood	15	Rarely	Urban	Urban	38	3	3	5	51	100	0.05	0.38	0.51	0.03	0.03	0.148125930965819	8835588
+Barcode_1247	F	25	House wife	2	11-2 timse per week	Traditional	RuralNotPastoral	34	4	2	2	55	97	0.0206185567010309	0.350515463917526	0.56701030927835	0.0412371134020619	0.0206185567010309	0.208644412736645	14928851
+Barcode_1248	F	35	Pastoralist	3	1-2 times per week	Traditional	RuralNotPastoral	76	6	0	6	12	100	0.06	0.76	0.12	0.06	0	-0.395738529837034	1761660
+Barcode_1252	M	45	Security	NA	Everyday	Urban	Urban	44	8	2	6	40	100	0.06	0.44	0.4	0.08	0.02	0.0294043981426165	7704685
+Barcode_1253	F	44	Pastoralist	10	Everyday	Traditional	Pastoralist	60	6	4	2	28	100	0.02	0.6	0.28	0.06	0.04	-0.169579107225145	5967253
+Barcode_1254	M	50	Pastor	NA	Everyday	Urban	Urban	42	6	2	4	46	100	0.04	0.42	0.46	0.06	0.02	0.0848893708687149	2799831
+Barcode_1257	M	41	Pastoralist	NA	1-2 times per week	Traditional	RuralNotPastoral	24	4	2	4	66	100	0.04	0.24	0.66	0.04	0.02	0.352909305493601	1517810
+Barcode_1260	F	39	Pastoralist	4	1-2 times per week	Traditional	RuralNotPastoral	36	3	2	3	56	100	0.03	0.36	0.56	0.03	0.02	0.196877697156748	15284330
+Barcode_1261	F	32	Laundry	3	More than 2 times per week	Urban	Urban	32	8	2	6	52	100	0.06	0.32	0.52	0.08	0.02	0.199042024019449	8242607
+Barcode_1262	M	19		NA	More than 2 times per week	Urban	Urban	47	5	1	3	44	100	0.03	0.47	0.44	0.05	0.01	0.0346433335678147	1952376
+Barcode_1265	F	28	Lab technologist	3	Rarely	Urban	Urban	40	8	2	6	44	100	0.06	0.4	0.44	0.08	0.02	0.085950273434894	19942266
+Barcode_1268	F	28	Trader	2	Rarely	Urban	Urban	48	4	0	8	40	100	0.08	0.48	0.4	0.04	0	-2.44625177711968e-06	8469059
+Barcode_1270	F	29	House wife	2	Rarely	Urban	Urban	40	4	0	6	50	100	0.06	0.4	0.5	0.04	0	0.126737843603101	3092332
+Barcode_1271	M	25	Lab technologist	NA	Everyday	Urban	Urban	42	8	2	10	38	100	0.1	0.42	0.38	0.08	0.02	0.0303802572481091	8903780
+Barcode_1273	M	30	Businessman	4	Everyday	Urban	Urban	54	2	0	8	36	100	0.08	0.54	0.36	0.02	0	-0.071257763380557	1488472
+Barcode_1276	M	47	Pastoralist	NA	Everyday	Traditional	Pastoralist	42	6	2	6	44	100	0.06	0.42	0.44	0.06	0.02	0.0712408315983918	19568081
+Barcode_1277	M	25	Cleaner	NA	1-2 times per week	Urban	Urban	45	10	0	4	39	98	0.0408163265306122	0.459183673469388	0.397959183673469	0.102040816326531	0	0.014089966540862	27605807
+Barcode_1279_A	M	33	Cleaner	NA	Rarely	Urban	Urban	36	5	0	4	54	99	0.0404040404040404	0.363636363636364	0.545454545454545	0.0505050505050505	0	0.184391735556891	26118033
+Barcode_1284	F	24	House wife	3	Rarely	Urban	Urban	36	4	2	4	54	100	0.04	0.36	0.54	0.04	0.02	0.183271679616768	3734808
+Barcode_1289	F	30	House wife	5	Rarely	Urban	Urban	49	3	1	3	44	100	0.03	0.49	0.44	0.03	0.01	0.0199338917313125	12416719
+Barcode_1290	M	49	Pastoralist	NA	1-2 times per week	Traditional	RuralNotPastoral	58	4	2	4	32	100	0.04	0.58	0.32	0.04	0.02	-0.127730634490759	5823922
+Barcode_1291	F	54	Pastoralist	8	Everyday	Traditional	Pastoralist	54	4	0	6	36	100	0.06	0.54	0.36	0.04	0	-0.0711727199198705	15572888
+Barcode_1292	F	48	House wife	7	More than 2 times per week	Urban	Urban	45	4	3	8	40	100	0.08	0.45	0.4	0.04	0.03	0.0219160923940301	6880943
+Barcode_1300	F	24	Lab technologist	NA	Everyday	Urban	Urban	62	6	1	2	29	100	0.02	0.62	0.29	0.06	0.01	-0.177361177047883	32346139
+Barcode_1301	F	43	Pastoralist	8	Everyday	Traditional	Pastoralist	38	2	2	6	52	100	0.06	0.38	0.52	0.02	0.02	0.154913698509942	10810031
+Barcode_1303	F	25	House wife	4	Rarely	Urban	Urban	46	6	4	6	38	100	0.06	0.46	0.38	0.06	0.04	0.00103437775718022	27152522
+Barcode_1306	F	53	Teacher	4	Rarely	Urban	Urban	61	6	2	5	26	100	0.05	0.61	0.26	0.06	0.02	-0.190527806404765	10043195
+Barcode_1307	M	35	Security	NA	Everyday	Urban	Urban	48	7	2	6	39	102	0.0588235294117647	0.470588235294118	0.382352941176471	0.0686274509803922	0.0196078431372549	-0.00505327953502	31807172
+Barcode_1313	M	45	Pastoralist	NA	1-2 times per week	Traditional	RuralNotPastoral	56	0	0	4	40	100	0.04	0.56	0.4	0	0	-0.0586701266764131	2600673
+Barcode_1316	M	23	Lab technologist	NA	Everyday	Urban	Urban	42	6	3	6	43	100	0.06	0.42	0.43	0.06	0.03	0.0644105423239248	13089045
+Barcode_1317_B	M	37	Pastoralist	NA	1-2 times per week	Traditional	RuralNotPastoral	51	6	2	2	39	100	0.02	0.51	0.39	0.06	0.02	-0.0286903092685866	112637228
+Barcode_1329	F	27	House wife	2	Rarely	Traditional	RuralNotPastoral	48	4	2	6	40	100	0.06	0.48	0.4	0.04	0.02	-1.44855303880129e-05	55560087
+Barcode_1332	F	32	Casual worker	5	Everyday	Traditional	RuralNotPastoral	62	4	2	4	28	100	0.04	0.62	0.28	0.04	0.02	-0.184276509783036	25706123
+Barcode_1334_A	M	55	Casual worker	NA	1-2 times per week	Traditional	RuralNotPastoral	36	8	4	4	48	100	0.04	0.36	0.48	0.08	0.04	0.142484109448561	6046704
+Barcode_1343	F	42	Pastoralist	10	Everyday	Traditional	Pastoralist	28	8	0	6	58	100	0.06	0.28	0.58	0.08	0	0.269248477860661	6150649
+Barcode_1350	M	24	Student	NA	1-2 times per week	Urban	Urban	41	0	0	1	58	100	0.01	0.41	0.58	0	0	0.173849714575112	1248287
+Barcode_1353	M	26	Cleaner	NA	Rarely	Urban	Urban	68	1	0	0	31	100	0	0.68	0.31	0.01	0	-0.207792421917418	8644727
+Barcode_1358	M	18	Farmer	NA	Rarely	Urban	Urban	46	2	0	0	52	100	0	0.46	0.52	0.02	0	0.0964281442852905	22217576
+Barcode_1360	M	24	Constructor	NA	Rarely	Urban	Urban	72	2	0	1	25	100	0.01	0.72	0.25	0.02	0	-0.277944314749675	5327074
+Barcode_1364	F	26	Counsellor	NA	Everyday	Urban	Urban	50	1	2	0	47	100	0	0.5	0.47	0.01	0.02	0.0330034383488972	6020766
+Barcode_1367	F	24	Student	1	Rarely	Urban	Urban	41	2	0	1	56	100	0.01	0.41	0.56	0.02	0	0.160286218765476	3368230
+Barcode_1368	F	25	Laundry	3	Rarely	Urban	Urban	16	4	0	2	79	101	0.0198019801980198	0.158415841584158	0.782178217821782	0.0396039603960396	0	0.495953332630667	7477752
+Barcode_1370	M	25	Student	NA	every day	Urban	Urban	54	1	1	1	43	100	0.01	0.54	0.43	0.01	0.01	-0.0235364173040749	7458912
+Barcode_1371	M	24	Construction Assistant	NA	1-2 times per week	Urban	Urban	57	0	0	0	43	100	0	0.57	0.43	0	0	-0.0455095169588363	6108620
+Barcode_1371	M	24	Construction Assistant	NA	1-2 times per week	Urban	Urban	57	0	0	0	43	100	0	0.57	0.43	0	0	-0.0455095169588363	6108620
+Barcode_1372	M	24	Animal keeping	NA	every day	Urban	Urban	34	5	3	0	58	100	0	0.34	0.58	0.05	0.03	0.225229658624267	4649568
+Barcode_1373	M	47	Security	NA	Everyday	Urban	Urban	35	2	0	0	64	101	0	0.346534653465347	0.633663366336634	0.0198019801980198	0	0.256962369701599	4916896
+Barcode_1375	M	40	None	NA	everyday	Urban	Urban	52	0	0	1	47	100	0.01	0.52	0.47	0	0	0.0183485575213491	13281683
+Barcode_1377	M	22	Driver	NA	every day	Urban	Urban	36	0	2	0	62	100	0	0.36	0.62	0	0.02	0.237695749776687	1755153
+Barcode_1378	M	24	Driver	NA	everyday	Urban	Urban	69	1	2	0	28	100	0	0.69	0.28	0.01	0.02	-0.235589469289421	2509253
+Barcode_1379	F	46	Cleaner	3	everyday	Urban	Urban	63	1	0	2	34	100	0.02	0.63	0.34	0.01	0	-0.150758617072394	6582703
+Barcode_1380	F	30	Business	5	every day	Urban	Urban	48	0	1	0	51	100	0	0.48	0.51	0	0.01	0.0748884131743213	7012424
+Barcode_1383	F	24	Lab Technologist	NA	everyday	Urban	Urban	64	1	0	1	34	100	0.01	0.64	0.34	0.01	0	-0.158070816260302	5738962
+Barcode_1384	M	28	Student	2	Everyday	Urban	Urban	49	2	0	1	48	100	0.01	0.49	0.48	0.02	0	0.0471944681809208	4702240
+Barcode_1385	F	24	Student	2	Everyday	Urban	Urban	65	1	1	0	33	100	0	0.65	0.33	0.01	0.01	-0.172213304722677	5596865
+Barcode_1400	M	50	Pastoralist	NA	Everyday	Traditional	Pastoralist	30	8	2	10	50	100	0.1	0.3	0.5	0.08	0.02	0.200017883124942	8319571
+Barcode_1403	M	54	Pastoralist	NA	Everyday	Traditional	Pastoralist	61	4	4	6	25	100	0.06	0.61	0.25	0.04	0.04	-0.197449158779224	1486734
+Barcode_1404	M	47	Charcoal burner	NA	1-2 times per week	Traditional	RuralNotPastoral	50	6	4	6	34	100	0.06	0.5	0.34	0.06	0.04	-0.0555114975350973	4068317
+Barcode_1405	M	39	Pastoralist	NA	1-2 times per week	Traditional	RuralNotPastoral	48	6	2	10	34	100	0.1	0.48	0.34	0.06	0.02	-0.0408750598806707	833776
+Barcode_1406	F	35	Pastoralist	6	Everyday	Traditional	Pastoralist	38	4	2	8	48	100	0.08	0.38	0.48	0.04	0.02	0.127701663429983	20166440
+Barcode_1411	F	68	Pastoralist	7	1-2 itmes per week	Traditional	RuralNotPastoral	52	6	2	6	34	100	0.06	0.52	0.34	0.06	0.02	-0.0701238566323022	7759530
+Barcode_1412	F	23	Pastoralist	3	Everyday	Traditional	Pastoralist	52	4	2	6	36	100	0.06	0.52	0.36	0.04	0.02	-0.0565603608226656	4371872
+Barcode_1414	F	36	Pastoralist	3	Everyday	Traditional	Pastoralist	46	6	2	8	38	100	0.08	0.46	0.38	0.06	0.02	0.00104641703579112	3223912
+Barcode_1415	F	29	Pastoralist	3	1-2 times per week	Traditional	RuralNotPastoral	60	4	4	8	20	96	0.0833333333333333	0.625	0.208333333333333	0.0416666666666667	0.0416666666666667	-0.23684583069242	20481381
+Barcode_1420	F	39	Pastoralist	5	Everyday	Traditional	Pastoralist	47	5	2	9	37	100	0.09	0.47	0.37	0.05	0.02	-0.0131325735176215	16851382
+Barcode_1428	F	36	Pastoralist	5	Everyday	Traditional	Pastoralist	54	4	0	6	36	100	0.06	0.54	0.36	0.04	0	-0.0711727199198705	18045813
+Barcode_1429	F	43	Charcoal burner	7	1-2 times per week	Traditional	RuralNotPastoral	35	1	1	3	60	100	0.03	0.35	0.6	0.01	0.01	0.231407951063921	22780190
+Barcode_1430	F	25	Pastoralist	2	1-2 times per week	Traditional	RuralNotPastoral	34	5	1	0	60	100	0	0.34	0.6	0.05	0.01	0.238890237173201	32271234
+Barcode_1431	F	45	Pastoralist	6	Everyday	Traditional	Pastoralist	34	3	0	3	60	100	0.03	0.34	0.6	0.03	0	0.23881121335182	12019065
+Barcode_1432	F	46	Pastoralist	10	Everyday	Traditional	Pastoralist	35	3	2	7	53	100	0.07	0.35	0.53	0.03	0.02	0.183717087439171	2659002
+Barcode_1433	F	44	Pastoralist	6	Everyday	Traditional	Pastoralist	36	4	0	6	54	100	0.06	0.36	0.54	0.04	0	0.183283718895379	2076855
+Barcode_1434	F	21	Pastoralist	1	1-2 times per week	Traditional	RuralNotPastoral	45	5	1	0	49	100	0	0.45	0.49	0.05	0.01	0.0833890801194381	26050401
+Barcode_1435	M	49	Pastoralist	NA	Everyday	Traditional	Pastoralist	52	4	6	6	32	100	0.06	0.52	0.32	0.04	0.06	-0.0838815179205336	5991325
+Barcode_1436	M	60	Pastoralist	NA	1-2 times per week	Traditional	RuralNotPastoral	46	4	0	2	48	100	0.02	0.46	0.48	0.04	0	0.0692161092053309	17507096
+Barcode_1437	F	35	Pastoralist	4	1-2 timrsc per week	Traditional	RuralNotPastoral	44	6	4	6	40	100	0.06	0.44	0.4	0.06	0.04	0.029307315403319	15871339
+Barcode_1438	F	42	Pastoralist	9	Everyday	Traditional	Pastoralist	50	8	4	4	34	100	0.04	0.5	0.34	0.08	0.04	-0.0554264540744108	34965988
+Barcode_1440_A	F	47	Pastoralist	7	1-2 times per week	Traditional	RuralNotPastoral	45	1	0	1	53	100	0.01	0.45	0.53	0.01	0	0.110522091378017	12697398
+Barcode_1441	F	41	Pastoralist	7	Everyday	Traditional	Pastoralist	49	2	0	4	45	100	0.04	0.49	0.45	0.02	0	0.0267216592754362	14398686
+Barcode_1442	F	38	Pastoralist	7	1-2 times per week	Traditional	RuralNotPastoral	64	3	1	2	30	100	0.02	0.64	0.3	0.03	0.01	-0.185288870979567	7449994
+Barcode_1443	F	30	Pastoralist	3	1-2 times per week	Traditional	RuralNotPastoral	35	3	0	2	60	100	0.02	0.35	0.6	0.03	0	0.231499014163912	12364788
+Barcode_1444	M	51	Pastoralist	NA	Everyday	Traditional	Pastoralist	35	7	3	6	49	100	0.06	0.35	0.49	0.07	0.03	0.156584076180592	11758065
+Barcode_1445	F	39	Pastoralist	6	Everyday	Traditional	Pastoralist	52	4	0	10	34	100	0.1	0.52	0.34	0.04	0	-0.0701968608143778	7556283
+Barcode_1446	M	31	Pastoralist	NA	1-2 times per week	Traditional	RuralNotPastoral	40	1	1	1	57	100	0.01	0.4	0.57	0.01	0.01	0.174374146218897	7867776
+Barcode_1447	F	50	Pastoralist	10	Everyday	Traditional	Pastoralist	46	2	0	1	51	100	0.01	0.46	0.51	0.02	0	0.089603874650129	9489350
+Barcode_1448	M	71	Pastoralist	NA	1-2 times per week	Traditional	RuralNotPastoral	52	4	4	8	33	101	0.0792079207920792	0.514851485148515	0.326732673267327	0.0396039603960396	0.0396039603960396	-0.0755116698835261	11577272
+Barcode_1449	F	69	Pastoralist	5	N/A	Traditional	RuralNotPastoral	38	3	2	3	54	100	0.03	0.38	0.54	0.03	0.02	0.168604759510609	7171273
+Barcode_1450	F	34	Pastoralist	4	Everyday	Traditional	Pastoralist	40	4	0	6	50	100	0.06	0.4	0.5	0.04	0	0.126737843603101	6320939
+Barcode_1451	F	29	Pastoralist	3	Everyday	Traditional	Pastoralist	50	0	0	2	48	100	0.02	0.5	0.48	0	0	0.0397972255323264	8410394
+Barcode_1452	F	37	Charcoal burner	7	1-2 times per week	Traditional	RuralNotPastoral	54	8	4	6	28	100	0.06	0.54	0.28	0.08	0.04	-0.125620868637011	12959980
+Barcode_1453	F	35	Pastoralist	5	Everyday	Traditional	Pastoralist	40	4	1	0	55	100	0	0.4	0.55	0.04	0.01	0.160853172139603	9976649
+Barcode_1454	F	31	Pastoralist	4	Everyday	Traditional	Pastoralist	33	4	4	6	51	98	0.0612244897959184	0.336734693877551	0.520408163265306	0.0408163265306122	0.0408163265306122	0.186904677701629	18641000
+Barcode_1455	F	33	Pastoralist	5	Everyday	Traditional	Pastoralist	57	3	0	2	38	100	0.02	0.57	0.38	0.03	0	-0.0795032999436142	6880630
+Barcode_1456	M	41	Pastoralist	NA	1-2 times per week	Traditional	RuralNotPastoral	34	4	0	6	56	100	0.06	0.34	0.56	0.04	0	0.211556656541518	20285510
+Barcode_1457	M	46	Pastoralist	NA	Everyday	Traditional	Pastoralist	32	4	4	8	52	100	0.08	0.32	0.52	0.04	0.04	0.198859897819465	4714285
+Barcode_1504	M	45	Security personnel	NA	1-2 times per week	Urban	Urban	54	1	0	9	36	100	0.09	0.54	0.36	0.01	0	-0.0713002851109003	20593865
+Barcode_1507	M	21	Student	NA	1-2 times per week	Urban	Urban	41	1	0	4	54	100	0.04	0.41	0.54	0.01	0	0.14659515776481	20505056
+Barcode_1508	M	48	Hawker	NA	1-2 times per week	Urban	Urban	42	0	0	8	50	100	0.08	0.42	0.5	0	0	0.111943358305912	6716880
+Barcode_1511	M	22	Security personnel	NA	Everyday	Urban	Urban	61	3	0	3	33	100	0.03	0.61	0.33	0.03	0	-0.142873444871053	8506590
+Barcode_1521	M	19	Student	NA	1-2 times per week	Urban	Urban	49	7	0	3	41	100	0.03	0.49	0.41	0.07	0	-0.000362810613493653	4565991
+Barcode_1524	F	22	Student	1	Everyday	Urban	Urban	45	0	0	1	54	100	0.01	0.45	0.54	0	0	0.117303839282835	13102670
+Barcode_1525	F	30	Casual worker	4	1-2 times per week	Urban	Urban	47	2	0	6	45	100	0.06	0.47	0.45	0.02	0	0.0413460576512519	32013454
+Barcode_1550	M	55	Security	NA	1- 2 times per week	Urban	Urban	58	0	0	4	38	100	0.04	0.58	0.38	0	0	-0.0869430643225518	15988427
+Barcode_1554	F	44	Casual worker	6	1-2 times per week	Urban	Urban	37	1	0	5	57	100	0.05	0.37	0.57	0.01	0	0.196316763421926	22447194
+Barcode_1555	M	22	Student	NA	1-2 times per week	Urban	Urban	60	1	1	1	37	100	0.01	0.6	0.37	0.01	0.01	-0.108355230242491	14481773
+Barcode_1556	M	64	Pastoralist	NA	1-2 times per week	Urban	Urban	59	2	0	7	32	100	0.07	0.59	0.32	0.02	0	-0.135115837860742	29806331
+Barcode_1561	F	55	Businesswoman	5	1-2 times per week	Urban	Urban	48	0	0	5	47	100	0.05	0.48	0.47	0	0	0.0475973542729805	760590
+Barcode_1563	F	42	House wife	6	1-2 times per week	Urban	Urban	43	1	0	4	52	100	0.04	0.43	0.52	0.01	0	0.118322220118671	10107368
+Barcode_1564	M	46	Casual worker	NA	1-2 times per week	Urban	Urban	50	0	0	1	49	100	0.01	0.5	0.49	0	0	0.0466214951674879	6015614
+Barcode_1569	F	35	Casual worker	7	1-2 times per week	Urban	Urban	48	1	0	3	48	100	0.03	0.48	0.48	0.01	0	0.0544641456384854	35572644
+Barcode_1571	M	21	Student	NA	1-2 times per week	Urban	Urban	57	0	0	2	41	100	0.02	0.57	0.41	0	0	-0.0591580562291594	4271101
+Barcode_1572	M	48	Security personnel	NA	1-2 times per week	Urban	Urban	60	0	0	8	32	100	0.08	0.6	0.32	0	0	-0.142513080509337	7805013
+Barcode_1573	M	40	Casual worker	NA	1-2 times per week	Urban	Urban	33	7	0	12	48	100	0.12	0.33	0.48	0.07	0	0.164402263839163	18634997
+Barcode_1574	M	22	Carpenter	NA	1-2 times per week	Urban	Urban	41	0	0	3	56	100	0.03	0.41	0.56	0	0	0.160201175304789	8231851
+Barcode_1575	F	24	Hair dressing	2	Everyday	Urban	Urban	60	0	0	4	36	100	0.04	0.6	0.36	0	0	-0.115216001968691	1699784
+Barcode_1576	M	24	Student	NA	1-2 times per week	Urban	Urban	60	5	1	1	33	100	0.01	0.6	0.33	0.05	0.01	-0.135482221861764	1536203
+Barcode_1577	M	47	Security personnel	NA	1-2 times per week	Urban	Urban	55	0	0	5	40	100	0.05	0.55	0.4	0	0	-0.0513579274885052	1813418
+Barcode_1580	M	32	Teacher	NA	1-2 times per week	Urban	Urban	62	2	2	5	29	100	0.05	0.62	0.29	0.02	0.02	-0.177537283608562	26331684
+Barcode_1581	M	37	Selling groceries	NA	1-2 times per week	Urban	Urban	50	0	0	5	45	100	0.05	0.5	0.45	0	0	0.0193244166268418	5158463
+Barcode_1582	F	27	House wife	3	1-2 times per week	Urban	Urban	42	0	0	4	54	100	0.04	0.42	0.54	0	0	0.139240436846558	6207320
+Barcode_1583	M	67	Pastoralist	NA	1-2 times per week	Urban	Urban	59	1	0	4	36	100	0.04	0.59	0.36	0.01	0	-0.10786128105044	7562279
+Barcode_1602	F	40	casual worker	6	1-2 times per week	Urban	Urban	65	2	0	2	31	100	0.02	0.65	0.31	0.02	0	-0.185813302623351	1066130
+Barcode_1604	M	35	Constructor	NA	1-2 timess per week	Urban	Urban	47	7	0	5	41	100	0.05	0.47	0.41	0.07	0	0.0142615877623221	5274528
+Barcode_1606	M	44	Security personnel	NA	1-2 times per week	Urban	Urban	45	3	0	3	49	100	0.03	0.45	0.49	0.03	0	0.083310056298057	12105659
+Barcode_1609	M	20	Student	NA	1-2 times per week	Urban	Urban	46	2	0	4	48	100	0.04	0.46	0.48	0.02	0	0.0691310657446443	6484101
+Barcode_1611	M	27	Hawker	NA	1-2 times per week	Urban	Urban	48	1	0	6	45	100	0.06	0.48	0.45	0.01	0	0.0339913367330008	7973313
+Barcode_1614	F	23	House wife	2	1-2 times per week	Urban	Urban	28	0	0	8	64	100	0.08	0.28	0.64	0	0	0.309853921828884	6278394
+Barcode_1615	F	50	Casual worker	4	1-2 times per week	Urban	Urban	39	4	0	5	52	100	0.05	0.39	0.52	0.04	0	0.147698582061332	18441957
+Barcode_1616	M	19	Student	NA	1-2 times per week	Urban	Urban	59	1	0	2	38	100	0.02	0.59	0.38	0.01	0	-0.0942127417801164	2077663
+Barcode_1620	M	32	Hawker	NA	Everyday	Urban	Urban	36	2	1	1	60	100	0.01	0.36	0.6	0.02	0.01	0.224138273606356	6786908
+Barcode_1622	M	32	Cleaner	NA	1-2 times per week	Urban	Urban	48	5	0	8	39	100	0.08	0.48	0.39	0.05	0	-0.0067841941565954	56410226
+Barcode_1626	F	33	Labtech	2	1-2 times per week	Urban	Urban	72	0	0	0	28	100	0	0.72	0.28	0	0	-0.257556549304877	3251152
+Barcode_1627	M	26	Student	NA	1-2 times per week	Urban	Urban	43	2	0	4	51	100	0.04	0.43	0.51	0.02	0	0.111540472213853	4804167
+Barcode_1628	F	39	Entreprenuer	NA	1-2 times per week	Urban	Urban	59	4	1	1	35	100	0.01	0.59	0.35	0.04	0.01	-0.114564005133877	221775243
+Barcode_1629	M	49	Security personnel	NA	1-2 times per week	Urban	Urban	51	2	0	6	41	100	0.06	0.51	0.41	0.02	0	-0.0151998176410257	7347070
+Barcode_1630	F	28	Cloth repairer	3	Everyday	Urban	Urban	66	1	0	2	31	100	0.02	0.66	0.31	0.01	0	-0.193168023541602	18429460
+Barcode_1631	F	22	Student	NA	1-2 times per week	Urban	Urban	57	0	0	0	43	100	0	0.57	0.43	0	0	-0.0455095169588363	19229187
+Barcode_1632	F	19	Businesswoman	NA	1-2 times per week	Urban	Urban	41	0	0	5	54	100	0.05	0.41	0.54	0	0	0.146552636034466	36827810
+Barcode_1633	F	20	Student	NA	1-2 times per week	Urban	Urban	56	3	0	0	41	100	0	0.56	0.41	0.03	0	-0.0517182918502218	8826352
+Barcode_1634	F	23	House wife	1	1-2 times per week	Urban	Urban	47	2	0	2	49	100	0.02	0.47	0.49	0.02	0	0.068643136191898	21582667
+Barcode_1635	M	19	Student	NA	1-2 times per week	Urban	Urban	38	0	0	5	57	100	0.05	0.38	0.57	0	0	0.188962042503674	29249398
+Barcode_1637	F	20	Student	NA	1-2 times per week	Urban	Urban	54	3	0	2	41	100	0.02	0.54	0.41	0.03	0	-0.0370938934744061	34087125
+Barcode_1638	M	22	Student	NA	1-2 times per week	Urban	Urban	58	1	0	6	35	100	0.06	0.58	0.35	0.01	0	-0.107373351497693	14531304
+Barcode_1642	M	49	Security personnel	NA	1-2 times per week	Urban	Urban	51	1	0	3	45	100	0.03	0.51	0.45	0.01	0	0.0120547391692772	16780798
+Barcode_1643	F	22	Hawker	1	Rarely	Urban	Urban	57	2	0	7	34	100	0.07	0.57	0.34	0.02	0	-0.106842900214604	2709029
+Barcode_1644	M	27	Phlebotomist	NA	1-2 times per week	Urban	Urban	51	1	0	5	43	100	0.05	0.51	0.43	0.01	0	-0.00159380010104592	17303741
+Barcode_1645	F	27	House wife	2	1-2 times per week	Urban	Urban	42	0	0	0	58	100	0	0.42	0.58	0	0	0.166537515387205	9060134
+Barcode_1646	F	45	Businesswoman	7	1-2 times per week	Urban	Urban	44	2	0	6	48	100	0.06	0.44	0.48	0.02	0	0.08375546412046	4589483
+Barcode_1647	M	35	Pastoralist	NA	1-2 times per week	Urban	Urban	36	0	0	4	60	100	0.04	0.36	0.6	0	0	0.224059249784975	4296773
+Barcode_1648	M	43	Army officer	NA	1-2 times per week	Urban	Urban	52	8	0	6	34	100	0.06	0.52	0.34	0.08	0	-0.0700267738930047	31712892
+Barcode_1649	M	24	Student	NA	1-2 times per week	Urban	Urban	44	0	0	10	46	100	0.1	0.44	0.46	0	0	0.0700218813894504	1068655
+Barcode_1651	F	35	Business	7	1-2 times per week	Urban	Urban	54	0	0	3	43	100	0.03	0.54	0.43	0	0	-0.0235729193951128	22134244
+Barcode_1653	M	22	Agent	NA	1-2 times per week	Urban	Urban	26	3	1	6	65	101	0.0594059405940594	0.257425742574257	0.643564356435644	0.0297029702970297	0.0099009900990099	0.328913423580184	20966983
+Barcode_1654	F	25	House wife	1	1-2 times per week	Urban	Urban	44	1	1	1	53	100	0.01	0.44	0.53	0.01	0.01	0.117828270926619	1923099
+Barcode_1664	F	29	House wife	3	1-2 times per week	Urban	Urban	42	1	0	0	57	100	0	0.42	0.57	0.01	0	0.159755767482386	1711346
+Barcode_1667	M	42	Security	NA	Everyday	Urban	Urban	48	4	0	7	41	100	0.07	0.48	0.41	0.04	0	0.00682182338338439	17657143
+Barcode_1668	M	42	Hawker	NA	1-2 times per week	Urban	Urban	51	8	0	8	33	100	0.08	0.51	0.33	0.08	0	-0.0695388443402584	9996942
+Barcode_1669	F	35	House wife	2	1-2 times per week	Urban	Urban	51	1	0	7	41	100	0.07	0.51	0.41	0.01	0	-0.015242339371369	12083020
+Barcode_1674	F	23	Casual worker	1	1-2 times per week	Urban	Urban	39	3	1	8	49	100	0.08	0.39	0.49	0.03	0.01	0.127177231786199	1229573
+Barcode_1675	F	45	Businesswoman	7	1-2 times per week	Urban	Urban	33	0	0	4	63	100	0.04	0.33	0.63	0	0	0.266468656254183	10151769
+Barcode_1676	F	24	Hotel attendant	1	1-2 times per week	Urban	Urban	57	0	0	3	40	100	0.03	0.57	0.4	0	0	-0.0659823258643209	3484345
+Barcode_1677	F	21	Student	1	1-2 times per week	Urban	Urban	38	1	0	4	57	100	0.04	0.38	0.57	0.01	0	0.189004564234018	761790
+Barcode_1679	F	44	Businesswoman	6	Everyday	Urban	Urban	62	2	0	1	35	100	0.01	0.62	0.35	0.02	0	-0.136579626518981	3283459
+Barcode_1680	M	53	Security	NA	1-2 times per week	Urban	Urban	77	0	0	3	20	100	0.03	0.77	0.2	0	0	-0.348711702325709	8365756
+Barcode_1683	M	30	Security	NA	1-2 times per week	Urban	Urban	56	0	0	4	40	100	0.04	0.56	0.4	0	0	-0.0586701266764131	4459899
+Barcode_1684	M	19	Student	NA	Everyday	Urban	Urban	45	1	0	3	51	100	0.03	0.45	0.51	0.01	0	0.0968735521076936	10598801
+Barcode_1685	M	45	Security	NA	1-2 times per week	Urban	Urban	68	2	1	0	29	100	0	0.68	0.29	0.02	0.01	-0.221404459096703	17015157
+Barcode_1687	M	33	Security personnel	NA	1-2 times per week	Urban	Urban	48	1	0	1	50	100	0.01	0.48	0.5	0.01	0	0.0681126849088085	6122949
+Barcode_1688	M	27	Electrician	NA	Rarely	Urban	Urban	38	4	0	2	57	101	0.0198019801980198	0.376237623762376	0.564356435643564	0.0396039603960396	0	0.188030249355888	864007
+Barcode_1689	F	42	Casual worker	3	1-2 times per week	Urban	Urban	44	1	0	5	50	100	0.05	0.44	0.5	0.01	0	0.0973614816604399	7357798
+Barcode_1693	F	34	Businesswoman	4	1-2 times per week	Urban	Urban	51	1	0	5	43	100	0.05	0.51	0.43	0.01	0	-0.00159380010104592	13108347
+Barcode_1694	F	20	Student	NA	1-2 times per week	Urban	Urban	48	0	0	2	50	100	0.02	0.48	0.5	0	0	0.0680701631784652	1089250
+Barcode_1695	M	22	Student	NA	1-2 times per week	Urban	Urban	46	2	0	2	50	100	0.02	0.46	0.5	0.02	0	0.0827796050149674	23101485
+Barcode_1699	M	28	Casual worker	NA	1-2 times per week	Urban	Urban	45	7	1	2	45	100	0.02	0.45	0.45	0.07	0.01	0.0561770450394785	4803994
+Barcode_1700	F	26	Businesswoman	1	Everyday	Urban	Urban	71	0	0	5	24	100	0.05	0.71	0.24	0	0	-0.277541428657616	10438128
+Barcode_1701	F	42	Casual worker	6	1-2 times per week	Urban	Urban	48	1	0	7	44	100	0.07	0.48	0.44	0.01	0	0.0271670670978392	3612065
+Barcode_1703	M	29	Carwash attendant	NA	1-2 times per week	Urban	Urban	65	0	0	4	31	100	0.04	0.65	0.31	0	0	-0.185898346084038	8041016
+Barcode_1704	M	42	Hawker	NA	1-2 times per week	Urban	Urban	37	0	0	3	60	100	0.03	0.37	0.6	0	0	0.216747050597067	1623475
+Barcode_1705	M	21	Student	NA	Everyday	Urban	Urban	60	0	0	3	37	100	0.03	0.6	0.37	0	0	-0.108391732333529	781485
+Barcode_1707	M	42	Security	NA	1-2 times per week	Urban	Urban	60	3	0	3	34	100	0.03	0.6	0.34	0.03	0	-0.128736976047984	2196381
+Barcode_1714	F	32	Casual worker	5	1-2 times per week	Urban	Urban	71	0	0	4	25	100	0.04	0.71	0.25	0	0	-0.270717159022454	3344694
+Barcode_1716	M	55	Security personnel	NA	1-2 times per week	Urban	Urban	62	0	0	6	32	100	0.06	0.62	0.32	0	0	-0.157137478885153	1010297
+Barcode_1720	F	21	Student	NA	Rarely	Urban	Urban	44	0	1	9	46	100	0.09	0.44	0.46	0	0.01	0.070015861750145	14867740
+Barcode_1725	M	19	Student	NA	Everyday	Urban	Urban	46	6	0	4	44	100	0.04	0.46	0.44	0.06	0	0.0420040741253713	2646925
+Barcode_1728	F	24	Teacher	1		Urban	Urban	64	2	0	8	26	100	0.08	0.64	0.26	0.02	0	-0.212622451611251	27819991
+Barcode_1731	F	33	Businesswoman	3	Rarely	Urban	Urban	54	2	0	2	42	100	0.02	0.54	0.42	0.02	0	-0.0303121455695878	22341997
+Barcode_1732	M	47	Casual worker	NA	1-2 times per week	Urban	Urban	27	1	1	7	64	100	0.07	0.27	0.64	0.01	0.01	0.31720262310783	1353637
+Barcode_1735	M	61	Casual worker	NA	1-2 times per week	Urban	Urban	41	0	0	6	53	100	0.06	0.41	0.53	0	0	0.139728366399305	4255426
+Barcode_1739	M	25	Student	NA	1-2 times per week	Urban	Urban	46	1	0	2	51	100	0.02	0.46	0.51	0.01	0	0.0895613529197857	18774388
+Barcode_1741	M	24	Pastoralist	NA	1-2 times per week	Urban	Urban	57	1	0	2	40	100	0.02	0.57	0.4	0.01	0	-0.0659398041339776	1235688
+Barcode_1744	M	39	Casual worker	NA	1-2 times per week	Urban	Urban	73	0	0	3	24	100	0.03	0.73	0.24	0	0	-0.292165827033431	11585374
+Barcode_1746	M	34	Pastoralist	NA	1-2 times per week	Urban	Urban	68	1	0	1	30	100	0.01	0.68	0.3	0.01	0	-0.21461669155258	11608278
+Barcode_1747	M	23	Mototrbike rider	NA	2019-01-02 00:00:00	Urban	Urban	48	2	0	3	47	100	0.03	0.48	0.47	0.02	0	0.0476823977336671	4279657
+Barcode_1749	M	19	Student	NA	1-2 times per week	Urban	Urban	43	3	0	9	45	100	0.09	0.43	0.45	0.03	0	0.0706373761332266	7322152
+Barcode_1752	M	19	student	NA	1-2 times per week	Urban	Urban	43	3	0	8	46	100	0.08	0.43	0.46	0.03	0	0.0774616457683881	6016608
+Barcode_1753	M	20	Casual worker	NA	1-2 times per week	Urban	Urban	41	1	0	1	57	100	0.01	0.41	0.57	0.01	0	0.167067966670294	7671884
+Barcode_1754	M	40	Security personnel	NA	1-2 times per week	Urban	Urban	51	1	0	2	46	100	0.02	0.51	0.46	0.01	0	0.0188790088044387	8083238
+Barcode_1755	M	39	Farmer	NA	Everyday	Urban	Urban	29	1	1	5	64	100	0.05	0.29	0.64	0.01	0.01	0.302578224732014	15426945
+Barcode_1757	F	53	Casual worker	8	1-2 times per week	Urban	Urban	49	0	0	0	51	100	0	0.49	0.51	0	0	0.0675822336257189	1180798
+Barcode_1759	M	27	Charcoal seller	NA	1-2 times per week	Urban	Urban	44	3	0	5	48	100	0.05	0.44	0.48	0.03	0	0.0837979858508033	10214516
+Barcode_1763	M	24	Mototrbike rider	NA	Everyday	Urban	Urban	47	4	0	8	41	100	0.08	0.47	0.41	0.04	0	0.0141340225712922	6067927
+Barcode_1765	F	48	House wife	7	1-2 times per week	Urban	Urban	47	3	0	4	46	100	0.04	0.47	0.46	0.03	0	0.0482128490167567	2984453
+Barcode_1766	F	24	Making local brews	1	1-2 times per week	Urban	Urban	41	0	0	5	54	100	0.05	0.41	0.54	0	0	0.146552636034466	8336615
+Barcode_1768	M	38	Casual worker	NA	1-2 times per week	Urban	Urban	66	1	0	2	31	100	0.02	0.66	0.31	0.01	0	-0.193168023541602	1362837
+Barcode_1772	M	56	Security personnel	NA	Everyday	Urban	Urban	55	0	0	2	43	100	0.02	0.55	0.43	0	0	-0.0308851185830206	10323402
+Barcode_1774	F	36	Hotel attendant	4	1-2 times per week	Urban	Urban	52	0	0	1	47	100	0.01	0.52	0.47	0	0	0.0183485575213491	5919057
+Barcode_1799	M	49	Security personnel	NA	1-2 times per week	Urban	Urban	55	1	0	3	41	100	0.03	0.55	0.41	0.01	0	-0.0444911361230005	17840531
+Barcode_1803	M	37	Security personnel	NA	1-2 times per week	Urban	Urban	62	0	0	5	33	100	0.05	0.62	0.33	0	0	-0.150313209249991	1030558
+Barcode_1805	F	21	Student	NA	1-2 times per week	Urban	Urban	37	3	0	6	54	100	0.06	0.37	0.54	0.03	0	0.175928997977128	5974419
+Barcode_1806	F	46	Businesswoman	4	1-2 times per week	Urban	Urban	45	0	0	4	51	100	0.04	0.45	0.51	0	0	0.0968310303773503	25930849
+Barcode_1807	M	35	Security personnel	NA	1-2 times per week	Urban	Urban	44	0	0	0	56	100	0	0.44	0.56	0	0	0.138264577741066	758642
+Barcode_1808	M	31	Security personnel	NA	1-2 times per week	Urban	Urban	50	2	0	8	40	100	0.08	0.5	0.4	0.02	0	-0.0147118880882794	3122157
+Barcode_1811	F	22	Casual worker	2	1-2 times per week	Urban	Urban	56	0	0	2	42	100	0.02	0.56	0.42	0	0	-0.04502158740609	3651218
+Barcode_1812_B	F	31	Casual worker	4	Everyday	Urban	Urban	61	0	0	2	37	100	0.02	0.61	0.37	0	0	-0.115703931521437	8299426
+Barcode_1813	F	23	Casual worker	2	1-2 times per week	Urban	Urban	62	2	0	2	34	100	0.02	0.62	0.34	0.02	0	-0.143403896154143	1414885
+Barcode_1815	F	22	House wife	2	1-2 times per week	Urban	Urban	54	2	0	1	43	100	0.01	0.54	0.43	0.02	0	-0.0234878759344262	5009567
+Barcode_1816	F	22	Selling eggs	2	Everyday	Urban	Urban	42	8	1	5	44	100	0.05	0.42	0.44	0.08	0.01	0.0713318946983838	7393854
+Barcode_1819	M	33	Photographer	NA	1-2 times per week	Urban	Urban	47	3	0	10	40	100	0.1	0.47	0.4	0.03	0	0.00726723120578747	2242252
+Barcode_1823	M	50	Security personnel	NA	1-2 times per week	Urban	Urban	54	1	0	2	43	100	0.02	0.54	0.43	0.01	0	-0.0235303976647695	16398386
+Barcode_1825	F	26	House wife	3	1-2 times per week	Urban	Urban	60	5	0	3	32	100	0.03	0.6	0.32	0.05	0	-0.14230047185762	2680912
+Barcode_1827	F	23	Casual worker	5	1-2 times per week	Urban	Urban	54	8	0	7	31	100	0.07	0.54	0.31	0.08	0	-0.105123981174305	5184339
+Barcode_1828	M	27	Security personnel	NA	Everyday	Urban	Urban	62	1	0	2	35	100	0.02	0.62	0.35	0.01	0	-0.136622148249325	3079745
+Barcode_1831	F	30	Casual worker	2	Rarely	Urban	Urban	51	2	0	2	45	100	0.02	0.51	0.45	0.02	0	0.0120972608996204	1606068
+Barcode_1833_B	F	33	Making local brews	4	1-2 times per week	Urban	Urban	53	1	0	2	44	100	0.02	0.53	0.44	0.01	0	-0.00939392884170009	6264001
+Barcode_1846	F	30	House wife	2	1-2 times per week	Urban	Urban	40	1	0	8	51	100	0.08	0.4	0.51	0.01	0	0.133434548047233	3868288
+Barcode_1849	M	30	Making furniture	NA	1-2 times per week	Urban	Urban	44	4	1	2	49	100	0.02	0.44	0.49	0.04	0.01	0.0906587575770027	13979238
+Barcode_1851	F	30	Cook	2	Everyday	Urban	Urban	60	0	0	5	35	100	0.05	0.6	0.35	0	0	-0.122040271603852	27746662
+Barcode_1852	M	32	Casual worker	NA	1-2 times per week	Urban	Urban	52	6	0	1	41	100	0.01	0.52	0.41	0.06	0	-0.0223419299075605	3686633
+Barcode_1853	M	27	Motorbike rider	NA	1-2 times per week	Urban	Urban	38	1	0	5	56	100	0.05	0.38	0.56	0.01	0	0.182180294598856	16341915
+Barcode_1854	F	55	Casual worker	10	1-2 times per week	Urban	Urban	45	10	0	5	40	100	0.05	0.45	0.4	0.1	0	0.0221892816940061	3314262
+Barcode_1855	M	31	Hawker	NA	1-2 times per week	Urban	Urban	49	2	0	1	48	100	0.01	0.49	0.48	0.02	0	0.0471944681809208	4071367
+Barcode_1859	M	50	Casual worker	NA	1-2 times per week	Urban	Urban	61	0	0	6	33	100	0.06	0.61	0.33	0	0	-0.143001010062083	33590528
+Barcode_1860	M	26	Hawker	NA	Everyday	Urban	Urban	51	1	1	12	35	100	0.12	0.51	0.35	0.01	0.01	-0.0561939768216437	3086246
+Barcode_1863	M	23	Electrician	NA	1-2 times per week	Urban	Urban	42	5	0	4	49	100	0.04	0.42	0.49	0.05	0	0.105331697322467	6158896
+Barcode_1864	F	21	Casual worker	2	1-2 times per week	Urban	Urban	40	2	0	10	48	100	0.1	0.4	0.48	0.02	0	0.113004260872091	22641640
+Barcode_1865	F	25	Casual worker	2	1-2 times per week	Urban	Urban	63	3	0	2	32	100	0.02	0.63	0.32	0.03	0	-0.164322112882031	21886479
+Barcode_1869	F	30	Making local brews	5	Rarely	Urban	Urban	66	1	0	5	28	100	0.05	0.66	0.28	0.01	0	-0.213640832447087	14415787
+Barcode_1870	F	20	Hawker	2	1-2 times per week	Urban	Urban	47	4	0	6	43	100	0.06	0.47	0.43	0.04	0	0.0277825618416153	10170545
+Barcode_1871	M	72	Casual worker	NA	1-2 times per week	Urban	Urban	50	4	0	3	43	100	0.03	0.5	0.43	0.04	0	0.00584596427789176	10297986
+Barcode_1872	F	25	Making local brews	3	1-2 times per week	Urban	Urban	62	0	0	3	35	100	0.03	0.62	0.35	0	0	-0.136664669979668	14366914
+Barcode_1874	M	19	Carwash attendant	NA	1-2 times per week	Urban	Urban	46	4	2	7	41	100	0.07	0.46	0.41	0.04	0.02	0.0214341824805892	6476268
+Barcode_1875	F	19	Casual worker	NA	1-2 times per week	Urban	Urban	43	6	1	2	48	100	0.02	0.43	0.48	0.06	0.01	0.0912317305904355	9915684
+Barcode_1878	M	33	Casual worker	NA	1-2 times per week	Urban	Urban	46	4	0	6	44	100	0.06	0.46	0.44	0.04	0	0.0419190306646847	19998622
+Barcode_1879	M	37	Security personnel	NA	1-2 times per week	Urban	Urban	48	3	0	3	46	100	0.03	0.48	0.46	0.03	0	0.0409006498288488	33442669
+Barcode_1881	F	23	Casual worker	1	1-2 times per week	Urban	Urban	62	1	0	6	31	100	0.06	0.62	0.31	0.01	0	-0.163919226789971	1157807
+Barcode_1883	M	32	Constructor	NA	1-2 times per week	Urban	Urban	64	0	0	4	32	100	0.04	0.64	0.32	0	0	-0.171761877260968	4668347
+Barcode_1884	M	22	Casual worker	NA	1-2 times per week	Urban	Urban	40	9	2	3	46	100	0.03	0.4	0.46	0.09	0.02	0.0996413344355604	19306684
+Barcode_1885	M	25	Casual worker	NA	1-2 times per week	Urban	Urban	49	0	0	1	50	100	0.01	0.49	0.5	0	0	0.0607579639905573	8109062
+Barcode_1888	F	22	House wife	3	1-2 times per week	Urban	Urban	47	0	0	8	45	100	0.08	0.47	0.45	0	0	0.0412610141905653	46464226
+Barcode_1890	F	42	Casual worker	7	1-2 times per week	Urban	Urban	40	5	1	4	50	100	0.04	0.4	0.5	0.05	0.01	0.126774345694139	14157895
+Barcode_1891	F	37	Casual worker	4	1-2 times per week	Urban	Urban	56	0	1	8	35	100	0.08	0.56	0.35	0	0.01	-0.0927974944915263	10310135
+Barcode_1896	F	30	Tailor	3	Everyday	Urban	Urban	49	4	1	1	45	100	0.01	0.49	0.45	0.04	0.01	0.0268006830968173	9437871
+Barcode_1898	M	33	Casual worker	NA		Urban	Urban	53	4	0	11	32	100	0.11	0.53	0.32	0.04	0	-0.0911575992726088	8002075
+Barcode_1900	F	28	Counsellor	2	Everyday	Urban	Urban	70	2	0	0	28	100	0	0.7	0.28	0.02	0	-0.242847107468375	3552801
+Barcode_1903	M	25	Casual worker	NA	1-2 times per week	Urban	Urban	40	2	0	3	55	100	0.03	0.4	0.55	0.02	0	0.160774148318222	8215746
+Barcode_1905	F	28	Casual worker	2	1-2 times per week	Urban	Urban	45	9	1	6	39	100	0.06	0.45	0.39	0.09	0.01	0.0153164706891958	20729822
+Barcode_1910	F	25	Making local brews	2	1-2 times per week	Urban	Urban	46	6	0	3	45	100	0.03	0.46	0.45	0.06	0	0.0488283437605328	4750292
+Barcode_1911	F	42	Casual worker	9	1-2 times per week	Urban	Urban	56	3	0	1	40	100	0.01	0.56	0.4	0.03	0	-0.0585425614853833	24946617
+Barcode_1912	F	20	Casual worker	1	Everyday	Urban	Urban	46	2	1	1	50	100	0.01	0.46	0.5	0.02	0.01	0.082773585375662	1975053
+Barcode_617	M	25	Gathering fruitss	NA	1-2 times per week	Traditional	RuralNotPastoral	65	1	0	5	29	100	0.05	0.65	0.29	0.01	0	-0.199504363624017	12244767
+Barcode_618	M	58	N/A	NA	1-2 times per week	Traditional	RuralNotPastoral	49	1	0	2	48	100	0.02	0.49	0.48	0.01	0	0.0471519464505775	3865976
+Barcode_619	F	38	Mat maker	6	Rarely	Traditional	RuralNotPastoral	58	4	0	4	34	100	0.04	0.58	0.34	0.04	0	-0.114070055941825	9344378
+Barcode_621	M	48	Herder	NA	1-2 times per week	Traditional	RuralNotPastoral	78	3	0	1	19	101	0.0099009900990099	0.772277227722772	0.188118811881188	0.0297029702970297	0	-0.358358597557771	2794527
+Barcode_623	M	54	Pastoralist	NA	Rarely	Traditional	RuralNotPastoral	58	0	0	4	38	100	0.04	0.58	0.38	0	0	-0.0869430643225518	7134923
+Barcode_624	F	51	House wife	6	Rarely	Traditional	RuralNotPastoral	53	0	0	3	44	100	0.03	0.53	0.44	0	0	-0.00943645057204337	3618242
+Barcode_628	M	37	Security personnel	NA	Rarely	Traditional	RuralNotPastoral	49	2	0	3	46	100	0.03	0.49	0.46	0.02	0	0.0335459289105977	4068220
+Barcode_631	M	31	Pastoralist	NA	Everyday	Traditional	Pastoralist	62	0	0	6	32	100	0.06	0.62	0.32	0	0	-0.157137478885153	15459334
+Barcode_635	F	47	Mat maker	3	Rarely	Traditional	RuralNotPastoral	67	1	0	0	32	100	0	0.67	0.32	0.01	0	-0.193655953094349	2307370
+Barcode_640	M	45	Herder	NA	1-2 times per week	Traditional	RuralNotPastoral	61	0	0	2	37	100	0.02	0.61	0.37	0	0	-0.115703931521437	4406511
+Barcode_644	M	34	Pastoralist	NA	Rarely	Traditional	RuralNotPastoral	60	1	0	4	35	100	0.04	0.6	0.35	0.01	0	-0.121997749873509	1296402
+Barcode_653	M	60	N/A	NA	Rarely	Traditional	RuralNotPastoral	63	2	0	3	32	100	0.03	0.63	0.32	0.02	0	-0.164364634612374	18275428
+Barcode_658	M	54	N/A	NA	1-2 times per week	Traditional	RuralNotPastoral	71	2	0	3	24	100	0.03	0.71	0.24	0.02	0	-0.277456385196929	953646
+Barcode_660	M	43	Pastoralist	NA	Rarely	Traditional	RuralNotPastoral	57	0	0	4	39	100	0.04	0.57	0.39	0	0	-0.0728065954994824	51256736
+Barcode_661	M	40	Pastoralist	NA	1-2 times per week	Traditional	RuralNotPastoral	53	0	0	3	44	100	0.03	0.53	0.44	0	0	-0.00943645057204337	8747946
+Barcode_664	F	34	Charcoal burner	4	Rarely	Traditional	RuralNotPastoral	64	1	0	2	33	100	0.02	0.64	0.33	0.01	0	-0.164895085895463	3159436
+Barcode_671	M	55	N/A	NA	Rarely	Traditional	RuralNotPastoral	63	3	0	6	28	100	0.06	0.63	0.28	0.03	0	-0.191619191422677	11877399
+Barcode_688	F	54	Selling firewood	5	Rarely	Traditional	RuralNotPastoral	66	6	0	4	20	96	0.0416666666666667	0.6875	0.208333333333333	0.0625	0	-0.282433406848189	4513445
+Barcode_692	M	62	Security personnel	NA	Rarely	Traditional	RuralNotPastoral	64	4	2	6	24	100	0.06	0.64	0.24	0.04	0.02	-0.226197986699498	5672958
+Barcode_694	F	37	Mat maker	6	1-2 times per week	Traditional	RuralNotPastoral	64	1	0	2	33	100	0.02	0.64	0.33	0.01	0	-0.164895085895463	2969598
+Barcode_700	F	59	Charcoal burner	7	Rarely	Traditional	RuralNotPastoral	61	2	0	2	35	100	0.02	0.61	0.35	0.02	0	-0.129267427331074	8370730
+Barcode_701	F	37	Mat maker	5	1-2 times per week	Traditional	RuralNotPastoral	62	1	0	3	34	100	0.03	0.62	0.34	0.01	0	-0.143446417884486	1194978
+Barcode_702	F	40	Mat maker	6	Rarely	Traditional	RuralNotPastoral	58	0	0	4	38	100	0.04	0.58	0.38	0	0	-0.0869430643225518	7213809
+Barcode_769	M	31	Pastoralist	NA	Everyday	Traditional	Pastoralist	40	2	0	5	53	100	0.05	0.4	0.53	0.02	0	0.147125609047899	9320034
+Barcode_844	F	43	Selling firewood	6	1-2 times per week	Traditional	RuralNotPastoral	36	4	0	4	67	111	0.036036036036036	0.324324324324324	0.603603603603604	0.036036036036036	0	0.252758442180969	61058829
+Barcode_854	F	31	Pastoralist	4	1-2 times per week	Traditional	RuralNotPastoral	38	2	0	0	60	100	0	0.38	0.6	0.02	0	0.209519894869846	13027947
+Barcode_858	F	25	Pastoralist	2	Everyday	Traditional	Pastoralist	56	7	1	6	30	100	0.06	0.56	0.3	0.07	0.01	-0.126621190554931	9474966
+Barcode_861	F	39	Pastoralist	4	Everyday	Traditional	Pastoralist	47	2	2	8	41	100	0.08	0.47	0.41	0.02	0.02	0.0140369398319948	966247
+Barcode_874	F	23	Herder	NA	1-2 times per week	Traditional	RuralNotPastoral	51	1	0	3	45	100	0.03	0.51	0.45	0.01	0	0.0120547391692772	2064475
+Barcode_883	M	35	Preacher	NA	1-2 times per week	Traditional	RuralNotPastoral	52	1	0	0	47	100	0	0.52	0.47	0.01	0	0.0183910792516924	8983949
+Barcode_904	M	38	Pastoralist	NA	1-2 time sper week	Traditional	RuralNotPastoral	38	5	3	7	47	100	0.07	0.38	0.47	0.05	0.03	0.120913895885859	10190339
+Barcode_921	F	29	Pastoralist	7	Everyday	Traditional	Pastoralist	60	1	0	2	37	100	0.02	0.6	0.37	0.01	0	-0.108349210603186	16528515
+Barcode_931	F	36	Pastoralist	5	Everyday	Traditional	Pastoralist	61	3	0	12	24	100	0.12	0.61	0.24	0.03	0	-0.204291871587507	7605320
+Barcode_934	M	39	Pastoralist	NA	Everyday	Traditional	Pastoralist	53	1	0	4	42	100	0.04	0.53	0.42	0.01	0	-0.0230424681120232	2097315
+Barcode_938	M	34	Pastoralist	NA	Everyday	Traditional	Pastoralist	63	3	0	4	30	100	0.04	0.63	0.3	0.03	0	-0.177970652152354	1167634
+Barcode_941	M	40	Pastoralist	NA	1-2 times per week	Traditional	RuralNotPastoral	67	2	0	4	27	100	0.04	0.67	0.27	0.02	0	-0.227734779539813	2803084
+Barcode_946	M	30	Pastoralist	NA	Everyday	Traditional	Pastoralist	59	0	0	0	41	100	0	0.59	0.41	0	0	-0.0737824546049751	3641886
+Barcode_948_B	M	45	Gathering fruits	NA	1-2 times per week	Traditional	RuralNotPastoral	52	2	0	3	43	100	0.03	0.52	0.43	0.02	0	-0.00886347755861051	26107890
+Barcode_952	M	43	Pastoralist	NA	Everyday	Traditional	Pastoralist	65	0	1	7	27	100	0.07	0.65	0.27	0	0.01	-0.213201444263989	12862360
+Barcode_953	M	26	Pastoralist	NA	Everyday	Traditional	Pastoralist	58	2	0	1	39	100	0.01	0.58	0.39	0.02	0	-0.0800337512267037	10732449
+Barcode_956	F	38	Pastoralist	NA	1-2 times per week	Traditional	RuralNotPastoral	52	1	0	2	45	100	0.02	0.52	0.45	0.01	0	0.00474253998136931	3786087
+Barcode_957	M	52	Pastoralist	7	Everyday	Traditional	Pastoralist	57	1	0	0	42	100	0	0.57	0.42	0.01	0	-0.0522912648636546	16589231
+Barcode_966	M	37	Charcoal burner	NA	1-2 times per week	Traditional	RuralNotPastoral	58	3	0	7	32	100	0.07	0.58	0.32	0.03	0	-0.127761116942491	1526216
+Barcode_969	F	25	Gathering fruits	1	1-2 times per week	Traditional	RuralNotPastoral	48	2	0	3	47	100	0.03	0.48	0.47	0.02	0	0.0476823977336671	4425120
+Barcode_971	M	23	Herder	NA	1-2 times per week	Traditional	RuralNotPastoral	53	2	0	4	41	100	0.04	0.53	0.41	0.02	0	-0.0298242160168415	4224867
+Barcode_990	M	23	Charcoal burner	NA	Rarely	Traditional	RuralNotPastoral	60	1	0	4	35	100	0.04	0.6	0.35	0.01	0	-0.121997749873509	4739899

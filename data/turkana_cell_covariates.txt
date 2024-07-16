@@ -1,0 +1,1125 @@
+Unique.ID	Sampling.location	Gender	Age	Number.of.children	Main.subsistence.activity	Occupation	How.often.do.you.drink.milk.	Environment	Lifestyle	Segmented.neutrophils	Monocytes	Lymphocytes	Eosinophils	Basophils	Number.of.pregnancies
+2018-05-22_110_37	Lokamarinyang	M	40	0	Petty trade	Trader	Rarely	Traditional	RuralNotPastoral	60	5	31	4	0	0
+2018-05-22_116_51	Lokamarinyang	F	32	3	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	50	3	47	0	0	0
+2018-05-22_117_48	Lokamarinyang	F	30	2	Petty trade	Trader	1-2 times per week	Traditional	RuralNotPastoral	46	2	52	0	0	0
+2018-05-22_121_24	Lokamarinyang	F	38	8	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	56	4	38	2	0	8
+2018-05-22_122_2	Lokamarinyang	M	52	13	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	46	4	49	1	0	0
+2018-05-22_123_13	Lokamarinyang	F	37	6	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	49	2	48	1	0	0
+2018-05-22_123_13	Lokamarinyang	F	37	6	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	52	2	44	2	0	0
+2018-05-22_123_13	Lokamarinyang	F	37	6	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	52	4	34	8	2	0
+2018-05-22_124_7	Lokamarinyang	F	26	3	Petty trade	Trader	Everyday	Traditional	RuralNotPastoral	56	3	41	0	0	0
+2018-05-22_125_6	Lokamarinyang	F	28	2	Petty trade	Trader	Everyday	Traditional	RuralNotPastoral	62	2	35	1	0	0
+2018-05-22_126_10	Lokamarinyang	F	52	6	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	60	4	34	2	0	0
+2018-05-22_130_12	Lokamarinyang	F	31	3	Petty trade	Trader	Everyday	Traditional	RuralNotPastoral	64	3	31	2	0	0
+2018-05-22_132_25	Lokamarinyang	M	55	3	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	51	3	46	0	0	0
+2018-05-22_133_32	Lokamarinyang	F	41	6	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	55	3	41	1	0	0
+2018-05-22_134_19	Lokamarinyang	F	47	8	Petty trade	Trader	Everyday	Traditional	RuralNotPastoral	64	2	34	0	0	0
+2018-05-22_135_3	Lokamarinyang	M	35	3	Animal keeping	Pastoralist	More than 2 times per week	Traditional	RuralNotPastoral	57	1	42	0	0	0
+2018-05-22_136_14	Lokamarinyang	F	NA	8	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	44	8	40	5	3	8
+2018-05-22_136_14	Lokamarinyang	F	NA	8	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	55	1	43	1	0	8
+2018-05-22_138_5	Lokamarinyang	F	26	2	Petty trade	Trader	Everyday	Traditional	RuralNotPastoral	55	5	37	3	0	2
+2018-05-22_139_20	Lokamarinyang	F	26	3	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	56	3	40	1	0	3
+2018-05-22_140_26	Lokamarinyang	F	56	4	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	58	1	39	2	0	4
+2018-05-22_142_4	Lokamarinyang	M	21	1	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	42	2	52	4	0	0
+2018-05-22_143_30	Lokamarinyang	F	31	3	Petty trade	Trader	Everyday	Traditional	RuralNotPastoral	64	4	30	2	0	0
+2018-05-22_144_11	Lokamarinyang	F	41	6	Petty trade	Trader	Everyday	Traditional	RuralNotPastoral	70	2	27	1	0	0
+2018-05-22_146_1	Lokamarinyang	M	45	5	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	62	1	36	1	0	0
+2018-05-22_149_21	Lokamarinyang	F	18	2	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	46	0	53	1	0	0
+2018-05-22_150_22	Lokamarinyang	F	40	4	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	53	3	43	1	0	4
+2018-05-22_154_39	Lokamarinyang	M	36	6	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	47	2	50	1	0	0
+2018-06-02_191_12	Vetinary/Kinamba	F	50	2	Self employment			Urban	Urban	47	1	48	3	1	0
+2018-06-02_242_19	Vetinary/Kinamba	M	55	9	Animal keeping	Pastoralist		Urban	Urban	45	2	58	1	0	0
+2018-06-02_244_9	Sosian	F	51	9				Urban	Urban	40	2	57	1	0	9
+2018-06-02_249_3	Vetinary/Kinamba	M	26	1	Self employment	Motorbike rider		Urban	Urban	39	1	59	1	0	0
+2018-06-02_250_2	Vetinary/Kinamba	M	45	6	Self employment	Security personnel		Urban	Urban	37	6	55	1	1	0
+2018-06-02_262_28	Vetinary/Kinamba	F	25	1	Self employment	Motorbike rider		Urban	Urban	53	3	44	0	0	0
+2018-06-02_267_10	Sosian	M	56	3	Self employment			Urban	Urban	59	0	44	0	0	0
+2018-06-02_367_7	Sosian	M	34	0				Urban	Urban	43	3	53	1	0	0
+2018-06-02_370_16	Vetinary/Kinamba	F	56	6				Urban	Urban	45	1	51	2	1	0
+2018-06-02_372_8	Sosian	M	35	0				Urban	Urban	31	4	59	2	0	0
+2018-06-02_373_25	Sosian	M	34	5	Casual work	Casual worker		Urban	Urban	53	5	40	2	0	0
+2018-06-02_377_5	Vetinary/Kinamba	F	75	6				Urban	Urban	40	1	59	0	0	0
+2018-06-02_378_4	Sosian	M	32	2				Urban	Urban	45	2	53	0	0	0
+2018-06-02_379_11	Vetinary/Kinamba	F	44	5	Self employment	Motorbike rider		Urban	Urban	37	1	61	1	0	5
+2018-06-02_380_26	Vetinary/Kinamba	F	50	8	Animal keeping	Pastoralist		Urban	Urban	52	1	47	0	0	0
+2018-06-02_381_13	Vetinary/Kinamba	M	29	2	Informal employment	Informal employment		Urban	Urban	42	1	55	1	1	0
+2018-06-02_494_21	Sosian	F	78	5				Urban	Urban	32	2	66	0	0	5
+2018-06-04_68_5	Mpala	M	27	0	Formal employment	Formal employment		Urban	Urban	58	6	26	6	4	0
+2018-06-05_102_22	Ngare Ngiro	M	43	6	Animal keeping	Pastoralist	Everyday	Urban	Urban	32	4	56	6	2	0
+2018-06-05_11_12	Ngare Ngiro	M	31	4	Animal keeping	Pastoralist	1-2 times per week	Urban	Urban	44	4	43	6	3	0
+2018-06-05_17_15	Ngare Ngiro	M	38	3	Self employment		Rarely	Urban	Urban	26	10	54	6	4	0
+2018-06-05_18_29	Ngare Ngiro	F	48	6	Formal employment	Formal employment	1-2 times per week	Urban	Urban	44	3	47	6	0	6
+2018-06-05_23_8	Ngare Ngiro	M	67	3	Self employment		1-2 times per week	Urban	Urban	48	4	40	6	2	0
+2018-06-05_25_14	Ngare Ngiro	M	22	0	Self employment	Self employent	Everyday	Urban	Urban	46	8	40	4	2	0
+2018-06-05_30_19	Ngare Ngiro	M	61	15	Animal keeping	Pastoralist	1-2 times per week	Urban	Urban	57	4	31	8	0	0
+2018-06-05_56_17	Ngare Ngiro	M	30	1	Animal keeping	Pastoralist	Everyday	Urban	Urban	52	6	38	4	0	0
+2018-06-05_61_13	Ngare Ngiro	F	67	10	Animal keeping	Pastoralist	Rarely	Urban	Urban	50	4	38	7	1	10
+2018-06-05_66_7	Ngare Ngiro	M	54	9	Self employment		Rarely	Urban	Urban	52	4	32	8	2	0
+2018-06-05_70_2	Ngare Ngiro	M	48	3	Petty trade	Trader	Rarely	Urban	Urban	40	6	46	6	2	0
+2018-06-05_71_21	Nataparin	M	75	17	Self employment	Self employment	Rarely	Traditional	RuralNotPastoral	46	5	39	7	3	0
+2018-06-05_73_16	Ngare Ngiro	F	28	3	Formal employment	Formal employment	Everyday	Urban	Urban	54	6	34	6	0	3
+2018-06-05_75_5	Ngare Ngiro	M	55	3	Animal keeping	Pastoralist	1-2 times per week	Urban	Urban	42	6	40	8	4	0
+2018-06-05_78_24	Ngare Ngiro	M	49	6	Self employment		Rarely	Urban	Urban	44	10	40	6	0	0
+2018-06-05_81_4	Ngare Ngiro	M	63	12	Formal employment	Security personnel	Rarely	Urban	Urban	46	8	38	6	2	0
+2018-06-05_83_20	Ngare Ngiro	M	39	5	Casual work	Casual worker	1-2 times per week	Urban	Urban	34	10	46	4	6	0
+2018-06-05_87_1	Ngare Ngiro	M	54	2	Self employment		Rarely	Urban	Urban	42	4	50	2	2	0
+2018-06-05_88_3	Ngare Ngiro	M	47	5	Farming	Farmer	Rarely	Urban	Urban	46	4	44	6	0	0
+2018-06-05_98_6	Ngare Ngiro	M	20	0	Petty trade	Trader	Rarely	Urban	Urban	38	8	52	2	0	0
+2018-06-27_10_44	Nataparin	M	58	5	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	60	6	24	8	2	0
+2018-06-27_10_44	Nataparin	M	58	5	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	50	2	37	1	0	0
+2018-06-27_100_5	Nataparin	F	25	3	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	42	2	56	0	0	3
+2018-06-27_104_60	Nataparin	F	28	4	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	66	1	30	2	1	4
+2018-06-27_105_23	Nataparin	F	31	8	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	53	4	41	1	1	8
+2018-06-27_13_21	Nataparin	F	37	7	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	56	3	40	1	0	7
+2018-06-27_14_52	Nataparin	F	37	7	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	64	8	26	1	1	7
+2018-06-27_15_4	Nataparin	M	29	4	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	53	4	41	2	0	0
+2018-06-27_19_32	Nataparin	F	65	7	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	54	2	44	0	0	7
+2018-06-27_2_59	Nataparin	F	59	6	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	46	3	48	3	0	6
+2018-06-27_20_13	Nataparin	F	24	1	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	68	6	24	2	0	1
+2018-06-27_21_40	Nataparin	F	25	2	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	62	1	35	1	1	2
+2018-06-27_24_17	Nataparin	F	85	6		Too old	Everyday	Traditional	RuralNotPastoral	57	3	38	2	0	6
+2018-06-27_26_33	Nataparin	F	64	5	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	58	3	38	1	0	5
+2018-06-27_27_35	Nataparin	F	63	5	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	48	4	47	1	0	5
+2018-06-27_29_45	Nataparin	M	65	19		Too old	Rarely	Traditional	RuralNotPastoral	66	4	28	2	0	0
+2018-06-27_32_31	Nataparin	F	23	3	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	55	2	42	1	0	3
+2018-06-27_36_10	Nataparin	F	33	6	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	41	6	53	0	0	6
+2018-06-27_37_49	Nataparin	M	50	4	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	60	0	37	3	0	0
+2018-06-27_39_54	Nataparin	F	27	2	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	55	2	42	1	0	2
+2018-06-27_39_54	Nataparin	F	27	2	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	49	3	48	0	0	2
+2018-06-27_4_9	Nataparin	M	43	11	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	53	6	39	2	0	0
+2018-06-27_40_58	Nataparin	F	39	7	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	61	0	37	2	0	7
+2018-06-27_44_14	Nataparin	M	47	5	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	55	2	42	1	0	0
+2018-06-27_45_7	Nataparin	M	25	2	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	42	3	54	1	0	0
+2018-06-27_45_7	Nataparin	M	25	2	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	63	4	32	1	0	0
+2018-06-27_46_42	Nataparin	F	23	0	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	74	0	24	2	0	0
+2018-06-27_49_28	Nataparin	F	33	3	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	54	5	40	1	0	3
+2018-06-27_51_25	Nataparin	F	30	4	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	55	5	36	4	0	4
+2018-06-27_53_36	Nataparin	F	28	1	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	63	2	33	2	0	1
+2018-06-27_55_29	Nataparin	F	57	6	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	65	3	32	0	0	6
+2018-06-27_59_50	Nataparin	M	52	11	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	46	5	43	4	2	0
+2018-06-27_60_27	Nataparin	F	74	7	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	61	5	32	2	0	7
+2018-06-27_65_39	Nataparin	F	69	4	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	55	2	43	0	0	4
+2018-06-27_7_8	Nataparin	F	35	6	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	63	4	31	2	0	6
+2018-06-27_79_47	Nataparin	M	72	10	Gathering	Gathering fruitss	Rarely	Traditional	RuralNotPastoral	51	4	43	2	0	0
+2018-06-27_79_47	Nataparin	M	72	10	Gathering	Gathering fruitss	Rarely	Traditional	RuralNotPastoral	34	7	58	1	0	0
+2018-06-27_82_18	Nataparin	M	34	6	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	65	4	31	0	0	0
+2018-06-27_85_41	Nataparin	F	26	2	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	63	1	36	0	0	2
+2018-06-27_86_22	Nataparin	F	53	7	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	72	1	27	0	0	7
+2018-06-27_91_55	Nataparin	F	25	5	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	51	0	49	0	0	5
+2018-06-27_96_11	Nataparin	F	42	3	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	41	0	59	0	0	3
+2018-06-27_96_11	Nataparin	F	42	3	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	40	6	46	6	2	3
+2018-06-27_97_43	Nataparin	F	26	1	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	67	1	32	0	0	1
+2018-06-28_22_4	Nataparin	M	71	8	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	62	4	33	1	0	0
+2018-06-28_22_4	Nataparin	M	71	8	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	63	2	34	1	0	0
+2018-06-28_402_21	Nataparin	F	25	3	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	43	7	49	1	0	3
+2018-06-28_402_21	Nataparin	F	25	3	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	62	4	28	4	2	3
+2018-06-28_406_58	Nataparin	F	54	5	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	59	8	32	1	0	5
+2018-06-28_407_55	Nataparin	F	24	2	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	55	2	40	3	0	2
+2018-06-28_408_36	Nataparin	F	20	1	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	45	2	52	1	0	1
+2018-06-28_41_25	Nataparin	F	27	2	Animal keeping	Pastoralist	1-2 times per weeek	Traditional	RuralNotPastoral	43	4	51	2	0	2
+2018-06-28_412_18	Nataparin	F	38	6	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	42	6	42	10	0	6
+2018-06-28_412_18	Nataparin	F	38	6	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	64	1	34	1	0	6
+2018-06-28_414_52	Nataparin	F	27	1	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	48	1	49	2	0	1
+2018-06-28_419_54	Nataparin	F	23	0	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	41	2	55	2	0	0
+2018-06-28_419_54	Nataparin	F	23	0	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	61	3	34	2	0	0
+2018-06-28_421_61	Nataparin	F	28	1	Hunting and Gathering	Hunting and Gathering	1-2 times per week	Traditional	RuralNotPastoral	50	2	47	1	0	1
+2018-06-28_422_35	Nataparin	F	23	1	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	55	3	40	2	0	1
+2018-06-28_424_15	Nataparin	F	22	1	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	58	2	39	1	0	1
+2018-06-28_425_44	Nataparin	F	21	1		House wife	Rarely	Traditional	RuralNotPastoral	51	4	43	2	0	1
+2018-06-28_426_63	Nataparin	F	48	6	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	60	1	38	1	0	6
+2018-06-28_428_31	Nataparin	F	24	4	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	45	3	51	1	0	4
+2018-06-28_429_50	Nataparin	F	58	6	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	57	4	37	2	0	7
+2018-06-28_430_19	Nataparin	F	40	5	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	59	7	34	0	0	5
+2018-06-28_431_45	Nataparin	F	41	7	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	58	3	37	2	0	7
+2018-06-28_433_34	Nataparin	F	22	1	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	53	3	41	2	1	1
+2018-06-28_434_29	Nataparin	F	21	1	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	50	5	43	2	0	1
+2018-06-28_435_51	Nataparin	F	59	7	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	62	2	33	2	1	7
+2018-06-28_437_39	Nataparin	M	53	9	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	58	2	37	3	0	0
+2018-06-28_438_59	Nataparin	F	27	3	Hunting and Gathering	Hunting and Gathering	1-2 times per week	Traditional	RuralNotPastoral	53	2	43	2	0	3
+2018-06-28_439_26	Nataparin	F	42	5	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	54	0	44	2	0	5
+2018-06-28_440_47	Nataparin	F	43	5	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	60	4	33	2	1	5
+2018-06-28_446_40	Nataparin	M	34	2	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	67	2	31	0	0	0
+2018-06-28_447_24	Nataparin	F	41	2	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	60	4	36	0	0	2
+2018-06-28_449_32	Nataparin	F	28	4	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	51	3	45	1	0	4
+2018-06-28_451_20	Nataparin	F	35	4	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	62	5	30	3	0	4
+2018-06-28_452_42	Nataparin	F	40	6	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	52	3	42	3	0	6
+2018-06-28_453_56	Nataparin	M	39	2	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	59	0	41	0	0	0
+2018-06-28_457_60	Nataparin	F	25	4	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	56	3	40	1	0	4
+2018-06-28_460_30	Nataparin	F	22	0	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	50	6	38	6	0	0
+2018-06-28_460_30	Nataparin	F	22	0	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	43	2	54	1	0	0
+2018-06-28_474_41	Nataparin	F	27	4	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	52	1	45	2	0	4
+2018-06-28_5_8	Nataparin	M	70	3	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	34	8	54	3	1	0
+2018-06-28_50_1	Nataparin	M	70	13	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	52	2	46	0	0	0
+2018-06-28_52_5	Nataparin	M	36	4	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	51	3	44	2	0	0
+2018-06-28_64_13	Nataparin	F	32	5	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	67	5	25	3	0	5
+2018-06-28_94_11	Ngare Ngiro	F	60	8	Animal keeping	Pastoralist	1-2 times a week	Urban	Urban	60	3	35	2	0	8
+2018-06-28_95_9	Nataparin	M	28	3	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	60	3	37	0	0	0
+2018-07-03_401_28	Kaatangon	M	65	9	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	51	2	46	1	0	0
+2018-07-03_403_6	Kaatangon	M	75	8	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	66	5	27	2	0	0
+2018-07-03_404_10	Kaatangon	M	53	6	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	46	2	51	1	0	0
+2018-07-03_405_47	Kaatangon	M	49	4	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	44	5	51	0	0	0
+2018-07-03_411_16	Kaatangon	M	54	11	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	44	3	51	2	0	0
+2018-07-03_416_20	Kaatangon	M	54	13	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	41	11	47	0	1	0
+2018-07-03_418_23	Kaatangon	F	25	3	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	72	4	23	1	0	3
+2018-07-03_442_13	Kaatangon	F	44	6	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	64	4	29	3	0	6
+2018-07-03_443_31	Kaatangon	F	51	6	Mat making	Mat maker	Rarely	Traditional	RuralNotPastoral	31	5	63	1	0	9
+2018-07-03_444_17	Kaatangon	M	50	7	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	56	3	39	2	0	0
+2018-07-03_450_29	Kaatangon	F	34	4	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	53	3	44	0	0	4
+2018-07-03_456_14	Kaatangon	F	54	4	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	49	11	38	2	0	6
+2018-07-03_458_21	Kaatangon	M	30	0	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	57	2	38	3	0	0
+2018-07-03_461_32	Kaatangon	M	43	4	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	60	3	36	1	0	0
+2018-07-03_462_1	Kaatangon	F	38	4	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	52	5	40	3	0	4
+2018-07-03_463_30	Kaatangon	F	71	5	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	53	4	41	2	0	5
+2018-07-03_465_2	Kaatangon	F	30	4	Mat making	Mat maker	Rarely	Traditional	RuralNotPastoral	55	3	42	0	0	4
+2018-07-03_466_15	Kaatangon	F	58	7	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	58	4	36	2	0	7
+2018-07-03_467_3	Kaatangon	M	26	0	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	63	3	32	2	0	0
+2018-07-03_468_19	Kaatangon	M	50	5	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	68	5	24	3	0	0
+2018-07-03_471_18	Kaatangon	M	60	9	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	49	3	46	2	0	0
+2018-07-03_472_37	Kaatangon	M	52	11	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	37	2	59	2	0	0
+2018-07-03_473_42	Kaatangon	F	27	4	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	63	1	35	1	0	4
+2018-07-03_475_9	Kaatangon	M	50	6	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	58	2	39	1	0	0
+2018-07-03_476_39	Kaatangon	F	31	4	Mat making	Mat maker	Rarely	Traditional	RuralNotPastoral	51	3	45	1	0	4
+2018-07-03_479_25	Kaatangon	F	45	8	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	58	2	37	3	0	8
+2018-07-03_480_27	Kaatangon	F	42	6	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	47	3	50	0	0	6
+2018-07-03_482_35	Kaatangon	M	34	3	Charcoal burning	Charcoal burner	Rarely	Traditional	RuralNotPastoral	52	3	43	2	0	0
+2018-07-03_485_22	Kaatangon	M	35	4	Self employment	Motorbike rider	Rarely	Traditional	RuralNotPastoral	65	4	28	3	0	0
+2018-07-03_487_12	Kaatangon	F	37	7	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	43	9	47	1	0	0
+2018-07-03_488_34	Kaatangon	M	31	5	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	47	4	49	0	0	0
+2018-07-03_489_38	Kaatangon	M	34	9	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	68	5	23	4	0	0
+2018-07-03_490_11	Kaatangon	F	48	2	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	52	3	45	0	0	2
+2018-07-03_490_11	Kaatangon	F	48	2	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	55	2	52	0	0	2
+2018-07-03_491_7	Kaatangon	M	24	0	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	53	9	37	1	0	0
+2018-07-03_492_33	Kaatangon	M	35	5	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	52	1	44	3	0	0
+2018-07-03_492_33	Kaatangon	M	35	5	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	59	7	33	1	0	0
+2018-07-03_500_41	Kaatangon	F	34	5	Animal  keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	47	2	51	0	0	5
+2018-07-03_503_48	Kaatangon	F	42	8	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	53	1	44	2	0	8
+2018-07-03_504_43	Kaatangon	F	28	2	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	68	6	24	2	0	2
+2018-07-19_551_9	Lekiji	F	39	2	Farming	Farmer	Everyday	Urban	Urban	37	4	56	3	0	2
+2018-07-19_554_7	Lekiji	F	58	11	Animal keeping	Pastoralist	Everyday	Urban	Urban	68	4	26	2	0	11
+2018-07-19_555_8	Lekiji	M	44	5			1-2 times per week	Urban	Urban	49	2	47	2	0	0
+2018-07-19_556_10	Lekiji	M	58	8	Animal keeping	Pastoralist	1-2 times per week	Urban	Urban	54	6	34	4	2	0
+2018-07-19_563_3	Lekiji	F	32	7	Casual work	Casual worker	1-2 times per week	Urban	Urban	68	1	30	1	0	7
+2018-07-19_567_2	Lekiji	F	29	2	Charcoal burning	Charcoal burner	Everyday	Urban	Urban	57	1	42	0	0	2
+2018-08-16_557_8	Nanyuki	F	33	6	Casual work	Casual worker	Rarely	Urban	Urban	54	3	42	1	0	6
+2018-08-16_559_4	Nanyuki	F	29	3	Casual work	Casual worker	Rarely	Urban	Urban	52	2	45	1	0	3
+2018-08-16_560_5	Nanyuki	F	30	3	Formal employment	Mechanic	1-2 times per week	Urban	Urban	55	3	41	1	0	3
+2018-08-16_562_6	Nanyuki	M	28	2	Self employment		Everyday	Urban	Urban	52	4	43	1	0	0
+2018-08-16_566_9	Nanyuki	F	32	4	Casual work	Casual worker	Everyday	Urban	Urban	46	3	49	2	0	4
+2018-08-16_569_1	Nanyuki	M	49	4	Self employment	Ferrying goods	1-2 times per week	Urban	Urban	65	2	31	2	0	0
+2018-08-17_586_15	Nanyuki	M	28	0	Casual work	Casual worker	1-2 times per week	Urban	Urban	55	4	39	2	0	0
+2018-08-17_588_5	Nanyuki	M	43	4	Self employment	Security personnel	1-2 times per week	Urban	Urban	46	7	44	3	0	0
+2018-08-17_591_14	Nanyuki	M	20	0			Rarely	Urban	Urban	50	7	40	3	0	0
+2018-08-29_617_20	Nakoret	M	25	2	Gathering	Gathering fruitss	1-2 times per week	Traditional	RuralNotPastoral	65	5	29	1	0	0
+2018-08-29_624_19	Nakoret	F	51	6		House wife	Rarely	Traditional	RuralNotPastoral	53	3	44	0	0	6
+2018-08-29_625_18	Nakoret	M	34	4	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	55	5	40	0	0	0
+2018-08-29_626_17	Nakoret	F	35	5	Herding	Herder	1-2 times per week	Traditional	RuralNotPastoral	53	8	36	3	0	5
+2018-08-29_628_15	Nakoret	M	37	2	Formal employment	Security personnel	Rarely	Traditional	RuralNotPastoral	49	3	46	2	0	0
+2018-08-29_629_14	Nakoret	M	24	0	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	48	7	42	3	0	0
+2018-08-29_630_11	Nakoret	F	44	6		House wife	Rarely	Traditional	RuralNotPastoral	64	2	34	0	0	6
+2018-08-29_631_10	Nakoret	M	31	5	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	62	6	32	0	0	0
+2018-08-29_633_8	Nakoret	F	47	6	Mat making	Mat maker	1-2 times per week	Traditional	RuralNotPastoral	56	2	41	1	0	6
+2018-08-29_635_13	Nakoret	F	47	3	Mat making	Mat maker	Rarely	Traditional	RuralNotPastoral	67	0	32	1	0	3
+2018-08-29_639_3	Nakoret	M	52	0	Herding	Herder	1-2 times per week	Traditional	RuralNotPastoral	64	6	27	3	0	0
+2018-08-29_640_6	Nakoret	M	45	2	Herding	Herder	1-2 times per week	Traditional	RuralNotPastoral	61	2	37	0	0	0
+2018-08-29_645_4	Nakoret	M	46	10	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	56	3	40	1	0	0
+2018-08-30_597_6	Nakoret	M	21	0	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	36	8	55	1	0	0
+2018-08-30_616_4	Nakoret	M	45	0	Herding	Herder	Everyday	Traditional	RuralNotPastoral	63	4	31	2	0	0
+2018-08-30_619_8	Nakoret	F	38	6	Mat making	Mat maker	Rarely	Traditional	RuralNotPastoral	58	4	34	4	0	6
+2018-08-30_620_3	Nakoret	M	34	5	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	48	2	48	2	0	0
+2018-08-30_621_2	Nakoret	M	48	7	Herding	Herder	1-2 times per week	Traditional	RuralNotPastoral	78	1	19	3	0	0
+2018-08-30_622_5	Nakoret	M	33	5	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	59	0	40	1	0	0
+2018-08-30_623_1	Nakoret	M	54	4	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	58	4	38	0	0	0
+2018-08-30_644_10	Nakoret	M	34	5	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	60	4	35	1	0	0
+2018-08-30_648_9	Nakoret	M	58	9	Herding	Herder	1-2 times per week	Traditional	RuralNotPastoral	68	4	27	1	0	0
+2018-08-30_661_13	Nakoret	M	40	2	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	53	3	44	0	0	0
+2018-08-30_689_11	Nakoret	F	30	6	Mat making	Mat maker	Rarely	Traditional	RuralNotPastoral	47	6	45	2	0	7
+2018-08-30_694_12	Nakoret	F	37	6	Mat making	Mat maker	1-2 times per week	Traditional	RuralNotPastoral	64	2	33	1	0	6
+2018-08-31_651_7	Nakoret	F	43	7	Mat making	Mat maker	Rarely	Traditional	RuralNotPastoral	61	1	37	1	0	7
+2018-08-31_652_2	Nakoret	M	20	0	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	58	4	37	1	0	0
+2018-08-31_654_13	Nakoret	F	42	6	Mat making	Mat maker	1-2 times per week	Traditional	RuralNotPastoral	67	2	30	1	0	6
+2018-08-31_655_12	Nakoret	M	63	8	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	61	4	33	2	0	0
+2018-08-31_665_1	Nakoret	M	30	3	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	55	1	43	1	0	0
+2018-08-31_701_5	Nakoret	F	37	5	Mat making	Mat maker	1-2 times per week	Traditional	RuralNotPastoral	62	3	34	1	0	5
+2018-08-31_702_11	Nakoret	F	40	5	Mat making	Mat maker	Rarely	Traditional	RuralNotPastoral	58	4	38	0	0	6
+2018-08-31_706_3	Nakoret	F	44	7	Mat making	Mat maker	Rarely	Traditional	RuralNotPastoral	55	5	38	2	0	7
+2018-09-06_638_5	Nakalei	M	30	5	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	32	9	57	2	0	0
+2018-09-06_660_6	Nakalei	M	43	5	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	66	1	33	0	0	0
+2018-09-06_660_6	Nakalei	M	43	5	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	57	4	39	0	0	0
+2018-09-06_663_8	Nakalei	F	37	4	Charcoal burning	Charcoal burner	Rarely	Traditional	RuralNotPastoral	47	6	45	2	0	4
+2018-09-06_664_7	Nakalei	F	34	4	Charcoal burning	Charcoal burner	Rarely	Traditional	RuralNotPastoral	64	2	33	1	0	4
+2018-09-06_666_16	Nakalei	F	43	5	Charcoal burning	Charcoal burner	Rarely	Traditional	RuralNotPastoral	57	6	35	2	0	8
+2018-09-06_670_22	Nakalei	F	47	4	Charcoal burning	Charcoal burner	Rarely	Traditional	RuralNotPastoral	61	5	34	0	0	5
+2018-09-06_672_1	Nakalei	M	54	8	Formal employment	Clinic doctor	1-2 times per week	Traditional	RuralNotPastoral	47	9	31	10	2	0
+2018-09-06_674_25	Nakalei	F	45	8	Charcoal burning	Charcoal burner	Rarely	Traditional	RuralNotPastoral	50	4	44	2	0	6
+2018-09-06_674_25	Nakalei	F	45	8	Charcoal burning	Charcoal burner	Rarely	Traditional	RuralNotPastoral	37	6	56	1	0	6
+2018-09-06_681_19	Nakalei	F	49	7	Charcoal burning	Charcoal burner	Rarely	Traditional	RuralNotPastoral	58	0	40	2	0	7
+2018-09-06_682_11	Nakalei	M	38	7	Health services	Health worker	Rarely	Traditional	RuralNotPastoral	57	2	38	3	0	0
+2018-09-06_682_11	Nakalei	M	38	7	Health services	Health worker	Rarely	Traditional	RuralNotPastoral	64	5	27	3	1	0
+2018-09-06_684_20	Nakalei	F	58	7	Charcoal burning	Charcoal burner	Rarely	Traditional	RuralNotPastoral	44	2	23	3	0	7
+2018-09-06_684_20	Nakalei	F	58	7	Charcoal burning	Charcoal burner	Rarely	Traditional	RuralNotPastoral	37	10	49	4	0	7
+2018-09-06_686_15	Nakalei	F	51	9	Charcoal burning	Charcoal burner	Rarely	Traditional	RuralNotPastoral	42	2	54	2	0	9
+2018-09-06_687_10	Nakalei	M	53	8	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	52	2	44	2	0	0
+2018-09-06_688_12	Nakalei	F	54	5	Petty trade	Selling firewood	Rarely	Traditional	RuralNotPastoral	53	9	34	4	0	5
+2018-09-06_688_12	Nakalei	F	54	5	Petty trade	Selling firewood	Rarely	Traditional	RuralNotPastoral	66	4	20	6	0	5
+2018-09-06_690_28	Nakalei	F	34	6	Charcoal burning	Charcoal burner	Rarely	Traditional	RuralNotPastoral	32	6	56	6	0	6
+2018-09-06_690_28	Nakalei	F	34	6	Charcoal burning	Charcoal burner	Rarely	Traditional	RuralNotPastoral	53	3	40	3	1	6
+2018-09-06_691_21	Nakalei	M	53	8	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	58	2	40	0	0	0
+2018-09-06_692_29	Nakalei	M	62	5	Formal employment	Security personnel	Rarely	Traditional	RuralNotPastoral	64	6	24	4	2	0
+2018-09-06_693_30	Nakalei	F	35	4	Herding	Herder	1-2 times per week	Traditional	RuralNotPastoral	52	7	38	3	0	4
+2018-09-06_699_2	Nakalei	F	55	8	Charcoal burning	Charcoal burner	Rarely	Traditional	RuralNotPastoral	58	4	36	2	0	8
+2018-09-06_699_2	Nakalei	F	55	8	Charcoal burning	Charcoal burner	Rarely	Traditional	RuralNotPastoral	55	2	41	2	0	8
+2018-09-06_703_24	Nakalei	F	37	3	Herding	Herder	1-2 times per week	Traditional	RuralNotPastoral	50	3	47	0	0	3
+2018-09-06_704_14	Nakalei	M	60	7	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	49	3	46	2	0	0
+2018-09-06_705_26	Nakalei	F	37	5	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	44	3	50	2	1	5
+2018-09-07_667_12	Nakalei	F	29	2	Charcoal burning	Mat maker	Rarely	Traditional	RuralNotPastoral	62	2	29	3	2	2
+2018-09-07_668_4	Nakalei	F	53	8	Casual work	Cleaner	Rarely	Traditional	RuralNotPastoral	62	5	32	1	0	8
+2018-09-07_675_11	Nakalei	F	60	10	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	61	3	34	2	0	10
+2018-09-07_676_1	Nakalei	M	54	11	Animal keeping	Pastoralist	2 times per week	Traditional	RuralNotPastoral	42	4	48	4	2	0
+2018-09-07_680_7	Nakalei	F	39	6	Mat making	Mat maker	Rarely	Traditional	RuralNotPastoral	46	2	50	2	0	6
+2018-09-07_697_3	Nakalei	M	61	2	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	41	2	57	0	0	0
+2018-09-07_700_6	Nakalei	F	59	7	Charcoal burning	Charcoal burner	Rarely	Traditional	RuralNotPastoral	61	2	35	2	0	7
+2018-09-07_800_13	Nakalei	F	27	2	Charcoal burning	Charcoal burner	Rarely	Traditional	RuralNotPastoral	53	4	36	5	2	2
+2018-09-07_801_14	Nakalei	F	26	4		House wife	Everyday	Traditional	RuralNotPastoral	44	4	50	2	0	4
+2018-09-07_802_15	Nakalei	F	57	8	Charcoal burning	Charcoal burner	Rarely	Traditional	RuralNotPastoral	42	8	46	4	0	8
+2018-09-07_803_16	Nakalei	F	39	7	Formal employment	Hospital Cleaner	Rarely	Traditional	RuralNotPastoral	60	0	34	6	0	7
+2018-09-07_804_17	Nakalei	F	27	5	Charcoal burning	Charcoal burner	1-2 times per week	Traditional	RuralNotPastoral	59	5	32	3	0	5
+2018-09-07_805_18	Nakalei	M	42	9	Formal employment	Community police	Rarely	Traditional	RuralNotPastoral	64	2	32	2	0	0
+2018-09-07_812_25	Nakalei	F	54	7	Mat making	Mat maker	Rarely	Traditional	RuralNotPastoral	62	1	32	3	0	7
+2018-09-07_813_26	Nakalei	F	33	6	Charcoal burning	Charcoal burner	Rarely	Traditional	RuralNotPastoral	48	4	45	1	2	6
+2018-09-07_813_26	Nakalei	F	33	6	Charcoal burning	Charcoal burner	Rarely	Traditional	RuralNotPastoral	41	5	50	4	0	6
+2018-09-07_814_27	Nakalei	F	27	2	Mat making	Mat maker	Rarely	Traditional	RuralNotPastoral	51	2	46	1	0	2
+2018-09-07_815_28	Nakalei	F	29	2	Charcoal burning	Charcoal burner	Rarely	Traditional	RuralNotPastoral	54	7	36	3	0	2
+2018-09-07_817_30	Nakalei	F	49	8		House wife	Rarely	Traditional	RuralNotPastoral	59	1	36	3	1	8
+2018-09-07_817_30	Nakalei	F	49	8		House wife	Rarely	Traditional	RuralNotPastoral	50	6	43	1	0	8
+2018-09-08_820_1	Loupala	M	59	4	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	52	3	43	2	0	0
+2018-09-08_821_2	Loupala	M	18	0	Self employment	Motorbike rider	Rarely	Traditional	RuralNotPastoral	54	3	41	2	0	0
+2018-09-08_822_3	Loupala	M	35	9	Mat making	Mat maker	Rarely	Traditional	RuralNotPastoral	47	3	50	0	0	0
+2018-09-08_823_16	Loupala	F	65	6	Herding	Herder	1-2 times per week	Traditional	RuralNotPastoral	53	2	44	1	0	6
+2018-09-08_824_4	Loupala	M	26	0	Charcoal burning	Charcoal burner	Rarely	Traditional	RuralNotPastoral	43	4	52	1	0	0
+2018-09-08_825_5	Loupala	M	40	5	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	44	3	51	2	0	0
+2018-09-08_826_6	Loupala	M	37	2		Charcoal burner	1-2 times per week	Traditional	RuralNotPastoral	41	5	49	5	0	0
+2018-09-08_827_7	Loupala	M	51	11	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	45	6	44	4	1	0
+2018-09-08_828_8	Loupala	M	19	0	Herding	Herder	1-2 times per week	Traditional	RuralNotPastoral	39	5	52	4	0	0
+2018-09-08_829_9	Loupala	M	49	5	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	54	5	40	1	0	0
+2018-09-08_830_10	Loupala	M	53	12	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	51	3	44	2	0	0
+2018-09-08_832_12	Loupala	M	22	1	Charcoal burning	Charcoal burner	1-2 times per week	Traditional	RuralNotPastoral	64	3	31	2	0	0
+2018-09-08_834_14	Loupala	M	56	14	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	54	4	41	1	0	0
+2018-09-08_835_15	Loupala	M	61	23	Charcoal burning	Charcoal burner	Rarely	Traditional	RuralNotPastoral	63	4	33	0	0	0
+2018-09-08_836_17	Loupala	F	51	10	Charcoal burning	Charcoal burner	Rarely	Traditional	RuralNotPastoral	40	1	57	2	0	11
+2018-09-08_837_18	Loupala	F	26	6		House wife	Rarely	Traditional	RuralNotPastoral	44	8	44	3	1	6
+2018-09-08_838_19	Loupala	F	45	7	Charcoal burning	Charcoal burner	1-2 times per week	Traditional	RuralNotPastoral	50	3	46	1	0	7
+2018-09-08_839_20	Loupala	F	64	8	Herding	Herder	1-2 times per week	Traditional	RuralNotPastoral	65	2	32	1	0	8
+2018-09-08_840_21	Loupala	F	38	5	Charcoal burning	Charcoal burner	1-2 times per week	Traditional	RuralNotPastoral	58	6	34	2	0	5
+2018-09-08_841_22	Loupala	F	53	10	Self employment	Mat maker	Rarely	Traditional	RuralNotPastoral	48	2	46	3	1	10
+2018-09-08_843_24	Loupala	M	40	3	Herding	Herder	1-2 times per week	Traditional	RuralNotPastoral	56	4	39	1	0	0
+2018-09-08_846_27	Loupala	M	40	6	Charcoal burning	Charcoal burner	1-2 times per week	Traditional	RuralNotPastoral	61	5	34	0	0	0
+2018-09-08_847_28	Loupala	M	47	9	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	57	2	40	0	1	0
+2018-09-08_848_29	Loupala	M	28	0	Herding	Herder	1-2 times per week	Traditional	RuralNotPastoral	60	1	39	0	0	0
+2018-09-08_849_30	Loupala	M	47	4	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	42	3	50	5	0	0
+2018-09-12_850_1	Nauresekon	M	64	19	Charcoal burning	Charcoal burner	Rarely	Traditional	RuralNotPastoral	40	1	56	3	0	0
+2018-09-12_851_2	Nauresekon	M	53	0	Farming	Farmer	Rarely	Traditional	RuralNotPastoral	56	4	38	2	0	0
+2018-09-12_855_7	Nauresekon	M	49	5	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	66	3	31	0	0	0
+2018-09-12_856_8	Nauresekon	F	49	7		House wife	Rarely	Traditional	RuralNotPastoral	63	3	32	2	0	7
+2018-09-12_857_9	Nauresekon	F	47	6	Mat making	Mat maker	Rarely	Traditional	RuralNotPastoral	39	5	55	1	0	6
+2018-09-12_858_10	Nauresekon	F	27	3	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	68	1	28	3	0	3
+2018-09-12_859_11	Nauresekon	F	45	6	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	47	7	45	1	0	5
+2018-09-12_860_12	Nauresekon	F	49	7	Charcoal burning	Charcoal burner	Rarely	Traditional	RuralNotPastoral	62	2	34	2	0	7
+2018-09-12_861_13	Nauresekon	F	30	4	Petty trade	Mat maker	Rarely	Traditional	RuralNotPastoral	66	2	40	3	0	4
+2018-09-12_862_14	Nauresekon	F	51	7	Mat making	Mat maker	Rarely	Traditional	RuralNotPastoral	66	4	25	4	1	6
+2018-09-12_864_16	Nauresekon	F	21	1	Mat making	Mat maker	Rarely	Traditional	RuralNotPastoral	58	2	38	2	0	1
+2018-09-12_865_17	Nauresekon	M	65	5	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	59	5	34	2	0	0
+2018-09-12_867_19	Nauresekon	F	24	3	Mat making	Mat maker	Rarely	Traditional	RuralNotPastoral	60	4	31	5	0	3
+2018-09-12_868_20	Nauresekon	M	52	5	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	57	1	39	3	0	0
+2018-09-12_869_21	Nauresekon	F	26	2	Mat making	Mat maker	1-2 times per week	Traditional	RuralNotPastoral	62	2	29	6	1	2
+2018-09-12_870_22	Nauresekon	M	51	5	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	64	3	29	2	2	0
+2018-09-12_871_23	Nauresekon	M	68	18	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	62	5	30	3	0	0
+2018-09-12_879_4	Nauresekon	F	43	8	Self employment	Mat maker	Rarely	Traditional	RuralNotPastoral	53	3	43	1	0	8
+2018-09-13_880_1	Lotukumo	M	21	0		Casual worker	Rarely	Traditional	RuralNotPastoral	56	1	42	1	0	0
+2018-09-13_882_3	Lotukumo	M	33	4	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	55	2	40	3	0	0
+2018-09-13_883_4	Lotukumo	M	35	2	Self employment	Preacher	1-2 times per week	Traditional	RuralNotPastoral	52	0	47	1	0	0
+2018-09-13_884_5	Lotukumo	M	39	6	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	58	1	38	2	1	0
+2018-09-13_885_6	Lotukumo	M	27	2	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	55	3	38	4	0	0
+2018-09-13_886_7	Lotukumo	M	20	4	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	56	4	36	3	1	0
+2018-09-13_887_8	Lotukumo	F	45	5	Mat making	Mat maker	1-2 times per  week	Traditional	RuralNotPastoral	55	1	42	2	0	5
+2018-09-13_889_10	Lotukumo	M	30	1	Formal employment	Teacher	Rarely	Traditional	RuralNotPastoral	57	1	40	2	0	0
+2018-09-13_890_11	Lotukumo	F	45	9	Mat making	Mat maker	Rarely	Traditional	RuralNotPastoral	61	0	36	3	0	9
+2018-09-20_877_29	Chokchok	F	32	6	Charcoal burning	Charcoal burner	1-2 times per week	Traditional	RuralNotPastoral	58	0	40	2	0	6
+2018-09-20_951_21	Chokchok	M	45	12	Charcoal burning	Charcoal burner	Rarely	Traditional	RuralNotPastoral	62	4	31	3	0	0
+2018-09-20_952_22	Chokchok	M	55	4	Casual work	Casual worker	Rarely	Traditional	RuralNotPastoral	38	2	58	2	0	0
+2018-09-20_953_23	Chokchok	M	53	8	Charcoal burning	Charcoal burner	Rarely	Traditional	RuralNotPastoral	53	4	41	2	0	0
+2018-09-20_956_26	Chokchok	M	29	4	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	51	5	40	4	0	0
+2018-09-20_957_27	Chokchok	M	20	0	Charcoal burning	Charcoal burner	Rarely	Traditional	RuralNotPastoral	56	3	40	1	0	0
+2018-09-20_959_31	Chokchok	F	22	0	Charcoal burning	Charcoal burner	Rarely	Traditional	RuralNotPastoral	42	0	58	2	0	0
+2018-09-21_966_7	Lomunyenakwan	M	37	2	Charcoal burning	Charcoal burner	1-2 times per week	Traditional	RuralNotPastoral	58	7	32	3	0	0
+2018-09-21_971_12	Lomunyenakwan	M	23	0	Herding	Herder	1-2 times per week	Traditional	RuralNotPastoral	53	4	41	2	0	0
+2018-09-21_975_16	Lomunyenakwan	F	44	7	Charcoal burning	Charcoal burner	Rarely	Traditional	RuralNotPastoral	52	3	44	1	0	7
+2018-09-21_983_24	Lomunyenakwan	F	31	2	Charcoal burning	Charcoal burner	1-2 times per week	Traditional	RuralNotPastoral	59	3	36	2	0	2
+2018-09-21_990_31	Lomunyenakwan	M	23	4	Charcoal burning	Charcoal burner	Rarely	Traditional	RuralNotPastoral	60	4	35	1	0	0
+2018-09-21_994_35	Lomunyenakwan	F	30	5	Charcoal burning	Charcoal burner	Rarely	Traditional	RuralNotPastoral	58	4	37	1	0	5
+2018-09-27_1000_6	Longech	F	31	3	Petty trade	Selling fish	Rarely	Traditional	RuralNotPastoral	43	3	50	4	0	3
+2018-09-27_1001_7	Longech	F	25	2	Casual work	Transporting fish	Rarely	Traditional	RuralNotPastoral	54	5	39	2	0	2
+2018-09-27_1002_8	Longech	F	18	1	Petty trade	Selling fish	Rarely	Traditional	RuralNotPastoral	49	4	43	4	0	1
+2018-09-27_1003_9	Longech	F	47	10	Charcoal burning	Charcoal burner	Rarely	Traditional	RuralNotPastoral	39	6	51	4	0	11
+2018-09-27_1004_10	Longech	F	36	8	Petty trade	Selling fish	Rarely	Traditional	RuralNotPastoral	61	2	35	2	0	8
+2018-09-27_1005_11	Longech	F	19	2	Casual work	Transporting fish	Rarely	Traditional	RuralNotPastoral	48	5	41	6	0	2
+2018-09-27_1007_13	Longech	F	29	4	Casual work	Casual worker	Rarely	Traditional	RuralNotPastoral	43	7	39	9	2	4
+2018-09-27_1008_14	Longech	F	52	3	Petty trade	Selling fish	Rarely	Traditional	RuralNotPastoral	50	3	46	1	0	3
+2018-09-27_1010_16	Longech	F	43	3	Casual work	Casual worker	Rarely	Traditional	RuralNotPastoral	60	4	29	7	0	4
+2018-09-27_1011_17	Longech	F	42	9	Charcoal burning	Charcoal burner	Rarely	Traditional	RuralNotPastoral	55	4	36	6	0	9
+2018-09-27_1012_18	Longech	F	65	5	Mat making	Mat maker	Rarely	Traditional	RuralNotPastoral	64	4	30	2	0	5
+2018-09-27_1013_19	Longech	F	47	3	Petty trade	Selling fish	Rarely	Traditional	RuralNotPastoral	53	2	45	0	0	3
+2018-09-27_1014_20	Longech	F	41	6		House wife	Rarely	Traditional	RuralNotPastoral	49	1	48	2	0	6
+2018-09-27_1016_22	Longech	F	60	6	Casual work	Transporting fish	Rarely	Traditional	RuralNotPastoral	66	1	31	1	1	6
+2018-09-27_1019_25	Longech	F	20	2		House wife	Rarely	Traditional	RuralNotPastoral	54	4	41	1	0	2
+2018-09-27_1022_28	Longech	F	21	0	Casual work	Casual worker	Rarely	Traditional	RuralNotPastoral	34	6	58	2	0	0
+2018-09-27_1023_29	Longech	F	36	2	Formal employment	School cook	Rarely	Traditional	RuralNotPastoral	45	3	52	0	0	2
+2018-09-27_1024_30	Longech	F	45	6	Casual work	Casual worker	Rarely	Traditional	RuralNotPastoral	57	4	39	0	0	6
+2018-09-27_1025_31	Longech	F	22	3	Petty trade	Selling local brews	Rarely	Traditional	RuralNotPastoral	64	2	33	1	0	3
+2018-09-27_1027_33	Longech	F	29	2	Casual work	Transporting fish	Rarely	Traditional	RuralNotPastoral	54	7	38	1	0	2
+2018-09-27_1028_34	Longech	F	43	6	Casual work	Transporting fish	Rarely	Traditional	RuralNotPastoral	54	2	43	1	0	6
+2018-09-27_1030_36	Longech	F	20	2		House wife	Rarely	Traditional	RuralNotPastoral	66	2	29	3	0	2
+2018-09-27_1031_37	Longech	F	36	5	Petty trade	Selling fish	Rarely	Traditional	RuralNotPastoral	59	1	37	3	0	6
+2018-09-27_1032_38	Longech	F	43	2	Casual work	Transporting fish	Rarely	Traditional	RuralNotPastoral	51	5	43	1	0	2
+2018-09-27_1034_40	Longech	F	57	7	Petty trade	Transporting fish	Rarely	Traditional	RuralNotPastoral	57	1	40	2	0	7
+2018-09-27_995_1	Longech	F	49	6	Casual work	Casual worker	Rarely	Traditional	RuralNotPastoral	34	5	57	4	0	6
+2018-09-27_997_3	Longech	F	53	7	Petty trade	Selling fish	Rarely	Traditional	RuralNotPastoral	62	3	34	1	0	8
+2018-09-27_998_4	Longech	F	39	6	Casual work	Transporting fish	Rarely	Traditional	RuralNotPastoral	60	5	33	2	0	6
+2018-09-28_1036_2	Longech	M	43	7	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	46	10	34	8	2	0
+2018-09-28_1037_3	Longech	M	55	8	Fishing	Fisherman	Rarely	Traditional	RuralNotPastoral	38	6	42	8	4	0
+2018-09-28_1038_4	Longech	M	36	5	Formal employment	Accountant	Rarely	Traditional	RuralNotPastoral	40	6	48	6	0	0
+2018-09-28_1039_5	Longech	M	32	5	Fishing	Fisherman	Rarely	Traditional	RuralNotPastoral	44	1	54	1	0	0
+2018-09-28_1040_6	Longech	M	56	7	Fishing	Fisherman	Rarely	Traditional	RuralNotPastoral	57	3	38	2	0	0
+2018-09-28_1041_7	Longech	M	34	6	Formal employment	Security personnel	Rarely	Traditional	RuralNotPastoral	39	9	46	4	2	0
+2018-09-28_1042_8	Longech	M	32	8	Fishing	Fisherman	Rarely	Traditional	RuralNotPastoral	16	8	64	10	2	0
+2018-09-28_1045_11	Longech	M	27	6	Fishing	Fisherman	Rarely	Traditional	RuralNotPastoral	54	2	44	0	0	0
+2018-09-28_1045_11	Longech	M	27	6	Fishing	Fisherman	Rarely	Traditional	RuralNotPastoral	44	2	52	2	0	0
+2018-09-28_1046_12	Longech	M	25	0	Fishing	Fisherman	Everyday	Traditional	RuralNotPastoral	58	0	42	0	0	0
+2018-09-28_1047_13	Longech	M	27	3	Fishing	Fisherman	Rarely	Traditional	RuralNotPastoral	57	2	37	3	1	0
+2018-09-28_1048_14	Longech	F	28	4	Fishing	Fisherman	Rarely	Traditional	RuralNotPastoral	37	2	58	3	0	4
+2018-09-28_1052_18	Longech	M	42	6	Fishing	Fisherman	Rarely	Traditional	RuralNotPastoral	64	4	30	2	0	0
+2018-09-28_1053_19	Longech	M	60	8	Fishing	Fisherman	Rarely	Traditional	RuralNotPastoral	49	5	45	1	0	0
+2018-09-28_1053_19	Longech	M	60	8	Fishing	Fisherman	Rarely	Traditional	RuralNotPastoral	42	1	57	0	0	0
+2018-09-28_1054_20	Longech	M	22	2	Fishing	Fisherman	Rarely	Traditional	RuralNotPastoral	55	3	42	0	0	0
+2018-09-28_1056_22	Longech	M	59	3	Fishing	Fisherman	Rarely	Traditional	RuralNotPastoral	54	3	41	2	0	0
+2018-09-28_1056_22	Longech	M	59	3	Fishing	Fisherman	Rarely	Traditional	RuralNotPastoral	40	2	54	4	0	0
+2018-09-28_1056_22	Longech	M	59	3	Fishing	Fisherman	Rarely	Traditional	RuralNotPastoral	59	5	34	2	0	0
+2018-09-28_1058_24	Longech	F	26	2		House wife	Rarely	Traditional	RuralNotPastoral	49	3	46	2	0	2
+2018-09-28_1061_27	Longech	M	31	6	Self employment	Fisherman	Rarely	Traditional	RuralNotPastoral	48	4	44	3	1	0
+2018-09-28_1062_28	Longech	F	22	0	Fishing	Fisherman	Rarely	Traditional	RuralNotPastoral	49	1	48	2	0	0
+2018-09-28_1063_29	Longech	M	42	4	Fishing	Fisherman	Rarely	Traditional	RuralNotPastoral	52	1	46	1	0	0
+2018-09-28_1064_30	Longech	F	30	3		House wife	Rarely	Traditional	RuralNotPastoral	47	3	49	1	0	3
+2018-09-28_1065_31	Longech	F	37	1		House wife	Rarely	Traditional	RuralNotPastoral	58	2	37	3	0	1
+2018-09-28_1068_34	Longech	F	20	1		House wife	Rarely	Traditional	RuralNotPastoral	41	1	57	0	1	1
+2018-09-28_1069_35	Longech	F	18	0	Fishing	Fisherman	Everyday	Traditional	RuralNotPastoral	37	2	56	4	1	0
+2018-09-28_1071_37	Longech	F	37	4	Casual work	Domestic servant	Rarely	Traditional	RuralNotPastoral	56	1	41	2	0	4
+2018-09-28_1073_39	Longech	F	40	8	Casual work	Transporting fish	Rarely	Traditional	RuralNotPastoral	47	0	51	2	0	8
+2018-09-28_1074_40	Longech	F	49	5	Casual work	Transporting fish	Rarely	Traditional	RuralNotPastoral	56	2	40	2	0	5
+2018-09-28_1075_41	Longech	F	36	8	Casual work	Casual worker	Rarely	Traditional	RuralNotPastoral	57	3	39	1	0	8
+2018-09-28_1077_43	Longech	F	35	6	Casual work	Transporting fish	Rarely	Traditional	RuralNotPastoral	57	3	39	1	0	6
+2018-09-28_1081_47	Longech	F	21	1	Fishing	Fisherman	Rarely	Traditional	RuralNotPastoral	52	0	44	4	0	1
+2018-10-30_757_50	Vetinary/Kinamba	F	26	3	Casual work	Casual worker	Everyday	Urban	Urban	36	5	57	2	0	1
+2018-10-30_761_7	Vetinary/Kinamba	F	49	2			Rarely	Urban	Urban	46	4	48	2	0	2
+2018-10-30_763_11	Vetinary/Kinamba	F	39	4	Farming	Farmer	Rarely	Urban	Urban	66	4	27	2	1	5
+2018-10-30_767_2	Vetinary/Kinamba	F	40	2	Casual work	Casual worker	1-2 times per week	Urban	Urban	39	7	51	3	0	3
+2018-10-30_781_4	Vetinary/Kinamba	F	39	5	Farming	Farmer	Rarely	Urban	Urban	44	4	51	1	0	5
+2018-10-30_791_3	Vetinary/Kinamba	M	68	4	Animal keeping	Pastoralist	Everyday	Urban	Urban	54	6	38	2	0	0
+2018-10-30_792_18	Vetinary/Kinamba	F	39	9	Casual work	Casual worker	1-2 times per week	Urban	Urban	44	3	51	2	0	9
+2018-10-30_793_5	Vetinary/Kinamba	M	67	3	Charcoal burning	Charcoal burner	1-2 times per week	Urban	Urban	41	2	56	1	0	0
+2018-10-30_795_48	Vetinary/Kinamba	F	62	7			Rarely	Urban	Urban	53	4	42	1	0	0
+2018-10-30_798_15	Vetinary/Kinamba	F	46	4		House wife	Rarely	Urban	Urban	58	2	39	1	0	7
+2018-10-30_799_8	Vetinary/Kinamba	F	54	4			Rarely	Urban	Urban	50	2	46	2	0	4
+2018-10-30_800_37	Vetinary/Kinamba	F	35	7	Casual work	Casual worker	Rarely	Urban	Urban	57	2	40	1	0	7
+2018-10-30_803_39	Vetinary/Kinamba	F	67	3			Rarely	Urban	Urban	50	2	48	0	0	0
+2018-10-30_805_36	Vetinary/Kinamba	F	32	4	Casual work	Casual worker	Rarely	Urban	Urban	59	3	37	1	0	4
+2018-10-30_805_36	Vetinary/Kinamba	F	32	4	Casual work	Casual worker	Rarely	Urban	Urban	52	1	43	4	0	4
+2018-10-30_807_30	Vetinary/Kinamba	M	36	5	Self employment		Everyday	Urban	Urban	54	3	41	2	0	0
+2018-10-30_808_16	Vetinary/Kinamba	F	35	5	Casual work	Casual worker	Rarely	Urban	Urban	53	1	44	2	0	5
+2018-10-30_813_26	Vetinary/Kinamba	F	33	6	Self employment		More than 2 times per week	Urban	Urban	40	2	56	2	0	6
+2018-10-30_814_9	Vetinary/Kinamba	F	41	8	Casual work	Casual worker	1-2 times per week	Urban	Urban	49	5	43	3	0	8
+2018-10-30_816_45	Vetinary/Kinamba	F	30	5	Self employment		Everyday	Urban	Urban	60	5	34	1	0	5
+2018-10-30_817_20	Vetinary/Kinamba	F	22	1		House wife	Rarely	Urban	Urban	53	1	44	2	0	1
+2018-10-30_820_46	Vetinary/Kinamba	F	35	6	Casual work	Casual worker	Rarely	Urban	Urban	63	1	33	3	0	6
+2018-10-30_826_49	Vetinary/Kinamba	F	32	4	Petty trade	Shopkeeper	Everyday	Urban	Urban	49	1	50	0	0	4
+2018-10-30_828_35	Vetinary/Kinamba	F	35	6	Self employment		1-2 times per week	Urban	Urban	62	3	34	1	0	6
+2018-10-30_829_1	Vetinary/Kinamba	F	26	4	Animal keeping	Pastoralist	1-2 times per week	Urban	Urban	57	2	41	0	0	4
+2018-10-30_829_1	Vetinary/Kinamba	F	26	4	Animal keeping	Pastoralist	1-2 times per week	Urban	Urban	46	4	49	1	0	4
+2018-10-30_831_10	Vetinary/Kinamba	F	57	4			Rarely	Urban	Urban	59	3	37	1	0	5
+2018-10-30_837_34	Vetinary/Kinamba	F	37	7	Charcoal burning	Charcoal burner	Rarely	Urban	Urban	64	7	26	3	0	7
+2018-10-30_845_23	Vetinary/Kinamba	F	25	4	Casual work	Casual worker	1-2 times per week	Urban	Urban	56	4	37	3	0	4
+2018-10-30_845_23	Vetinary/Kinamba	F	25	4	Casual work	Casual worker	1-2 times per week	Urban	Urban	57	5	36	2	0	4
+2018-10-30_845_23	Vetinary/Kinamba	F	25	4	Casual work	Casual worker	1-2 times per week	Urban	Urban	66	1	33	0	0	4
+2018-11-28_753_10	Lochornkalalio	M	45	10	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	35	2	62	1	0	0
+2018-11-28_780_12	Lochornkalalio	F	39	4	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	35	3	61	1	0	5
+2018-11-28_783_3	Lochornkalalio	M	43	8	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	39	5	56	0	0	0
+2018-11-28_788_13	Lochornkalalio	F	30	4	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	65	4	29	2	0	4
+2018-11-28_796_8	Lochornkalalio	M	32	4	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	35	3	62	2	0	0
+2018-11-28_833_11	Lochornkalalio	M	35	5	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	33	1	64	2	0	0
+2018-11-28_834_5	Lochornkalalio	M	34	7	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	42	4	53	1	0	0
+2018-11-28_843_2	Lochornkalalio	M	44	8	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	48	1	47	4	0	0
+2018-11-28_846_4	Lochornkalalio	M	43	6	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	48	4	46	2	0	0
+2018-11-28_849_7	Lochornkalalio	M	39	11	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	40	2	57	1	0	0
+2018-11-28_850_6	Lochornkalalio	M	43	9	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	51	3	45	1	0	0
+2018-11-29_751_2	Kekorakwan	M	29	5	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	50	3	45	2	0	0
+2018-11-29_754_12	Kekorakwan	F	28	5	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	61	1	37	1	0	5
+2018-11-29_760_14	Kekorakwan	F	34	5	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	54	3	42	1	0	5
+2018-11-29_764_8	Kekorakwan	M	25	3	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	30	2	66	2	0	0
+2018-11-29_766_16	Kekorakwan	F	44	6	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	27	6	65	3	0	6
+2018-11-29_768_15	Kekorakwan	F	42	5	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	33	0	67	0	0	6
+2018-11-29_772_6	Kekorakwan	M	40	12	Gathering	Gathering fruitss	Rarely	Traditional	RuralNotPastoral	39	7	53	1	0	0
+2018-11-29_776_7	Kekorakwan	M	35	10	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	31	4	62	2	1	0
+2018-11-29_779_5	Kekorakwan	M	42	10	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	34	2	64	0	0	0
+2018-11-29_825_13	Kekorakwan	F	30	5	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	49	3	46	2	0	5
+2018-11-29_827_9	Kekorakwan	F	39	6	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	40	3	54	3	0	7
+2018-11-29_836_10	Kekorakwan	F	37	6	Charcoal burning	Charcoal burner	1-2 times per week	Traditional	RuralNotPastoral	45	3	51	1	0	6
+2018-11-29_839_3	Kekorakwan	M	42	8	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	43	8	45	5	0	0
+2018-11-29_844_11	Kekorakwan	F	43	6	Petty trade	Selling firewood	1-2 times per week	Traditional	RuralNotPastoral	36	4	67	4	0	6
+2018-11-29_851_4	Kekorakwan	M	44	6	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	49	3	46	2	0	0
+2018-11-30_758_8	Kakuromosin	F	31	3	Petty trade	Selling firewood	1-2 times per week	Traditional	RuralNotPastoral	35	1	63	1	0	3
+2018-11-30_762_10	Kakuromosin	F	41	5	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	46	5	47	2	0	6
+2018-11-30_769_1	Kakuromosin	M	31	8	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	40	5	53	2	0	0
+2018-11-30_770_3	Kakuromosin	M	29	2	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	54	2	42	2	0	0
+2018-11-30_797_6	Kakuromosin	F	34	6	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	68	4	25	3	0	6
+2018-11-30_821_7	Kakuromosin	F	39	4	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	54	2	44	0	0	4
+2018-11-30_822_5	Kakuromosin	M	34	5	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	54	2	43	1	0	0
+2018-11-30_842_2	Kakuromosin	M	46	7	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	47	4	47	2	0	0
+2018-11-30_848_9	Kakuromosin	F	29	3	Petty trade	Selling sisal	1-2 times per week	Traditional	RuralNotPastoral	40	5	53	2	0	3
+2018-12-05_759_2	Loteteleit	F	32	5	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	43	6	41	10	0	5
+2018-12-05_824_7	Loteteleit	F	41	6	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	49	4	43	4	0	6
+2018-12-05_832_5	Loteteleit	F	34	4	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	57	3	40	2	1	4
+2018-12-05_840_3	Loteteleit	F	27	3	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	66	7	23	3	1	3
+2018-12-05_852_8	Loteteleit	F	27	1	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	39	6	49	6	0	1
+2018-12-05_853_6	Loteteleit	F	23	1	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	43	3	51	3	0	1
+2018-12-06_854_12	Loteteleit	F	31	4	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	38	0	60	2	0	4
+2018-12-06_855_3	Loteteleit	F	31	2	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	44	8	40	6	2	2
+2018-12-06_856_11	Loteteleit	F	46	3	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	42	2	50	4	2	3
+2018-12-06_857_4	Loteteleit	F	19	0	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	46	1	51	2	0	0
+2018-12-06_858_6	Loteteleit	F	25	2	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	56	6	30	7	1	2
+2018-12-06_859_10	Loteteleit	F	33	5	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	56	5	31	6	0	5
+2018-12-06_860_9	Loteteleit	F	32	4	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	64	2	31	2	1	4
+2018-12-06_861_2	Loteteleit	F	39	4	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	47	8	41	2	2	4
+2018-12-06_862_7	Loteteleit	M	39	15	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	73	5	20	2	0	0
+2018-12-06_863_1	Loteteleit	F	29	5	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	45	2	51	1	1	5
+2018-12-06_864_8	Loteteleit	F	47	5	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	64	2	26	8	0	5
+2018-12-06_865_5	Loteteleit	F	25	1	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	47	8	35	6	4	1
+2018-12-06_867_14	Loteteleit	F	39	5	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	57	3	35	2	3	5
+2018-12-06_868_15	Loteteleit	F	25	0	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	65	4	22	9	0	0
+2018-12-06_869_13	Loteteleit	F	24	3	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	48	6	36	8	2	3
+2018-12-07_866_1	Nayanae Egilai	F	38	8	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	49	5	40	4	2	8
+2018-12-07_866_1	Nayanae Egilai	F	38	8	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	54	2	42	2	0	8
+2018-12-07_870_3	Nayanae Egilai	F	21	0	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	37	6	51	4	2	0
+2018-12-07_871_2	Nayanae Egilai	F	46	6	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	51	6	37	4	2	6
+2018-12-07_871_2	Nayanae Egilai	F	46	6	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	64	2	32	2	0	6
+2018-12-07_872_4	Nayanae Egilai	F	26	4	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	52	9	36	3	0	4
+2018-12-07_873_5	Nayanae Egilai	F	41	6	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	52	6	39	4	0	6
+2018-12-07_874_7	Nayanae Egilai	F	23	0	Herding	Herder	1-2 times per week	Traditional	RuralNotPastoral	51	3	45	1	0	0
+2018-12-07_875_6	Nayanae Egilai	F	41	9	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	70	2	28	0	0	9
+2018-12-07_876_8	Nayanae Egilai	F	32	6	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	39	1	56	3	1	6
+2018-12-07_877_12	Nayanae Egilai	F	39	6	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	50	4	45	1	0	6
+2018-12-07_878_10	Nayanae Egilai	F	23	1	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	58	6	34	2	0	1
+2018-12-07_879_9	Nayanae Egilai	F	21	0	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	70	3	23	4	0	0
+2018-12-07_880_11	Nayanae Egilai	F	39	5	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	57	5	38	0	0	6
+2018-12-07_881_13	Nayanae Egilai	F	33	4	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	53	3	43	1	0	4
+2018-12-07_882_14	Nayanae Egilai	F	23	0	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	74	3	21	2	0	0
+2018-12-07_883_15	Nayanae Egilai	M	35	0	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	58	10	30	2	0	0
+2018-12-13_885_3	Kangakurio	M	40	5	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	67	2	29	2	0	0
+2018-12-13_886_6	Kangakurio	M	41	7	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	54	5	39	2	0	0
+2018-12-13_886_6	Kangakurio	M	41	7	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	55	1	37	3	4	0
+2018-12-13_887_8	Kangakurio	M	63	23	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	36	0	64	0	0	0
+2018-12-13_888_7	Kangakurio	F	31	6	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	41	8	45	6	0	7
+2018-12-13_889_2	Kangakurio	F	42	8	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	48	5	45	2	0	8
+2018-12-13_890_9	Kangakurio	F	34	2	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	60	6	22	8	4	2
+2018-12-13_891_1	Kangakurio	M	30	4	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	64	3	32	1	0	0
+2018-12-14_893_10	Natagor	M	25	6	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	50	5	43	2	0	0
+2018-12-14_894_12	Natagor	M	26	2	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	52	8	46	2	0	0
+2018-12-14_895_3	Natagor	M	34	6	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	52	7	28	7	6	0
+2018-12-14_897_13	Natagor	M	35	5	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	51	2	44	3	0	0
+2018-12-14_898_7	Natagor	M	36	4	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	54	2	43	1	0	0
+2018-12-14_899_8	Natagor	M	51	7	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	58	2	37	2	1	0
+2018-12-14_901_2	Natagor	M	47	6	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	54	0	44	2	0	0
+2018-12-14_902_9	Natagor	M	44	13	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	47	4	47	1	1	0
+2018-12-14_903_11	Natagor	F	41	5	Gathering	Gathering fruits	1-2 times per week	Traditional	RuralNotPastoral	56	4	30	10	0	5
+2018-12-14_904_5	Natagor	M	38	3	Animal keeping	Pastoralist	1-2 time sper week	Traditional	RuralNotPastoral	38	7	47	5	3	0
+2018-12-14_906_14	Natagor	F	39	8	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	60	3	30	6	2	9
+2018-12-14_908_19	Natagor	F	41	8	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	56	3	37	4	0	8
+2018-12-14_909_16	Natagor	F	43	8	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	50	2	46	2	0	8
+2018-12-14_910_17	Natagor	F	30	3	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	45	4	51	2	0	3
+2018-12-14_910_17	Natagor	F	30	3	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	38	3	56	2	1	3
+2018-12-14_911_18	Natagor	M	36	4	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	44	4	48	4	0	0
+2018-12-14_911_18	Natagor	M	36	4	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	44	8	40	6	2	0
+2018-12-14_968_1	Natagor	M	43	7	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	60	0	37	2	1	0
+2018-12-17_778_2	Akaayia Apoo	M	46	0	Gathering	Gathering fruits	1-2times per week	Traditional	RuralNotPastoral	52	4	38	6	0	0
+2018-12-17_789_1	Akaayia Apoo	F	47	8	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	46	3	50	1	0	8
+2018-12-17_913_6	Akaayia Apoo	M	35	4	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	39	6	50	4	2	0
+2018-12-17_914_14	Akaayia Apoo	F	34	2	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	49	2	47	2	0	2
+2018-12-17_915_11	Akaayia Apoo	F	45	8	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	32	2	62	3	1	8
+2018-12-17_916_18	Akaayia Apoo	F	43	8	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	66	4	27	3	0	8
+2018-12-17_917_19	Akaayia Apoo	M	38	7	Petty trade	Charcoal burner	1-2 times per week	Traditional	RuralNotPastoral	64	4	29	3	0	0
+2018-12-17_918_17	Akaayia Apoo	F	45	4	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	55	5	37	3	0	4
+2018-12-17_919_20	Akaayia Apoo	F	44	5	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	56	5	37	2	0	6
+2018-12-17_920_13	Akaayia Apoo	M	25	3	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	45	1	54	0	0	0
+2018-12-17_921_16	Akaayia Apoo	F	29	6	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	60	2	37	1	0	7
+2018-12-17_925_10	Akaayia Apoo	F	33	6	Charcoal burning	Charcoal burner	1-2 times per week	Traditional	RuralNotPastoral	59	2	38	1	0	6
+2018-12-17_926_12	Akaayia Apoo	F	38	3	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	69	3	27	1	0	3
+2018-12-18_927_3	Sasame	F	35	5		House wife	1-2 times per week	Traditional	RuralNotPastoral	48	1	50	1	0	5
+2018-12-18_928_4	Sasame	M	48	3	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	63	3	33	1	0	0
+2018-12-18_930_11	Sasame	M	50	2	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	51	2	46	1	0	0
+2018-12-18_931_10	Sasame	F	36	4	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	61	12	24	3	0	5
+2018-12-18_932_7	Sasame	F	43	7	Gathering	Gathering fruits	1-2 times per week	Traditional	RuralNotPastoral	60	6	34	0	0	7
+2018-12-18_934_8	Sasame	M	39	0	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	53	4	42	1	0	0
+2018-12-18_935_1	Sasame	M	45	5	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	60	4	36	0	0	0
+2018-12-18_936_6	Sasame	F	31	4	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	52	2	44	2	0	4
+2018-12-18_937_9	Sasame	M	32	2	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	59	5	34	2	0	0
+2018-12-18_938_16	Sasame	M	34	7	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	63	4	30	3	0	0
+2018-12-18_939_15	Sasame	M	30	3	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	57	4	38	1	0	0
+2018-12-18_940_14	Sasame	M	45	23	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	67	7	24	2	1	0
+2018-12-18_941_12	Sasame	M	40	9	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	67	4	27	2	0	0
+2018-12-18_942_18	Sasame	M	42	10	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	39	0	59	2	0	0
+2018-12-18_944_13	Sasame	F	43	7	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	64	4	32	0	0	7
+2018-12-18_945_17	Sasame	M	40	8	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	56	1	41	2	0	0
+2018-12-18_946_19	Sasame	M	30	6	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	59	0	41	0	0	0
+2018-12-18_947_20	Sasame	M	40	20	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	64	5	29	2	0	0
+2018-12-19_948_2	Kaenyangaluk	M	45	13	Gathering	Gathering fruits	1-2 times per week	Traditional	RuralNotPastoral	52	3	43	2	0	0
+2018-12-19_950_3	Kaenyangaluk	M	32	8	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	53	0	45	2	0	0
+2018-12-19_951_1	Kaenyangaluk	M	49	4	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	54	3	42	1	0	0
+2018-12-19_952_5	Kaenyangaluk	M	43	7	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	65	7	27	0	1	0
+2018-12-19_953_7	Kaenyangaluk	M	26	0	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	58	1	39	2	0	0
+2018-12-19_955_10	Kaenyangaluk	F	34	4	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	60	1	37	2	0	4
+2018-12-19_956_6	Kaenyangaluk	F	38	10	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	52	2	45	1	0	0
+2018-12-19_957_8	Kaenyangaluk	M	52	7	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	57	0	42	1	0	7
+2018-12-19_958_4	Kaenyangaluk	F	41	10	Charcoal burning	Charcoal burner	1-2 times per week	Traditional	RuralNotPastoral	58	3	35	4	0	10
+2018-12-19_959_16	Kaenyangaluk	F	49	6	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	51	4	43	2	0	6
+2018-12-19_960_14	Kaenyangaluk	M	51	6	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	48	3	47	2	0	0
+2018-12-19_964_13	Kaenyangaluk	M	30	1	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	59	5	33	2	1	0
+2018-12-19_965_12	Kaenyangaluk	F	44	6	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	48	1	50	1	0	6
+2018-12-19_966_11	Kaenyangaluk	M	37	15	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	43	6	45	5	1	0
+2018-12-19_967_19	Kaenyangaluk	F	27	2	Charcoal burning	Charcoal burner	1-2 times per week	Traditional	RuralNotPastoral	61	3	34	2	0	2
+2018-12-19_969_20	Kaenyangaluk	F	25	1	Gathering	Gathering fruits	1-2 times per week	Traditional	RuralNotPastoral	48	3	47	2	0	1
+2019-02-16_1118_4	Kula Mawe	F	23	1	Petty trade	Selling fish	Everyday	Traditional	RuralNotPastoral	54	4	34	6	2	1
+2019-02-16_1124_3	Kula Mawe	F	45	6	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	48	4	40	6	2	6
+2019-02-16_1126_6	Kula Mawe	F	30	3	Casual work	Casual worker	1-2 times per week	Traditional	RuralNotPastoral	54	6	32	8	0	3
+2019-02-16_1127_1	Kula Mawe	F	60	10	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	50	8	36	4	2	10
+2019-02-16_1317_21	Kula Mawe	M	37	9	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	40	2	50	6	2	0
+2019-02-16_1317_21	Kula Mawe	M	37	9	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	51	2	39	6	2	0
+2019-02-16_1318_30	Kula Mawe	F	35	8	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	64	6	22	4	0	8
+2019-02-16_1319_29	Kula Mawe	F	26	4	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	40	4	44	10	2	4
+2019-02-16_1320_28	Kula Mawe	F	45	7	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	58	6	31	3	2	7
+2019-02-16_1321_27	Kula Mawe	F	31	4	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	56	2	32	4	6	4
+2019-02-16_1322_26	Kula Mawe	F	42	8	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	52	6	32	8	2	8
+2019-02-16_1323_25	Kula Mawe	F	25	5		House wife	Rarely	Traditional	RuralNotPastoral	56	4	34	4	2	5
+2019-02-16_1324_24	Kula Mawe	F	33	3	Formal employment	Security personnel	Everyday	Traditional	RuralNotPastoral	36	4	56	2	2	3
+2019-02-16_1325_23	Kula Mawe	F	30	2	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	35	2	58	4	1	3
+2019-02-16_1326_19	Kula Mawe	F	45	8		House wife	Everyday	Traditional	RuralNotPastoral	38	2	52	6	2	8
+2019-02-16_1327_18	Kula Mawe	F	47	7		House wife	Everyday	Traditional	RuralNotPastoral	50	2	46	2	0	7
+2019-02-16_1328_20	Kula Mawe	F	48	6		House wife	Rarely	Traditional	RuralNotPastoral	64	4	28	4	0	8
+2019-02-16_1329_22	Kula Mawe	F	27	2		House wife	Rarely	Traditional	RuralNotPastoral	48	6	40	4	2	2
+2019-02-16_1330_17	Kula Mawe	M	63	10	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	60	8	28	4	0	0
+2019-02-16_1331_16	Kula Mawe	M	38	3	Self employment	Mason	1-2 times per week	Traditional	RuralNotPastoral	56	4	30	6	2	0
+2019-02-16_1332_15	Kula Mawe	F	32	5	Casual work	Casual worker	Everyday	Traditional	RuralNotPastoral	62	4	28	4	2	5
+2019-02-16_1333_14	Kula Mawe	F	23	2		House wife	Everyday	Traditional	RuralNotPastoral	54	6	34	6	0	2
+2019-02-16_1334_13	Kula Mawe	M	55	5	Casual work	Casual worker	1-2 times per week	Traditional	RuralNotPastoral	36	4	48	8	4	0
+2019-02-16_1335_12	Kula Mawe	M	27	2	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	48	4	44	2	2	0
+2019-02-16_1336_11	Kula Mawe	F	43	3	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	41	6	43	8	2	3
+2019-02-16_1337_8	Kula Mawe	F	45	7	Animal keeping	Pastoralist	Rarely	Traditional	RuralNotPastoral	43	2	47	6	2	7
+2019-02-16_1338_10	Kula Mawe	F	51	9		House wife	Everyday	Traditional	RuralNotPastoral	59	5	27	7	2	9
+2019-02-16_1339_9	Kula Mawe	F	36	5		House wife	Everyday	Traditional	RuralNotPastoral	58	6	26	10	0	5
+2019-02-16_1340_7	Kula Mawe	M	23	0	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	55	8	31	4	2	0
+2019-03-12_1186_1	Lodwar Hospital	M	38	6	Self employment	Vet	Everyday	Urban	Urban	56	6	30	6	2	0
+2019-03-12_1235_2	Lodwar Hospital	F	30	3	Formal employment	Teacher	Rarely	Urban	Urban	58	8	28	4	2	3
+2019-03-13_1228_2	Lodwar Hospital	F	42	6	Formal employment	Teacher	Rarely	Urban	Urban	52	3	28	4	3	6
+2019-03-13_1254_3	Lodwar Hospital	M	50	9	Self employment	Pastor	Everyday	Urban	Urban	42	4	46	6	2	0
+2019-03-13_1277_6	Lodwar Hospital	M	25	0	Formal employment	Cleaner	1-2 times per week	Urban	Urban	45	4	39	10	0	0
+2019-03-13_1279_5	Lodwar Hospital	M	33	5	Formal employment	Cleaner	Rarely	Urban	Urban	36	4	54	5	0	0
+2019-03-13_1306_1	Lodwar Hospital	F	53	4	Formal employment	Teacher	Rarely	Urban	Urban	61	5	26	6	2	4
+2019-03-14_1161_11	Kokilokit	M	74	8	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	58	6	28	6	2	0
+2019-03-14_1165_1	Kokilokit	M	39	18	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	29	10	55	4	2	0
+2019-03-14_1166_18	Kokilokit	M	30	2	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	71	8	17	4	0	0
+2019-03-14_1179_19	Kokilokit	M	45	5	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	36	0	60	4	0	0
+2019-03-14_1184_3	Lodwar Hospital	F	40	2	Animal keeping	Pastoralist	1-2 times per week	Urban	Urban	37	6	53	2	2	2
+2019-03-14_1206_5	Kokilokit	M	36	5	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	59	3	37	1	0	0
+2019-03-14_1207_12	Kokilokit	M	54	9	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	45	2	48	5	0	0
+2019-03-14_1209_17	Kokilokit	M	26	0	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	42	7	46	5	0	0
+2019-03-14_1211_20	Kokilokit	M	59	10	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	36	4	56	2	2	0
+2019-03-14_1215_10	Kokilokit	M	43	19	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	64	4	32	0	0	0
+2019-03-14_1217_14	Kokilokit	M	47	17	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	42	4	46	6	2	0
+2019-03-14_1231_6	Kokilokit	M	37	14	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	31	3	59	6	0	0
+2019-03-14_1246_2	Lodwar Hospital	F	52	5	Self employment	Selling firewood	Rarely	Urban	Urban	38	5	51	3	3	15
+2019-03-14_1249_15	Kokilokit	M	49	12	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	48	6	38	4	4	0
+2019-03-14_1257_8	Kokilokit	M	41	9	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	24	4	66	4	2	0
+2019-03-14_1283_2	Kokilokit	M	35	12	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	58	0	32	8	2	0
+2019-03-14_1284_4	Lodwar Hospital	F	24	3		House wife	Rarely	Urban	Urban	36	4	54	4	2	3
+2019-03-14_1289_1	Lodwar Hospital	F	30	5		House wife	Rarely	Urban	Urban	49	3	44	3	1	5
+2019-03-14_1309_16	Kokilokit	M	37	5	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	38	8	44	8	2	0
+2019-03-14_1314_7	Kokilokit	M	41	3	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	42	6	42	8	2	0
+2019-03-15_1162_3	Lodwar Hospital	M	21	1	Formal employment	Cleaner	Everyday	Urban	Urban	28	4	58	6	4	0
+2019-03-15_1192_1	Lodwar Hospital	M	43	2	Formal employment	Cleaner	1-2 times per week	Urban	Urban	56	2	38	4	0	0
+2019-03-16_1201_2	Lodwar Hospital	M	41	2	Formal employment	Cleaner	Rarely	Urban	Urban	56	2	35	6	1	0
+2019-03-16_1233_1	Lodwar Hospital	M	26	2	Formal employment	Security	More than 2 times per week	Urban	Urban	50	6	32	8	4	0
+2019-03-16_1271_3	Lodwar Hospital	M	25	1	Formal employment	Lab technologist	Everyday	Urban	Urban	42	10	38	8	2	0
+2019-03-18_1175_3	Lodwar Hospital	M	24	0		Student	Everyday	Urban	Urban	48	8	38	4	2	0
+2019-03-18_1225_4	Lodwar Hospital	M	30	1	Formal employment	Cleaner	More than 2 times per week	Urban	Urban	44	4	44	6	2	0
+2019-03-18_1252_2	Lodwar Hospital	M	45	3	Formal employment	Security	Everyday	Urban	Urban	44	6	40	8	2	0
+2019-03-18_1307_1	Lodwar Hospital	M	35	4	Formal employment	Security	Everyday	Urban	Urban	48	6	39	7	2	0
+2019-03-19_1155_6	Nauwontos	M	49	8	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	40	2	54	4	0	0
+2019-03-19_1160_2	Lodwar Hospital	M	25	0	Formal employment	Lab technologist	More than 2 times per week	Urban	Urban	66	2	22	8	2	0
+2019-03-19_1181_19	Nauwontos	M	48	7	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	54	6	36	4	0	0
+2019-03-19_1183_1	Lodwar Hospital	F	29	2	Formal employment	Nutritionist	Everyday	Urban	Urban	60	2	33	5	0	3
+2019-03-19_1188_13	Nauwontos	F	54	10	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	58	2	30	6	2	12
+2019-03-19_1188_13	Nauwontos	F	54	10	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	52	2	44	2	0	12
+2019-03-19_1189_6	Lodwar Hospital	M	21	0	Self employment	Businessman	Everyday	Urban	Urban	38	4	52	6	0	0
+2019-03-19_1191_15	Nauwontos	M	64	13	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	36	4	58	2	0	0
+2019-03-19_1193_17	Nauwontos	M	57	21	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	52	4	34	6	4	0
+2019-03-19_1200_3	Nauwontos	M	53	15	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	60	6	30	4	0	0
+2019-03-19_1204_11	Nauwontos	M	59	6	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	72	4	22	0	2	0
+2019-03-19_1223_2	Nauwontos	M	39	4	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	52	6	34	6	2	0
+2019-03-19_1240_20	Nauwontos	M	40	6	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	48	4	44	2	0	0
+2019-03-19_1250_1	Nauwontos	F	47	6	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	58	6	30	4	2	7
+2019-03-19_1255_14	Nauwontos	M	58	10	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	57	2	39	2	0	0
+2019-03-19_1270_4	Lodwar Hospital	F	29	2		House wife	Rarely	Urban	Urban	40	6	50	4	0	2
+2019-03-19_1281_8	Nauwontos	M	37	6	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	48	6	42	2	2	6
+2019-03-19_1286_7	Nauwontos	M	51	11	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	60	6	30	2	2	0
+2019-03-19_1294_5	Nauwontos	M	56	9	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	56	4	38	2	0	0
+2019-03-19_1298_16	Nauwontos	F	58	8	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	38	4	54	2	2	8
+2019-03-19_1302_10	Nauwontos	F	32	4	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	52	2	42	4	0	4
+2019-03-19_1303_5	Lodwar Hospital	F	25	4		House wife	Rarely	Urban	Urban	46	6	38	6	4	4
+2019-03-19_1305_12	Nauwontos	F	45	6	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	62	0	32	4	0	6
+2019-03-19_1316_3	Lodwar Hospital	M	23	0	Formal employment	Lab technologist	Everyday	Urban	Urban	42	6	43	6	3	0
+2019-03-20_1156_20	Nauwontos	F	25	3	houswork	House wife	1-2 times per week	Traditional	RuralNotPastoral	50	0	48	0	2	3
+2019-03-20_1157_4	Lodwar Hospital	M	19	1	houswork	House wife	Everyday	Urban	Urban	44	11	39	6	0	1
+2019-03-20_1167_8	Lodwar Hospital	M	20	1	Formal employment	Driver	Everyday	Urban	Urban	43	4	41	10	2	0
+2019-03-20_1178_2	Lodwar Hospital	M	25	2	Animal keeping	Businessman	Everyday	Urban	Urban	22	8	60	6	4	0
+2019-03-20_1187_8	Nauwontos	M	45	7	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	55	2	39	4	0	0
+2019-03-20_1190_5	Nauwontos	F	39	3	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	54	2	42	2	0	4
+2019-03-20_1197_27	Nauwontos	M	46	2	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	52	0	38	6	4	0
+2019-03-20_1208_30	Nauwontos	F	44	8	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	46	12	36	6	0	8
+2019-03-20_1210_2	Nauwontos	F	46	7	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	58	8	28	6	0	8
+2019-03-20_1216_1	Lodwar Hospital	M	25	3	Animal keeping	Pastoralist	Everyday	Urban	Urban	47	4	43	3	3	0
+2019-03-20_1218_21	Nauwontos	M	51	8	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	38	2	56	2	0	0
+2019-03-20_1222_29	Nauwontos	F	23	0	Casual work	Domestic servant	1-2 times per week	Traditional	RuralNotPastoral	45	10	35	8	2	0
+2019-03-20_1226_7	Lodwar Hospital	M	25	1		House wife	Everyday	Urban	Urban	64	4	28	4	0	1
+2019-03-20_1227_13	Nauwontos	F	63	8	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	37	4	55	2	2	8
+2019-03-20_1239_15	Nauwontos	F	67	9	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	56	6	32	4	2	9
+2019-03-20_1245_3	Nauwontos	M	48	8	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	62	4	30	4	0	0
+2019-03-20_1247_17	Nauwontos	F	25	2	houswork	House wife	11-2 timse per week	Traditional	RuralNotPastoral	34	2	55	4	2	2
+2019-03-20_1248_19	Nauwontos	F	35	3	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	76	6	12	6	0	3
+2019-03-20_1253_14	Nauwontos	F	44	9	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	60	2	28	6	4	10
+2019-03-20_1258_9	Nauwontos	F	49	9	houswork	House wife	Everyday	Traditional	RuralNotPastoral	34	6	50	4	6	9
+2019-03-20_1260_28	Nauwontos	F	39	4	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	36	3	56	3	2	4
+2019-03-20_1262_3	Lodwar Hospital	M	19	0			More than 2 times per week	Urban	Urban	47	3	44	5	1	0
+2019-03-20_1273_5	Lodwar Hospital	M	30	4	Self employment	Businessman	Everyday	Urban	Urban	54	8	36	2	0	4
+2019-03-20_1276_6	Nauwontos	M	47	7	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	42	6	44	6	2	0
+2019-03-20_1278_6	Lodwar Hospital	M	24	0			1-2 times per week	Urban	Urban	62	7	28	2	1	0
+2019-03-20_1290_7	Nauwontos	M	49	7	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	58	4	32	4	2	0
+2019-03-20_1291_4	Nauwontos	F	54	8	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	54	6	36	4	0	8
+2019-03-20_1301_10	Nauwontos	F	43	8	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	38	6	52	2	2	8
+2019-03-20_1304_22	Nauwontos	M	79	6	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	50	2	46	2	0	0
+2019-03-20_1313_11	Nauwontos	M	45	9	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	56	4	40	0	0	0
+2019-03-20_1315_12	Nauwontos	F	37	4	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	62	2	34	2	0	4
+2019-03-20_1341_31	Nauwontos	F	46	8	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	43	8	39	6	4	8
+2019-03-20_1342_32	Nauwontos	M	55	2	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	26	6	64	4	0	0
+2019-03-20_1343_33	Nauwontos	F	42	9	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	28	6	58	8	0	10
+2019-03-20_1344_34	Nauwontos	M	61	12	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	53	4	39	4	0	0
+2019-03-20_1345_35	Nauwontos	F	55	9	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	26	6	58	8	2	9
+2019-03-20_1346_36	Nauwontos	M	49	5	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	26	8	52	10	4	0
+2019-03-21_1176_1	Lodwar Hospital	F	43	5	Formal employment	Cleaner	Rarely	Urban	Urban	47	3	43	7	0	5
+2019-03-21_1180_6	Lodwar Hospital	M	29	9	Animal keeping	Pastoralist	Rarely	Urban	Urban	69	6	22	3	0	0
+2019-03-21_1194_7	Lodwar Hospital	F	25	1	Formal employment	Nurse	Rarely	Urban	Urban	45	5	44	4	2	1
+2019-03-21_1236_8	Lodwar Hospital	F	30	2	Formal employment	Lab technologist	1-2times per week	Urban	Urban	49	4	44	2	1	2
+2019-03-21_1261_2	Lodwar Hospital	F	32	3	Self employment	Laundry	More than 2 times per week	Urban	Urban	32	6	52	8	2	3
+2019-03-21_1264_10	Lodwar Hospital	F	24	2	Formal employment	Counsellor	Everyday	Urban	Urban	52	10	38	0	0	2
+2019-03-21_1268_4	Lodwar Hospital	F	28	2	Petty trade	Trader	Rarely	Urban	Urban	48	8	40	4	0	2
+2019-03-21_1287_11	Lodwar Hospital	F	45	3	Formal employment	Security	1-2 times per week	Urban	Urban	36	8	48	6	2	3
+2019-03-21_1292_5	Lodwar Hospital	F	48	7		House wife	More than 2 times per week	Urban	Urban	45	8	40	4	3	7
+2019-03-21_1300_9	Lodwar Hospital	F	24	0	Formal employment	Lab technologist	Everyday	Urban	Urban	62	2	29	6	1	0
+2019-03-22_1164_6	Lodwar Hospital	M	21	0	Self employment	Student	Rarely	Urban	Urban	38	0	61	0	0	0
+2019-03-22_1173_3	Lodwar Hospital	M	28	0	Formal employment	Cleaner	1-2 times per week	Urban	Urban	58	8	28	4	2	0
+2019-03-22_1238_5	Lodwar Hospital	M	21	0	Formal employment	Mechanic	More than 2 times per week	Urban	Urban	55	0	44	0	1	0
+2019-03-22_1265_1	Lodwar Hospital	F	28	3	Formal employment	Lab technologist	Rarely	Urban	Urban	40	6	44	8	2	3
+2019-03-22_1352_4	Lodwar Hospital	F	34	3	Formal employment	Nurse	More than 2 times per week	Urban	Urban	66	0	33	0	1	3
+2019-03-25_1213_2	Lodwar Hospital	F	45	7	Formal employment	Cleaner	1-2 times per week	Urban	Urban	49	2	49	0	0	7
+2019-03-25_1272_1	Lodwar Hospital	M	55	12	Formal employment	Security	1-2 times per week	Urban	Urban	56	0	44	0	0	0
+2019-03-25_1350_3	Lodwar Hospital	M	24	0	Formal employment	Student	1-2 times per week	Urban	Urban	41	1	58	0	0	0
+2019-03-25_1352_5	Lodwar Hospital	F	39	6	Formal employment	Cleaner	Rarely	Urban	Urban	60	1	37	1	1	6
+2019-03-25_1353_6	Lodwar Hospital	M	26	2	Formal employment	Cleaner	Rarely	Urban	Urban	68	0	31	1	0	0
+2019-03-25_1355_8	Lodwar Hospital	F	31	3	Formal employment	Security	Rarely	Urban	Urban	33	1	65	1	0	3
+2019-03-26_1232_1	Lodwar Hospital	F	26	0	Formal employment	Voluteer	1-2 times per week	Urban	Urban	57	1	40	2	0	1
+2019-03-26_1358_3	Lodwar Hospital	M	18	0	Petty trade	Farmer	Rarely	Urban	Urban	46	0	52	2	0	0
+2019-03-26_1360_5	Lodwar Hospital	M	24	1	Formal employment	Constructor	Rarely	Urban	Urban	72	1	25	2	0	0
+2019-03-26_1361_6	Lodwar Hospital	F	48	5	Formal employment	Cleaner	1-2 times per week	Urban	Urban	60	0	37	3	0	5
+2019-03-26_1364_9	Lodwar Hospital	F	26	0	Formal employment	Counsellor	Everyday	Urban	Urban	50	0	47	1	2	0
+2019-03-28_1205_1	Kang'achuro	M	49	9	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	36	8	52	4	0	0
+2019-03-28_1219_2	Kang'achuro	M	53	5	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	39	8	45	6	2	0
+2019-03-28_1400_3	Kang'achuro	M	50	11	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	30	10	50	8	2	0
+2019-03-28_1402_5	Kang'achuro	M	56	7	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	22	8	62	6	2	0
+2019-03-28_1403_6	Kang'achuro	M	54	8	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	61	6	25	4	4	0
+2019-03-28_1404_7	Kang'achuro	M	47	7	Petty trade	Charcoal burner	1-2 times per week	Traditional	RuralNotPastoral	50	6	34	6	4	0
+2019-03-28_1405_8	Kang'achuro	M	39	7	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	48	10	34	6	2	0
+2019-03-28_1406_9	Kang'achuro	F	35	5	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	38	8	48	4	2	6
+2019-03-28_1408_11	Kang'achuro	M	35	4	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	30	10	56	2	2	0
+2019-03-28_1409_12	Kang'achuro	F	53	8	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	40	4	50	6	0	9
+2019-03-28_1410_13	Kang'achuro	F	51	9	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	56	4	32	6	2	9
+2019-03-28_1411_14	Kang'achuro	F	68	7	Animal keeping	Pastoralist	1-2 itmes per week	Traditional	RuralNotPastoral	52	6	34	6	2	7
+2019-03-28_1412_15	Kang'achuro	F	23	3	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	52	6	36	4	2	3
+2019-03-28_1414_17	Kang'achuro	F	36	3	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	46	8	38	6	2	3
+2019-03-28_1415_18	Kang'achuro	F	29	3	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	60	8	20	4	4	3
+2019-03-28_1416_19	Kang'achuro	F	37	3	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	54	2	42	2	0	4
+2019-03-28_1417_20	Kang'achuro	F	41	6	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	59	2	31	8	0	6
+2019-03-28_1417_20	Kang'achuro	F	41	6	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	60	4	28	6	2	6
+2019-03-28_1418_21	Kang'achuro	F	55	8	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	54	10	28	6	2	9
+2019-03-28_1419_22	Kang'achuro	F	67	8	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	59	4	27	8	0	8
+2019-03-28_1420_23	Kang'achuro	F	39	5	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	47	9	37	5	2	5
+2019-03-28_1421_24	Kang'achuro	F	50	4	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	62	2	32	4	0	6
+2019-03-28_1422_25	Kang'achuro	F	43	6	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	52	8	32	6	2	6
+2019-03-28_1423_26	Kang'achuro	F	37	4	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	45	8	41	4	2	4
+2019-03-28_1424_27	Kang'achuro	F	56	4	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	34	2	64	0	0	5
+2019-03-28_1425_28	Kang'achuro	F	49	8	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	57	6	27	10	0	8
+2019-03-28_1426_29	Kang'achuro	F	43	4	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	38	6	48	4	4	5
+2019-03-28_1427_30	Kang'achuro	F	29	3	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	54	4	28	8	6	3
+2019-03-29_1428_1	Merikuka	F	36	5	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	54	6	36	4	0	5
+2019-03-29_1429_2	Merikuka	F	43	7	Charcoal burning	Charcoal burner	1-2 times per week	Traditional	RuralNotPastoral	35	3	60	1	1	7
+2019-03-29_1430_3	Merikuka	F	25	2	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	34	0	60	5	1	2
+2019-03-29_1431_4	Merikuka	F	45	5	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	34	3	60	3	0	6
+2019-03-29_1432_5	Merikuka	F	46	9	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	35	7	53	3	2	10
+2019-03-29_1433_6	Merikuka	F	44	5	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	36	6	54	4	0	6
+2019-03-29_1434_7	Merikuka	F	21	1	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	45	0	49	5	1	1
+2019-03-29_1435_8	Merikuka	M	49	9	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	52	6	32	4	6	0
+2019-03-29_1436_9	Merikuka	M	60	9	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	46	2	48	4	0	0
+2019-03-29_1437_10	Merikuka	F	35	4	Animal keeping	Pastoralist	1-2 timrsc per week	Traditional	RuralNotPastoral	44	6	40	6	4	4
+2019-03-29_1438_11	Merikuka	F	42	8	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	50	4	34	8	4	9
+2019-03-29_1440_13	Merikuka	F	47	6	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	45	1	53	1	0	7
+2019-03-29_1441_14	Merikuka	F	41	7	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	49	4	45	2	0	7
+2019-03-29_1442_15	Merikuka	F	38	7	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	64	2	30	3	1	7
+2019-03-29_1443_16	Merikuka	F	30	2	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	35	2	60	3	0	3
+2019-03-29_1444_17	Merikuka	M	51	8	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	35	6	49	7	3	0
+2019-03-29_1445_18	Merikuka	F	39	5	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	52	10	34	4	0	6
+2019-03-29_1446_19	Merikuka	M	31	4	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	40	1	57	1	1	0
+2019-03-29_1447_20	Merikuka	F	50	9	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	46	1	51	2	0	10
+2019-03-29_1448_21	Merikuka	M	71	25	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	52	8	33	4	4	0
+2019-03-29_1450_23	Merikuka	F	34	4	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	40	6	50	4	0	4
+2019-03-29_1451_24	Merikuka	F	29	3	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	50	2	48	0	0	3
+2019-03-29_1452_25	Merikuka	F	37	7	Charcoal burning	Charcoal burner	1-2 times per week	Traditional	RuralNotPastoral	54	6	28	8	4	7
+2019-03-29_1453_26	Merikuka	F	35	4	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	40	0	55	4	1	5
+2019-03-29_1454_27	Merikuka	F	31	3	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	33	6	51	4	4	4
+2019-03-29_1455_28	Merikuka	F	33	5	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	57	2	38	3	0	5
+2019-03-29_1456_29	Merikuka	M	41	11	Animal keeping	Pastoralist	1-2 times per week	Traditional	RuralNotPastoral	34	6	56	4	0	0
+2019-03-29_1457_30	Merikuka	M	46	12	Animal keeping	Pastoralist	Everyday	Traditional	Pastoralist	32	8	52	4	4	0
+2019-06-12_1511_10	Nanyuki	M	22	NA	Formal employment	Security personnel	Everyday	Urban	Urban	61	3	33	3	0	0
+2019-06-12_1607_4	Nanyuki	M	50	4	Formal employment	Security personnel	Everyday	Urban	Urban	34	2	60	3	1	0
+2019-06-12_1636_12	Nanyuki	M	33	3	Self employment	Entreprenuer	1-2 times per week	Urban	Urban	37	3	56	2	2	0
+2019-06-12_1639_7	Nanyuki	M	33	1	Formal employment	Farm supervisor	1-2 times per week	Urban	Urban	56	2	38	4	0	0
+2019-06-12_1648_2	Nanyuki	M	43	4	Formal employment	Army officer	1-2 times per week	Urban	Urban	52	6	34	8	0	0
+2019-06-12_1666_9	Nanyuki	M	30	2	Formal employment	Security personnel	1-2 times per week	Urban	Urban	38	4	51	5	2	0
+2019-06-12_1671_3	Nanyuki	M	36	4	Formal employment	County clerk	Rarely	Urban	Urban	37	1	58	3	1	0
+2019-06-12_1672_14	Nanyuki	M	37	2	Formal employment	Security guard	Rarely	Urban	Urban	47	4	47	2	0	0
+2019-06-12_1691_11	Nanyuki	M	23	3	Formal employment	Carpenter	Everyday	Urban	Urban	49	2	42	6	1	0
+2019-06-12_1724_13	Nanyuki	M	28	3	Formal employment	Security personnel	Everyday	Urban	Urban	58	4	34	3	1	0
+2019-06-12_1743_6	Nanyuki	M	24	2	Formal employment	Secretary	1-2 times per week	Urban	Urban	37	5	58	0	0	0
+2019-06-12_1745_5	Nanyuki	M	34	3	Formal employment	Waiter	Rarely	Urban	Urban	32	8	59	1	0	0
+2019-06-13_1557_7	Nanyuki	M	44	4	Formal employment	Security personnel	1-2 times per week	Urban	Urban	73	4	17	4	0	0
+2019-06-13_1567_11	Nanyuki	M	64	5	Formal employment	Security guard	1-2 times per week	Urban	Urban	43	3	48	6	0	0
+2019-06-13_1580_8	Nanyuki	M	32	4	Formal employment	Teacher	1-2 times per week	Urban	Urban	62	5	29	2	2	0
+2019-06-13_1604_5	Nanyuki	M	35	NA	Formal employment	Constructor	1-2 timess per week	Urban	Urban	47	5	41	7	0	0
+2019-06-13_1606_3	Nanyuki	M	44	2	Formal employment	Security personnel	1-2 times per week	Urban	Urban	45	3	49	3	0	0
+2019-06-13_1610_1	Nanyuki	F	26	3	Formal employment	Vet assistant	1-2 times per week	Urban	Urban	58	4	36	1	1	3
+2019-06-13_1624_4	Nanyuki	F	30	3	Formal employment	Cleaner	1-2 times peer week	Urban	Urban	43	5	45	6	1	3
+2019-06-13_1628_2	Nanyuki	F	39	3	Self employment	Entreprenuer	1-2 times per week	Urban	Urban	59	1	35	4	1	0
+2019-06-13_1653_6	Nanyuki	M	22	1	Formal employment	Agent	1-2 times per week	Urban	Urban	26	6	65	3	1	0
+2019-06-13_1678_10	Nanyuki	M	52	4	Formal employment	Chef	1-2 times per week	Urban	Urban	54	1	43	2	0	0
+2019-06-13_1688_9	Nanyuki	M	27	1	Formal employment	Electrician	Rarely	Urban	Urban	38	2	57	4	0	0
+2019-07-03_1515_2	Kitale	M	23	NA	Formal employment	Phlebotomist	1-2 times per week	Urban	Urban	50	5	43	2	0	0
+2019-07-03_1559_1	Kitale	M	25	NA	Self employment	Freelance writer	1-2 times per week	Urban	Urban	59	4	37	0	0	0
+2019-07-03_1609_5	Kitale	M	20	NA		Student	1-2 times per week	Urban	Urban	46	4	48	2	0	0
+2019-07-03_1638_7	Kitale	M	22	NA		Student	1-2 times per week	Urban	Urban	58	6	35	1	0	0
+2019-07-03_1640_4	Kitale	M	21	NA		Student		Urban	Urban	51	2	44	3	0	0
+2019-07-03_1644_8	Kitale	M	27	NA	Formal employment	Phlebotomist	1-2 times per week	Urban	Urban	51	5	43	1	0	0
+2019-07-03_1670_3	Kitale	M	21	NA		Student	1-2 times per week	Urban	Urban	46	7	47	0	0	0
+2019-07-03_1805_6	Kitale	F	21	NA		Student	1-2 times per week	Urban	Urban	37	6	54	3	0	0
+2019-07-04_1507_11	Kitale	M	21	NA		Student	1-2 times per week	Urban	Urban	41	4	54	1	0	0
+2019-07-04_1575_1	Kitale	F	24	2	Formal employment	Hair dressing	Everyday	Urban	Urban	60	4	36	0	0	2
+2019-07-04_1576_4	Kitale	M	24	1		Student	1-2 times per week	Urban	Urban	60	1	33	5	1	0
+2019-07-04_1579_5	Kitale	M	24	NA	Formal employment	Mechanic	1-2 times per week	Urban	Urban	55	0	42	2	1	0
+2019-07-04_1608_13	Kitale	M	24	NA		Student	1-2 times per week	Urban	Urban	40	3	57	0	0	0
+2019-07-04_1625_8	Kitale	M	23	NA		Student	1-2 times per week	Urban	Urban	50	9	36	5	0	0
+2019-07-04_1627_9	Kitale	M	26	NA		Student	1-2 times per week	Urban	Urban	43	4	51	2	0	0
+2019-07-04_1637_3	Kitale	F	20	NA		Student	1-2 times per week	Urban	Urban	54	2	41	3	0	0
+2019-07-04_1649_10	Kitale	M	24	NA		Student	1-2 times per week	Urban	Urban	44	10	46	0	0	0
+2019-07-04_1667_6	Kitale	M	42	3	Formal employment	Security	Everyday	Urban	Urban	48	7	41	4	0	0
+2019-07-04_1669_2	Kitale	F	35	2		House wife	1-2 times per week	Urban	Urban	51	7	41	1	0	2
+2019-07-04_1695_12	Kitale	M	22	NA		Student	1-2 times per week	Urban	Urban	46	2	50	2	0	0
+2019-07-04_1763_7	Kitale	M	24	NA	Self employment	Mototrbike rider	Everyday	Urban	Urban	47	8	41	4	0	0
+2019-07-05_1551_5	Kitale	M	46	3	Self employment	Shoe repair	Everyday	Urban	Urban	52	4	42	2	0	0
+2019-07-05_1551_5	Kitale	M	46	3	Self employment	Shoe repair	Everyday	Urban	Urban	50	1	46	3	0	0
+2019-07-05_1555_9	Kitale	M	22	NA		Student	1-2 times per week	Urban	Urban	60	1	37	1	1	0
+2019-07-05_1556_11	Kitale	M	64	3	Animal keeping	Pastoralist	1-2 times per week	Urban	Urban	59	7	32	2	0	0
+2019-07-05_1569_12	Kitale	F	35	7	Casual work	Casual worker	1-2 times per week	Urban	Urban	48	3	48	1	0	7
+2019-07-05_1571_8	Kitale	M	21	NA		Student	1-2 times per week	Urban	Urban	57	2	41	0	0	0
+2019-07-05_1583_2	Kitale	M	67	4	Animal keeping	Pastoralist	1-2 times per week	Urban	Urban	59	4	36	1	0	0
+2019-07-05_1618_4	Kitale	M	32	2	Animal keeping	Pastoralist	Everyday	Urban	Urban	41	6	49	4	0	0
+2019-07-05_1651_3	Kitale	F	35	7	Self employment	Business	1-2 times per week	Urban	Urban	54	3	43	0	0	7
+2019-07-05_1664_13	Kitale	F	29	3		House wife	1-2 times per week	Urban	Urban	42	0	57	1	0	3
+2019-07-05_1737_1	Kitale	F	43	5	Casual work	Casual worker	Everyday	Urban	Urban	46	1	53	0	0	5
+2019-07-05_1738_10	Kitale	F	21	NA		Student	1-2 times per week	Urban	Urban	56	3	39	2	0	0
+2019-07-05_1739_6	Kitale	M	25	NA		Student	1-2 times per week	Urban	Urban	46	2	51	1	0	0
+2019-07-05_1741_14	Kitale	M	24	2	Animal keeping	Pastoralist	1-2 times per week	Urban	Urban	57	2	40	1	0	0
+2019-07-08_1521_3	Kitale	M	19	NA		Student	1-2 times per week	Urban	Urban	49	3	41	7	0	0
+2019-07-08_1561_7	Kitale	F	55	5	Self employment	Businesswoman	1-2 times per week	Urban	Urban	48	5	47	0	0	5
+2019-07-08_1616_1	Kitale	M	19	NA		Student	1-2 times per week	Urban	Urban	59	2	38	1	0	0
+2019-07-08_1677_9	Kitale	F	21	1		Student	1-2 times per week	Urban	Urban	38	4	57	1	0	1
+2019-07-08_1684_4	Kitale	M	19	NA		Student	Everyday	Urban	Urban	45	3	51	1	0	0
+2019-07-08_1689_6	Kitale	F	42	3	Casual work	Casual worker	1-2 times per week	Urban	Urban	44	5	50	1	0	3
+2019-07-08_1694_10	Kitale	F	20	NA		Student	1-2 times per week	Urban	Urban	48	2	50	0	0	0
+2019-07-08_1723_8	Kitale	F	51	6	Self employment	Selling mats	1-2 times per week	Urban	Urban	51	3	46	0	0	6
+2019-07-08_1749_12	Kitale	M	19	NA		Student	1-2 times per week	Urban	Urban	43	9	45	3	0	0
+2019-07-08_1751_11	Kitale	F	19	NA		Student	Rarely	Urban	Urban	64	4	30	2	0	0
+2019-07-08_1754_5	Kitale	M	40	3	Formal employment	Security personnel	1-2 times per week	Urban	Urban	51	2	46	1	0	0
+2019-07-08_1772_2	Kitale	M	56	6	Formal employment	Security personnel	Everyday	Urban	Urban	55	2	43	0	0	0
+2019-07-09_1564_2	Kitale	M	46	2	Casual work	Casual worker	1-2 times per week	Urban	Urban	50	1	49	0	0	0
+2019-07-09_1611_7	Kitale	M	27	2	Petty trade	Hawker	1-2 times per week	Urban	Urban	48	6	45	1	0	0
+2019-07-09_1622_3	Kitale	M	32	3	Formal employment	Cleaner	1-2 times per week	Urban	Urban	48	8	39	5	0	0
+2019-07-09_1623_8	Kitale	F	30	2	Self employment	Businesswoman	1-2 times per week	Urban	Urban	45	1	54	0	0	2
+2019-07-09_1629_9	Kitale	M	49	2	Formal employment	Security personnel	1-2 times per week	Urban	Urban	51	6	41	2	0	0
+2019-07-09_1633_4	Kitale	F	20	NA		Student	1-2 times per week	Urban	Urban	56	0	41	3	0	0
+2019-07-09_1634_10	Kitale	F	23	1		House wife	1-2 times per week	Urban	Urban	47	2	49	2	0	1
+2019-07-09_1699_5	Kitale	M	28	NA	Casual work	Casual worker	1-2 times per week	Urban	Urban	45	2	45	7	1	0
+2019-07-09_1806_6	Kitale	F	46	4	Self employment	Businesswoman	1-2 times per week	Urban	Urban	45	4	51	0	0	4
+2019-07-10_1504_10	Kitale	M	45	5	Formal employment	Security personnel	1-2 times per week	Urban	Urban	54	9	36	1	0	0
+2019-07-10_1525_2	Kitale	F	30	6	Casual work	Casual worker	1-2 times per week	Urban	Urban	47	6	45	2	0	4
+2019-07-10_1554_7	Kitale	F	44	6	Casual work	Casual worker	1-2 times per week	Urban	Urban	37	5	57	1	0	6
+2019-07-10_1563_5	Kitale	F	42	6		House wife	1-2 times per week	Urban	Urban	43	4	52	1	0	6
+2019-07-10_1572_8	Kitale	M	48	6	Formal employment	Security personnel	1-2 times per week	Urban	Urban	60	8	32	0	0	0
+2019-07-10_1577_3	Kitale	M	47	2	Formal employment	Security personnel	1-2 times per week	Urban	Urban	55	5	40	0	0	0
+2019-07-10_1603_4	Kitale	F	40	5	Self employment	Businesswoman	1-2 times per week	Urban	Urban	36	6	54	4	0	5
+2019-07-10_1614_9	Kitale	F	23	2		House wife	1-2 times per week	Urban	Urban	28	8	64	0	0	2
+2019-07-10_1642_6	Kitale	M	49	7	Formal employment	Security personnel	1-2 times per week	Urban	Urban	51	3	45	1	0	0
+2019-07-10_1744_1	Kitale	M	39	4	Casual work	Casual worker	1-2 times per week	Urban	Urban	73	3	24	0	0	0
+2019-07-11_1524_6	Kitale	F	22	1		Student	Everyday	Urban	Urban	45	1	54	0	0	1
+2019-07-11_1615_2	Kitale	F	50	4	Casual work	Casual worker	1-2 times per week	Urban	Urban	39	5	52	4	0	4
+2019-07-11_1632_8	Kitale	F	19	NA	Self employment	Businesswoman	1-2 times per week	Urban	Urban	41	5	54	0	0	0
+2019-07-11_1635_10	Kitale	M	19	NA		Student	1-2 times per week	Urban	Urban	38	5	57	0	0	0
+2019-07-11_1645_5	Kitale	F	27	2		House wife	1-2 times per week	Urban	Urban	42	0	58	0	0	2
+2019-07-11_1668_3	Kitale	M	42	5	Self employment	Hawker	1-2 times per week	Urban	Urban	51	8	33	8	0	0
+2019-07-11_1675_4	Kitale	F	45	7	Self employment	Businesswoman	1-2 times per week	Urban	Urban	33	4	63	0	0	7
+2019-07-11_1687_7	Kitale	M	33	4	Formal employment	Security personnel	1-2 times per week	Urban	Urban	48	1	50	1	0	0
+2019-07-12_1560_3	Kitale	F	40	6		House wife	1-2 times per week	Urban	Urban	62	0	38	0	0	6
+2019-07-12_1562_2	Kitale	F	36	5		House wife	1-2 times per week	Urban	Urban	67	2	30	1	0	5
+2019-07-12_1566_6	Kitale	F	45	7	Self employment	Businesswoman	1-2 times per week	Urban	Urban	66	1	32	1	0	7
+2019-07-12_1574_1	Kitale	M	22	NA	Self employment	Carpenter	1-2 times per week	Urban	Urban	41	3	56	0	0	0
+2019-07-12_1613_7	Kitale	M	23	NA		Student	1-2 times per week	Urban	Urban	58	4	37	1	0	0
+2019-07-12_1617_4	Kitale	M	19	NA	Formal employment	Casual worker	1-2 times per week	Urban	Urban	50	1	45	4	0	0
+2019-07-12_1681_8	Kitale	M	47	3	Formal employment	Security personnel	1-2 times per week	Urban	Urban	64	4	31	1	0	0
+2019-07-12_1686_9	Kitale	F	32	6	Formal employment	Casual worker	Everyday	Urban	Urban	51	1	47	1	0	6
+2019-07-12_1690_5	Kitale	M	31	3	Formal employment	Casual worker	1-2 times per week	Urban	Urban	57	9	33	1	0	0
+2019-07-15_1514_5	Kitale	M	23	NA		Student	Rarely	Urban	Urban	56	6	36	2	0	0
+2019-07-15_1558_9	Kitale	M	40	5	Self employment	Charcoal seller	1-2 times per week	Urban	Urban	57	5	37	1	0	0
+2019-07-15_1568_3	Kitale	F	25	4	Formal employment	Casual worker	1-2 times per week	Urban	Urban	45	4	47	4	0	4
+2019-07-15_1573_4	Kitale	M	40	3	Formal employment	Casual worker	1-2 times per week	Urban	Urban	33	12	48	7	0	0
+2019-07-15_1582_1	Kitale	F	27	3		House wife	1-2 times per week	Urban	Urban	42	4	54	0	0	3
+2019-07-15_1619_6	Kitale	F	19	NA	Formal employment	Waitress	1-2 times per week	Urban	Urban	61	3	36	0	0	0
+2019-07-15_1692_8	Kitale	M	27	2	Formal employment	Security personnel	1-2 times per week	Urban	Urban	50	6	42	2	0	0
+2019-07-15_1755_2	Kitale	M	39	4	Self employment	Farmer	Everyday	Urban	Urban	29	5	64	1	1	0
+2019-07-15_1761_7	Kitale	F	30	3	Formal employment	Casual worker	1-2 times per week	Urban	Urban	41	4	54	1	0	3
+2019-07-17_1620_3	Kitale	M	32	3	Self employment	Hawker	Everyday	Urban	Urban	36	1	60	2	1	0
+2019-07-17_1643_4	Kitale	F	22	1	Self employment	Hawker	Rarely	Urban	Urban	57	7	34	2	0	1
+2019-07-17_1679_5	Kitale	F	44	6	Self employment	Businesswoman	Everyday	Urban	Urban	62	1	35	2	0	6
+2019-07-17_1680_8	Kitale	M	53	4	Formal employment	Security	1-2 times per week	Urban	Urban	77	3	20	0	0	0
+2019-07-17_1693_2	Kitale	F	34	4	Self employment	Businesswoman	1-2 times per week	Urban	Urban	51	5	43	1	0	4
+2019-07-17_1731_10	Kitale	F	33	3	Self employment	Businesswoman	Rarely	Urban	Urban	54	2	42	2	0	3
+2019-07-17_1746_7	Kitale	M	34	3	Animal keeping	Pastoralist	1-2 times per week	Urban	Urban	68	1	30	1	0	0
+2019-07-17_1747_1	Kitale	M	23	NA	Self employment	Mototrbike rider	2019-01-02 00:00:00	Urban	Urban	48	3	47	2	0	0
+2019-07-17_1757_9	Kitale	F	53	6	Casual work	Casual worker	1-2 times per week	Urban	Urban	49	0	51	0	0	8
+2019-07-17_1759_6	Kitale	M	27	NA	Self employment	Charcoal seller	1-2 times per week	Urban	Urban	44	5	48	3	0	0
+2019-07-18_1565_8	Kitale	M	38	NA	Formal employment	Security	1-2 times week	Urban	Urban	75	4	17	3	1	0
+2019-07-18_1646_3	Kitale	F	45	7	Self employment	Businesswoman	1-2 times per week	Urban	Urban	44	6	48	2	0	7
+2019-07-18_1650_9	Kitale	M	26	NA	Casual work	Casual worker	1-2 times per week	Urban	Urban	47	1	51	0	1	0
+2019-07-18_1685_2	Kitale	M	45	3	Formal employment	Security	1-2 times per week	Urban	Urban	68	0	29	2	1	0
+2019-07-18_1722_7	Kitale	F	33	2	Casual work	Casual worker	Everyday	Urban	Urban	70	6	23	1	0	2
+2019-07-18_1758_1	Kitale	F	46	5	Self employment	Businesswoman	Everyday	Urban	Urban	60	7	31	2	0	5
+2019-07-18_1765_5	Kitale	F	48	7		House wife	1-2 times per week	Urban	Urban	47	4	46	3	0	7
+2019-07-18_1804_6	Kitale	M	33	1	Casual work	Casual worker	1-2 times per week	Urban	Urban	47	2	44	7	0	0
+2019-07-19_1510_1	Kitale	M	22	NA	Casual work	Casual worker	Everyday	Urban	Urban	51	1	48	0	0	0
+2019-07-19_1553_5	Kitale	F	22	NA	Casual work	Casual worker	Everyday	Urban	Urban	62	0	37	0	1	0
+2019-07-19_1578_7	Kitale	F	21	NA	Self employment	Businesswoman	Everyday	Urban	Urban	69	3	27	1	0	0
+2019-07-19_1630_2	Kitale	F	28	3	Self employment	Cloth repairer	Everyday	Urban	Urban	66	2	31	1	0	3
+2019-07-19_1652_4	Kitale	F	35	3	Casual work	Casual worker	1-2 times per week	Urban	Urban	56	5	38	1	0	3
+2019-07-19_1730_6	Kitale	M	24	NA	Casual work	Casual worker	1-2 times per week	Urban	Urban	58	5	36	1	0	0
+2019-07-19_1750_10	Kitale	M	28	NA	Formal employment	Security	1-2 times per week	Urban	Urban	63	4	33	0	0	0
+2019-07-19_1769_8	Kitale	M	52	7	Self employment	Hawker	Everyday	Urban	Urban	59	2	38	1	0	0
+2019-07-19_1771_3	Kitale	M	21	NA	Formal employment	Conductor	Everyday	Urban	Urban	50	5	44	1	0	0
+2019-07-19_1787_9	Kitale	F	20	NA			Rarely	Urban	Urban	34	8	56	2	0	0
+2019-07-22_1676_5	Kitale	F	24	1	Self employment	Hotel attendant	1-2 times per week	Urban	Urban	57	3	40	0	0	1
+2019-07-22_1714_3	Kitale	F	32	5	Casual work	Casual worker	1-2 times per week	Urban	Urban	71	4	25	0	0	5
+2019-07-22_1715_6	Kitale	F	18	NA		Student	1-2 times per week	Urban	Urban	56	9	35	0	0	0
+2019-07-22_1717_1	Kitale	F	35	3	Casual work	Casual worker	1-2 times per week	Urban	Urban	41	1	57	0	1	3
+2019-07-22_1735_2	Kitale	M	61	8	Casual work	Casual worker	1-2 times per week	Urban	Urban	41	6	53	0	0	0
+2019-07-22_1764_4	Kitale	M	40	5	Self employment	Businesswoman	1-2 times per week	Urban	Urban	39	4	56	1	0	0
+2019-07-22_1768_8	Kitale	M	38	5	Casual work	Casual worker	1-2 times per week	Urban	Urban	66	2	31	1	0	0
+2019-07-22_1774_9	Kitale	F	36	4	Self employment	Hotel attendant	1-2 times per week	Urban	Urban	52	1	47	0	0	4
+2019-07-22_1776_7	Kitale	M	57	4	Formal employment	Security personnel	1-2 times per week	Urban	Urban	48	0	51	1	0	0
+2019-07-22_1803_10	Kitale	M	37	3	Formal employment	Security personnel	1-2 times per week	Urban	Urban	62	5	33	0	0	0
+2019-07-23_1581_8	Kitale	M	37	1	Self employment	Selling groceries	1-2 times per week	Urban	Urban	50	5	45	0	0	0
+2019-07-23_1626_11	Kitale	F	33	2	Formal employment	Labtech	1-2 times per week	Urban	Urban	72	0	28	0	0	2
+2019-07-23_1703_4	Kitale	M	29	2	Formal employment	Carwash attendant	1-2 times per week	Urban	Urban	65	4	31	0	0	0
+2019-07-23_1705_6	Kitale	M	21	NA		Student	Everyday	Urban	Urban	60	3	37	0	0	0
+2019-07-23_1706_3	Kitale	F	33	3	Self employment	Businesswoman	1-2 times per week	Urban	Urban	48	9	39	4	0	3
+2019-07-23_1716_10	Kitale	M	55	5	Formal employment	Security personnel	1-2 times per week	Urban	Urban	62	6	32	0	0	0
+2019-07-23_1718_2	Kitale	M	25	NA		Student	Everyday	Urban	Urban	39	13	38	10	0	0
+2019-07-23_1727_5	Kitale	F	30	5	Self employment	Selling groceries	Everyday	Urban	Urban	58	5	37	0	0	5
+2019-07-23_1728_9	Kitale	F	24	1	Formal employment	Teacher		Urban	Urban	64	8	26	2	0	1
+2019-07-23_1773_7	Kitale	F	19	NA	Petty trade	Trader	1-2 times per week	Urban	Urban	57	5	35	3	0	0
+2019-07-23_1798_1	Kitale	F	36	4	Farming	Farmer	1-2 times per week	Urban	Urban	63	2	32	3	0	4
+2019-07-24_1508_10	Kitale	M	48	3	Self employment	Hawker	1-2 times per week	Urban	Urban	42	8	50	0	0	0
+2019-07-24_1700_2	Kitale	F	26	1	Self employment	Businesswoman	Everyday	Urban	Urban	71	5	24	0	0	1
+2019-07-24_1702_7	Kitale	F	32	3		Casual worker	1-2 times per week	Urban	Urban	32	5	55	8	0	4
+2019-07-24_1708_8	Kitale	M	34	2		Casual worker	1-2 times per week	Urban	Urban	39	9	52	0	0	0
+2019-07-24_1710_4	Kitale	M	47	2	Formal employment	Security personnel	1-2 times per week	Urban	Urban	51	4	41	4	0	0
+2019-07-24_1711_9	Kitale	F	41	3		Casual worker	1-2 times per week	Urban	Urban	55	0	43	2	0	3
+2019-07-24_1713_5	Kitale	F	47	9		Casual worker	1-2 times per week	Urban	Urban	31	5	60	4	0	9
+2019-07-24_1720_11	Kitale	F	21	NA		Student	Rarely	Urban	Urban	44	9	46	0	1	0
+2019-07-24_1726_3	Kitale	F	47	7		House wife	1-2 times per week	Urban	Urban	27	5	64	4	0	7
+2019-07-24_1732_6	Kitale	M	47	5		Casual worker	1-2 times per week	Urban	Urban	27	7	64	1	1	0
+2019-07-24_1753_1	Kitale	M	20	NA	Formal employment	Casual worker	1-2 times per week	Urban	Urban	41	1	57	1	0	0
+2019-07-25_1654_7	Kitale	F	25	1		House wife	1-2 times per week	Urban	Urban	44	1	53	1	1	1
+2019-07-25_1674_2	Kitale	F	23	1		Casual worker	1-2 times per week	Urban	Urban	39	8	49	3	1	1
+2019-07-25_1683_10	Kitale	M	30	NA	Formal employment	Security	1-2 times per week	Urban	Urban	56	4	40	0	0	0
+2019-07-25_1701_3	Kitale	F	42	6		Casual worker	1-2 times per week	Urban	Urban	48	7	44	1	0	6
+2019-07-25_1704_8	Kitale	M	42	3	Self employment	Hawker	1-2 times per week	Urban	Urban	37	3	60	0	0	0
+2019-07-25_1707_1	Kitale	M	42	11	Formal employment	Security	1-2 times per week	Urban	Urban	60	3	34	3	0	0
+2019-07-25_1709_5	Kitale	F	47	10		Casual worker	1-2 times per week	Urban	Urban	59	2	33	5	1	10
+2019-07-25_1725_6	Kitale	M	19	NA		Student	Everyday	Urban	Urban	42	6	50	2	0	0
+2019-07-25_1725_6	Kitale	M	19	NA		Student	Everyday	Urban	Urban	46	4	44	6	0	0
+2019-07-25_1766_9	Kitale	F	24	1	Self employment	Making local brews	1-2 times per week	Urban	Urban	41	5	54	0	0	1
+2019-07-25_1800_4	Kitale	M	25	2	Self employment	Motorbike rider	1-2 time sper week	Urban	Urban	44	2	54	0	0	0
+2019-07-26_1712_3	Kitale	M	36	1		Casual worker	Everyday	Urban	Urban	60	0	40	0	0	0
+2019-07-26_1736_1	Kitale	F	22	1		Casual worker	1-2 times per week	Urban	Urban	45	9	45	1	0	1
+2019-07-26_1799_2	Kitale	M	49	4	Formal employment	Security personnel	1-2 times per week	Urban	Urban	55	3	41	1	0	0
+2019-07-26_1807_5	Kitale	M	35	3	Formal employment	Security personnel	1-2 times per week	Urban	Urban	44	0	56	0	0	0
+2019-07-26_1808_10	Kitale	M	31	2	Formal employment	Security personnel	1-2 times per week	Urban	Urban	50	8	40	2	0	0
+2019-07-26_1809_8	Kitale	M	24	4	Formal employment	Security personnel	1-2 times per week	Urban	Urban	57	7	35	1	0	0
+2019-07-26_1810_7	Kitale	F	20	2		House wife	Everyday	Urban	Urban	66	5	27	1	1	2
+2019-07-26_1811_6	Kitale	F	22	2		Casual worker	1-2 times per week	Urban	Urban	49	1	49	1	0	2
+2019-07-26_1811_6	Kitale	F	22	2		Casual worker	1-2 times per week	Urban	Urban	56	2	42	0	0	2
+2019-07-26_1812_4	Kitale	F	31	4		Casual worker	Everyday	Urban	Urban	61	2	37	0	0	4
+2019-07-26_1813_9	Kitale	F	23	2		Casual worker	1-2 times per week	Urban	Urban	62	2	34	2	0	2
+2019-07-31_1824_1	Kitale	F	23	2		Casual worker	1-2 times per week	Urban	Urban	62	2	32	4	0	2
+2019-07-31_1827_7	Kitale	F	23	5		Casual worker	1-2 times per week	Urban	Urban	54	7	31	8	0	5
+2019-07-31_1828_8	Kitale	M	27	2	Formal employment	Security personnel	Everyday	Urban	Urban	62	2	35	1	0	0
+2019-07-31_1831_10	Kitale	F	30	2		Casual worker	Rarely	Urban	Urban	51	2	45	2	0	2
+2019-07-31_1836_4	Kitale	F	22	1		Casual worker	1-2 times per week	Urban	Urban	38	5	56	1	0	1
+2019-07-31_1846_9	Kitale	F	30	2		House wife	1-2 times per week	Urban	Urban	40	8	51	1	0	2
+2019-07-31_1846_9	Kitale	F	30	2		House wife	1-2 times per week	Urban	Urban	44	1	55	0	0	2
+2019-07-31_1852_3	Kitale	M	32	1		Casual worker	1-2 times per week	Urban	Urban	52	1	41	6	0	0
+2019-07-31_1863_2	Kitale	M	23	2	Self employment	Electrician	1-2 times per week	Urban	Urban	42	4	49	5	0	0
+2019-07-31_1869_6	Kitale	F	30	5	Self employment	Making local brews	Rarely	Urban	Urban	66	5	28	1	0	5
+2019-07-31_1879_5	Kitale	M	37	2	Formal employment	Security personnel	1-2 times per week	Urban	Urban	48	3	46	3	0	0
+2019-08-01_1815_6	Kitale	F	22	2		House wife	1-2 times per week	Urban	Urban	54	1	43	2	0	2
+2019-08-01_1816_3	Kitale	F	22	2	Self employment	Selling eggs	Everyday	Urban	Urban	42	5	44	8	1	2
+2019-08-01_1818_12	Kitale	M	25	NA	Self employment	Mechanic	1-2 times per week	Urban	Urban	58	3	39	0	0	0
+2019-08-01_1819_5	Kitale	M	33	4	Self employment	Photographer	1-2 times per week	Urban	Urban	47	10	40	3	0	0
+2019-08-01_1821_13	Kitale	F	30	3		House wife	1-2 times per week	Urban	Urban	55	3	33	9	0	3
+2019-08-01_1822_8	Kitale	F	22	2		Casual worker	1-2 times per week	Urban	Urban	52	4	42	2	0	2
+2019-08-01_1825_2	Kitale	F	26	3		House wife	1-2 times per week	Urban	Urban	60	3	32	5	0	3
+2019-08-01_1826_15	Kitale	M	33	1	Self employment	Motorbike rider	1-2 times per week	Urban	Urban	47	7	42	2	2	0
+2019-08-01_1830_14	Kitale	F	35	6		House wife	1-2 times per week	Urban	Urban	57	6	37	0	0	6
+2019-08-01_1833_10	Kitale	F	33	4	Self employment	Making local brews	1-2 times per week	Urban	Urban	53	2	44	1	0	4
+2019-08-01_1848_11	Kitale	F	28	5		Casual worker	1-2 times per week	Urban	Urban	56	0	39	4	1	5
+2019-08-01_1849_4	Kitale	M	30	1	Self employment	Making furniture	1-2 times per week	Urban	Urban	44	2	49	4	1	0
+2019-08-01_1851_1	Kitale	F	30	2	Formal employment	Cook	Everyday	Urban	Urban	60	5	35	0	0	2
+2019-08-01_1853_7	Kitale	M	27	2	Self employment	Motorbike rider	1-2 times per week	Urban	Urban	38	5	56	1	0	0
+2019-08-01_1881_9	Kitale	F	23	1		Casual worker	1-2 times per week	Urban	Urban	62	6	31	1	0	1
+2019-08-02_1818_6	Kitale	F	23	1		Casual worker	Everyday	Urban	Urban	35	6	57	2	0	1
+2019-08-02_1823_13	Kitale	M	50	3	Formal employment	Security personnel	1-2 times per week	Urban	Urban	54	2	43	1	0	0
+2019-08-02_1844_18	Kitale	F	23	1		House wife	1-2 times per week	Urban	Urban	49	8	42	1	0	1
+2019-08-02_1855_15	Kitale	M	31	2	Self employment	Hawker	1-2 times per week	Urban	Urban	49	1	48	2	0	0
+2019-08-02_1864_5	Kitale	F	21	2	Casual work	Casual worker	1-2 times per week	Urban	Urban	40	10	48	2	0	2
+2019-08-02_1875_8	Kitale	F	19	NA	Casual work	Casual worker	1-2 times per week	Urban	Urban	43	2	48	6	1	0
+2019-08-02_1878_12	Kitale	M	33	2	Casual work	Casual worker	1-2 times per week	Urban	Urban	46	6	44	4	0	0
+2019-08-02_1890_9	Kitale	F	42	7	Casual work	Casual worker	1-2 times per week	Urban	Urban	40	4	50	5	1	7
+2019-08-02_1893_19	Kitale	F	25	3	Casual work	Casual worker	1-2 times per week	Urban	Urban	59	3	35	2	1	3
+2019-08-02_1898_14	Kitale	M	33	5	Casual work	Casual worker		Urban	Urban	53	11	32	4	0	0
+2019-08-02_1903_10	Kitale	M	25	2	Casual work	Casual worker	1-2 times per week	Urban	Urban	40	3	55	2	0	0
+2019-08-02_1905_11	Kitale	F	28	2	Casual work	Casual worker	1-2 times per week	Urban	Urban	45	6	39	9	1	2
+2019-08-02_1907_17	Kitale	F	28	5	Self employment	Charcoal seller	1-2 times per week	Urban	Urban	53	4	43	0	0	5
+2019-08-02_1912_7	Kitale	F	20	1	Casual work	Casual worker	Everyday	Urban	Urban	46	1	50	2	1	1
+2019-08-05_1835_7	Kitale	F	25	3	Self employment	Hair dressing	1-2 times per week	Urban	Urban	57	6	34	3	0	3
+2019-08-05_1847_9	Kitale	M	31	2	Self employment	Hawker	1-2 times per week	Urban	Urban	50	6	44	0	0	0
+2019-08-05_1860_6	Kitale	M	26	1	Self employment	Hawker	Everyday	Urban	Urban	51	12	35	1	1	0
+2019-08-05_1874_5	Kitale	M	19	NA	Self employment	Carwash attendant	1-2 times per week	Urban	Urban	46	7	41	4	2	0
+2019-08-05_1877_11	Kitale	F	23	2	Formal employment	Hotel attendant	Everyday	Urban	Urban	50	5	40	5	0	2
+2019-08-05_1884_3	Kitale	M	22	NA	Casual work	Casual worker	1-2 times per week	Urban	Urban	40	3	46	9	2	0
+2019-08-05_1891_2	Kitale	F	37	4	Casual work	Casual worker	1-2 times per week	Urban	Urban	56	8	35	0	1	4
+2019-08-05_1894_12	Kitale	F	23	2	Casual work	Casual worker	Everyday	Urban	Urban	52	4	41	3	0	2
+2019-08-05_1902_4	Kitale	M	52	6	Casual work	Casual worker	Everyday	Urban	Urban	48	5	38	9	0	0
+2019-08-05_1910_10	Kitale	F	25	2	Self employment	Making local brews	1-2 times per week	Urban	Urban	46	3	45	6	0	2
+2019-08-06_1817_5	Kitale	F	28	6	Casual work	Casual worker	1-2 times per week	Urban	Urban	52	3	39	6	0	6
+2019-08-06_1834_3	Kitale	M	23	1	Casual work	Casual worker	Fresh	Urban	Urban	47	5	47	1	0	0
+2019-08-06_1859_8	Kitale	M	50	3	Casual work	Casual worker	1-2 times per week	Urban	Urban	61	6	33	0	0	0
+2019-08-06_1861_10	Kitale	M	31	8	Formal employment	Security	1-2 times per week	Urban	Urban	50	13	36	1	0	0
+2019-08-06_1865_7	Kitale	F	25	2	Casual work	Casual worker	1-2 times per week	Urban	Urban	63	2	32	3	0	2
+2019-08-06_1872_11	Kitale	F	25	3	Self employment	Making local brews	1-2 times per week	Urban	Urban	62	3	35	0	0	3
+2019-08-06_1883_6	Kitale	M	32	2	Construction	Constructor	1-2 times per week	Urban	Urban	64	4	32	0	0	0
+2019-08-06_1885_4	Kitale	M	25	2	Casual work	Casual worker	1-2 times per week	Urban	Urban	49	1	50	0	0	0
+2019-08-06_1888_12	Kitale	F	22	3		House wife	1-2 times per week	Urban	Urban	47	8	45	0	0	3
+2019-08-06_1896_2	Kitale	F	30	3	Self employment	Tailor	Everyday	Urban	Urban	49	1	45	4	1	3
+2019-08-06_1900_1	Kitale	F	28	2	Formal employment	Counsellor	Everyday	Urban	Urban	70	0	28	2	0	2
+2019-08-07_1814_7	Kitale	F	21	2	Casual work	Casual worker	1-2 times per week	Urban	Urban	53	2	43	2	0	2
+2019-08-07_1854_3	Kitale	F	55	9	Casual work	Casual worker	1-2 times per week	Urban	Urban	45	5	40	10	0	10
+2019-08-07_1866_6	Kitale	M	23	NA	Farming	Farmer	1-2 times per week	Urban	Urban	63	2	32	3	0	0
+2019-08-07_1870_10	Kitale	F	20	2	Self employment	Hawker	1-2 times per week	Urban	Urban	47	6	43	4	0	2
+2019-08-07_1871_5	Kitale	M	72	5	Casual work	Casual worker	1-2 times per week	Urban	Urban	50	3	43	4	0	0
+2019-08-07_1882_8	Kitale	M	23	3	Casual work	Casual worker	1-2 times per week	Urban	Urban	58	2	38	1	1	0
+2019-08-07_1887_4	Kitale	M	73	3	Formal employment	Security	1-2 times per week	Urban	Urban	54	7	34	5	0	0
+2019-08-07_1892_9	Kitale	F	28	2	Self employment	Selling local brews	1-2 times per week	Urban	Urban	53	9	35	3	0	2
+2019-08-07_1901_1	Kitale	M	27	2	Construction work	Construction work	Everyday	Urban	Urban	51	6	43	0	0	0
+2019-08-07_1911_2	Kitale	F	42	9	Casual work	Casual worker	1-2 times per week	Urban	Urban	56	1	40	3	0	9
+2019-11-05_2003_2	Lochor Lamaala	M	39	4	Animal keeping	Pastoralist	Everyday	Urban	Urban	36	11	46	7	0	0
+2019-11-05_2004_6	Lochor Lamaala	F	47	5	Animal keeping	Pastoralist	Everyday	Urban	Urban	39	8	50	3	0	5
+2019-11-05_2007_8	Lochor Lamaala	F	50	9	Animal keeping	Pastoralist	More than 2 times per week	Urban	Urban	65	5	30	0	0	9
+2019-11-05_2009_10	Lochor Lamaala	F	51	8	Animal keeping	Pastoralist	More than 2 times per week	Urban	Urban	50	10	33	7	0	8
+2019-11-05_2011_7	Lochor Lamaala	F	44	7	Animal keeping	Pastoralist	More than 2 times per week	Urban	Urban	53	9	34	4	0	7
+2019-11-05_2016_13	Lochor Lamaala	F	48	6	Animal keeping	Pastoralist	Everyday	Urban	Urban	52	9	32	7	0	6
+2019-11-05_2017_9	Lochor Lamaala	F	53	5	Animal keeping	Pastoralist	Everyday	Urban	Urban	40	8	52	0	0	5
+2019-11-05_2022_11	Lochor Lamaala	F	41	6	Animal keeping	Pastoralist	Everyday	Urban	Urban	58	4	37	1	0	6
+2019-11-05_2026_16	Lochor Lamaala	F	35	4	Animal keeping	Pastoralist	More than 2 times per week	Urban	Urban	41	8	46	5	0	4
+2019-11-06_2001_6	Lochor Lamaala	M	31	5	Animal keeping	Pastoralist	Rarely	Urban	Urban	51	5	41	3	0	0
+2019-11-06_2002_18	Lochor Lamaala	M	33	NA	Animal keeping	Pastoralist	Everyday	Urban	Urban	43	2	51	1	0	0
+2019-11-06_2006_11	Lochor Lamaala	F	34	2	Animal keeping	Pastoralist	More than 2 times per week	Urban	Urban	43	6	48	3	0	2
+2019-11-06_2010_16	Lochor Lamaala	M	48	9	Animal keeping	Pastoralist	Everyday	Urban	Urban	51	11	37	1	0	0
+2019-11-06_2013_15	Lochor Lamaala	F	38	5	Animal keeping	Pastoralist	Rarely	Urban	Urban	36	8	56	0	0	5
+2019-11-06_2020_9	Lochor Lamaala	F	43	4	Animal keeping	Pastoralist	Everyday	Urban	Urban	48	2	48	4	0	2
+2019-11-06_2021_12	Lochor Lamaala	F	37	6	Animal keeping	Pastoralist	More than 2 times per week	Urban	Urban	46	4	49	1	0	6
+2019-11-06_2023_12	Lochor Lamaala	F	29	1	Animal keeping	Pastoralist	Everyday	Urban	Urban	41	5	45	9	0	2
+2019-11-06_2024_17	Lochor Lamaala	M	36	4	Animal keeping	Pastoralist	Everyday	Urban	Urban	53	4	41	1	1	0
+2019-11-06_2025_15	Lochor Lamaala	M	32	14	Animal keeping	Pastoralist	Everyday	Urban	Urban	42	2	53	2	1	0
+2019-11-06_2029_4	Lochor Lamaala	M	48	16	Animal keeping	Pastoralist	More than 2 times per week	Urban	Urban	27	8	64	1	0	0
+2019-11-06_2033_22	Lochor Lamaala	F	28	2	Animal keeping	Pastoralist	Everyday	Urban	Urban	49	9	37	5	0	3
+2019-11-06_2035_2	Lochor Lamaala	M	50	20	Animal keeping	Pastoralist	More than 2 times per week	Urban	Urban	53	2	38	7	0	0
+2019-11-06_2039_3	Lochor Lamaala	M	57	6	Animal keeping	Pastoralist	More than 2 times per week	Urban	Urban	53	3	44	0	0	0
+2019-11-06_2042_21	Lochor Lamaala	F	73	13	Animal keeping	Pastoralist	Everyday	Urban	Urban	38	4	56	2	0	14
+2019-11-06_2043_20	Lochor Lamaala	F	43	5	Animal keeping	Pastoralist	Everyday	Urban	Urban	45	8	46	1	0	7
+2019-11-06_2044_19	Lochor Lamaala	M	56	13	Animal keeping	Pastoralist	Everyday	Urban	Urban	44	10	38	8	0	0
+2019-11-06_2045_8	Lochor Lamaala	F	27	1	Animal keeping	Pastoralist	Rarely	Urban	Urban	61	2	35	1	1	1
+2019-11-06_2046_5	Lochor Lamaala	M	33	6	Animal keeping	Pastoralist	More than 2 times per week	Urban	Urban	55	9	32	4	0	0
+2019-11-06_2048_1	Lochor Lamaala	M	70	11	Animal keeping	Pastoralist	More than 2 times per week	Urban	Urban	32	4	57	7	0	0
+2019-11-07_2018_6	Lochor Lamaala	M	21	5	Animal keeping	Pastoralist	Everyday	Urban	Urban	49	3	46	2	0	0
+2019-11-07_2027_15	Lochor Lamaala	F	42	4	Animal keeping	Pastoralist	Everyday	Urban	Urban	51	4	45	0	0	6
+2019-11-07_2028_13	Lochor Lamaala	F	60	6	Animal keeping	Pastoralist	Everyday	Urban	Urban	43	4	52	1	0	8
+2019-11-07_2031_20	Lochor Lamaala	F	49	5	Animal keeping	Pastoralist	Everyday	Urban	Urban	44	9	44	3	0	5
+2019-11-07_2034_10	Lochor Lamaala	F	28	3	Animal keeping	Pastoralist	Rarely	Urban	Urban	54	3	41	2	0	3
+2019-11-07_2036_3	Lochor Lamaala	M	41	4	Animal keeping	Pastoralist	Everyday	Urban	Urban	50	4	44	2	0	0
+2019-11-07_2037_14	Lochor Lamaala	F	27	4	Animal keeping	Pastoralist	Everyday	Urban	Urban	52	3	44	1	0	4
+2019-11-07_2040_18	Lochor Lamaala	F	42	5	Animal keeping	Pastoralist		Urban	Urban	64	1	34	0	1	5
+2019-11-07_2047_7	Lochor Lamaala	M	27	3	Animal keeping	Pastoralist	Everyday	Urban	Urban	48	3	46	3	0	0
+2019-11-07_2049_17	Lochor Lamaala	F	65	6	Animal keeping	Pastoralist	Rarely	Urban	Urban	49	2	48	1	0	6
+2019-11-07_2050_19	Lochor Lamaala	F	46	6	Animal keeping	Pastoralist	Rarely	Urban	Urban	47	2	51	0	0	6
+2019-11-07_2051_4	Lochor Lamaala	M	63	14	Animal keeping	Pastoralist	Everyday	Urban	Urban	42	9	46	3	0	0
+2019-11-07_2052_2	Lochor Lamaala	M	49	12	Animal keeping	Pastoralist	Everyday	Urban	Urban	51	1	41	7	0	0
+2019-11-07_2053_1	Lochor Lamaala	M	49	7	Animal keeping	Pastoralist	Everyday	Urban	Urban	52	10	31	7	0	0
+2019-11-07_2054_9	Lochor Lamaala	F	29	2	Animal keeping	Pastoralist	Everyday	Urban	Urban	52	3	43	2	0	3
+2019-11-07_2055_12	Lochor Lamaala	F	38	7	Animal keeping	Pastoralist	Everyday	Urban	Urban	42	0	58	0	0	8
+2019-11-07_2056_11	Lochor Lamaala	F	65	8	Animal keeping	Pastoralist	Everyday	Urban	Urban	33	5	59	3	0	8
+2019-11-07_2057_8	Lochor Lamaala	F	32	7	Animal keeping	Pastoralist	Everyday	Urban	Urban	55	2	39	3	1	9
+2019-11-07_2058_29	Lochor Lamaala	F	2	2	Animal keeping	Pastoralist	Rarely	Urban	Urban	37	3	60	0	0	2
+2019-11-07_2059_22	Lochor Lamaala	F	26	3	Animal keeping	Pastoralist		Urban	Urban	37	3	59	1	0	3
+2019-11-07_2060_28	Lochor Lamaala	F	37	3	Animal keeping	Pastoralist	Everyday	Urban	Urban	58	4	38	0	0	3
+2019-11-07_2061_25	Lochor Lamaala	F	62	6	Animal keeping	Pastoralist	Everyday	Urban	Urban	60	4	31	5	0	6
+2019-11-07_2062_26	Lochor Lamaala	F	53	6	Animal keeping	Pastoralist	Everyday	Urban	Urban	45	1	54	0	0	7
+2019-11-07_2063_24	Lochor Lamaala	F	30	1	Animal keeping	Pastoralist	Rarely	Urban	Urban	53	7	37	3	0	1
